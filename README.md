@@ -6,7 +6,12 @@ A python module for interacting with a darkstar server.
 
 ###### LINUX
 
+* Linux already comes with python.
+
 ```bash
+sudo apt-get install git
+sudo apt-get install pip
+
 sudo pip install sqlalchemy
 sudo pip install pymysql
 sudo pip install beautifulsoup4
@@ -14,22 +19,60 @@ sudo pip install pyyaml
 
 git clone git@github.com:AdamGagorik/pydarkstar.git
 
-cd ./pydarkstar
+# enter the correct path!
+  
+cd ./path/to/pydarkstar
 python ./makebin.py
 cd ./bin
-./scrub.sh --help
+
+# copy scrub.yaml, broker.yaml, items.csv from the data to the bin directory
+# edit scrub.yaml, broker.yaml with your settings
+
+# to download new data from ffxiah.com (takes forever)
+./scrub.sh
+
+# to start the broker
+./broker.sh
 ```
 
 ###### WINDOWS
 
-```bash
-*&#@$*&#@%!!! MAGIC WINDOWS GIT & PYTHON SETUP
+* Setting up Python on Windows can be painful if you are not familiar with shell scripting, PATH variables, etc.
+* It may be easier to install a Python distribution such as Anaconda (http://continuum.io/downloads).
 
-cd .\pydarkstar
-python .\makebin.py
-cd .\bin
-.\scrub.bat --help
-```
+* Install Git
+* Install Python Anaconda
+* Open Anaconda command prompt from the start menu
+
+  ```bash
+  > conda update conda
+  
+  # when prompted, enter 'y' for yes
+  
+  > conda install sqlalchemy
+  > conda install pymysql
+  > conda install beautiful-soup
+  > conda install pymysql
+  ```
+* Clone pydarkstar repository
+* Create pydarkstar shell scripts (see Usage section for more info)
+
+  ```bash
+  # enter the correct path!
+
+  cd C:\path\to\pydarkstar
+  python .\makebin.py
+  cd .\bin
+  
+  # copy scrub.yaml, broker.yaml, items.csv from the data to the bin directory
+  # edit scrub.yaml, broker.yaml with your settings
+
+  # to download new data from ffxiah.com (takes forever)
+  .\scrub.bat
+
+  # to start the broker
+  .\broker.bat
+  ```
 
 # Features
 * create prices database
@@ -61,11 +104,12 @@ git clone git@github.com:AdamGagorik/pydarkstar.git
 
 # Usage
 
-They main scripts, located in ./path/to/pydarkstar/apps, **will not work** unless you do one of the following:
+The main scripts, located in ./path/to/pydarkstar/apps, **will not work** unless you tell python
+where the pydarkstar module is located.
 
 ## option 1
 
-Create shell scripts (using the included makebin.py)
+Create shell scripts, using the included makebin.py
 
 ###### LINUX
 
@@ -120,59 +164,6 @@ python C:\Path\To\pydarkstar\apps\scrub.py %*
 
 ```bat
 .\scrub.bat --help
-```
-
-## option 3
-
-Add to PYTHONPATH temporarily, before calling a script.
-
-###### LINUX
-
-```bash
-cd ./path/to/pydarkstar/
-export PYTHONPATH=$PYTHONPATH:/path/to/pydarkstar/
-python ./scrub.py --help
-```
-
-###### WINDOWS
-
-```bash
-cd C:\Path\To\pydarkstar\apps
-set PYTHONPATH=%PYTHONPATH%;C:\Path\To\pydarkstar
-python .\scrub.py --help
-```
-
-## option 4
-
-Add to PYTHONPATH permanently.
-
-###### LINUX
-
-```bash
-echo "PYTHONPATH=$PYTHONPATH:/path/to/pydarkstar/" >> ~/.bashrc
-source ~/.bashrc
-```
-
-```bash
-cd ./path/to/pydarkstar/apps
-python ./scrub.py --help
-```
-
-###### WINDOWS
-
-Edit your environment variables using the control panel, setting the PYTHONPATH.
-
-## option 5
-
-Install module.
-
-###### LINUX
-
-```bash
-cd ./path/to/pydarkstar/
-python setup.py
-cd ./apps
-python scrub.py --help
 ```
 
 # Apps
