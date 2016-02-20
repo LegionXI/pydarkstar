@@ -1,0 +1,12 @@
+This document explains how to use the fields in the csv file.
+
+itemid  : Item ID
+name    : Item Name
+sell01  : sell singles. 1=on 0=off
+buy01   : buy singles.  1=on 0=off
+price01 : price of singles
+stock01 : number of single to stock
+sell12  : sell stacks. 1=on 0=off, zero if not a stackable item!
+buy12   : buy stacks.  1=on 0=off, zero if not a stackable item!
+price12 : price of stacks
+stock12 : number of stacks to stock
