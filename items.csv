@@ -1,2 +1,769 @@
  itemid, name, sell01, buy01, price01, stock01, sell12, buy12, price12, stock12
-2, Simple Bed,      1,     1,    4000,       9,      0,     0,       0,       0
+2, Simple Bed,1,1,4000,9,0,0,0,0
+107,Water Jug,1,1,182,9,0,0,0,0
+112,Yellow Jar,1,1,456,9,0,0,0,0
+188,Acolyte's Grief,1,1,31224,9,0,0,0,0
+189,Autumn's End,1,1,36000,9,0,0,0,0
+217,Brass Flowerpot,1,1,920,9,0,0,0,0
+605,Pickaxe,1,1,180,9,1,1,,5
+610,San d'Orian Flour,1,1,54,9,1,1,,5
+611,Rye Flour,1,1,36,9,1,1,,5
+612,Kazham Peppers,1,1,54,9,1,1,,5
+614,Mhaura Garlic,1,1,72,9,1,1,,5
+617,Ginger,1,1,139,9,1,1,,5
+618,Blue Peas,1,1,25,9,1,1,,5
+619,Popoto,1,1,43,9,1,1,,5
+621,Crying Mustard,1,1,25,9,1,1,,5
+622,Dried Marjoram,1,1,43,9,1,1,,5
+623,Bay Leaves,1,1,117,9,1,1,,5
+624,Pamtam Kelp,1,1,47,9,1,1,,5
+625,Apple Vinegar,1,1,66,9,1,1,,5
+626,Black Pepper,1,1,255,9,1,1,,5
+628,Cinnamon,1,1,234,9,1,1,,5
+629,Millioncorn,1,1,48,9,1,1,,5
+630,Ogre Pumpkin,1,1,86,9,1,1,,5
+631,Horo Flour,1,1,36,9,1,1,,5
+632,Kukuru Bean,1,1,108,9,1,1,,5
+633,Olive Oil,1,1,14,9,1,1,,5
+635,Windurstian Tea Leaves,1,1,18,9,1,1,,5
+636,Chamomile,1,1,117,9,1,1,,5
+638,Sage,1,1,166,9,1,1,,5
+639,Chestnut,1,1,108,9,1,1,,5
+640,Copper Ore,1,1,10,9,1,1,,5
+657,Tama-Hagane,1,1,4690,9,1,1,,5
+688,Arrowwood Log,1,1,18,9,1,1,,5
+689,Lauan Log,1,1,32,9,1,1,,5
+691,Maple Log,1,1,54,9,1,1,,5
+698,Ash Log,1,1,86,9,1,1,,5
+704,Bamboo Stick,1,1,96,9,1,1,,5
+721,Rattan Lumber,1,1,144,9,1,1,,5
+795,Lapis Lazuli,1,1,1676,9,1,1,18000,5
+796,Light Opal,1,1,1676,9,1,1,18000,5
+799,Onyx,1,1,1676,9,1,1,18000,5
+800,Amethyst,1,1,1676,9,1,1,18000,5
+806,Tourmaline,1,1,1676,9,1,1,18000,5
+807,Sardonyx,1,1,1676,9,1,1,18000,5
+809,Clear Topaz,1,1,1676,9,1,1,18000,5
+814,Amber,1,1,1676,9,1,1,18000,5
+829,Silk Cloth,1,1,7500,9,1,1,,5
+840,Chocobo Feather,1,1,7,9,1,1,,5
+841,Yagudo Feather,1,1,36,9,1,1,,5
+864,Fish Scales,1,1,86,9,1,1,,5
+915,Toad Oil,1,1,2700,9,1,1,,5
+916,Cactuar Needle,1,1,837,9,1,1,,5
+924,Fiend Blood,1,1,556,9,1,1,,5
+928,Bomb Ash,1,1,473,9,1,1,,5
+936,Rock Salt,1,1,16,9,1,1,,5
+943,Poison Dust,1,1,294,9,1,1,,5
+944,Venom Dust,1,1,1035,9,1,1,,5
+951,Wijnruit,1,1,108,9,1,1,,5
+952,Poison Flour,1,1,515,9,1,1,,5
+954,Magic Pot Shard,1,1,1000,9,1,1,,5
+1020,Sickle,1,1,300,9,1,1,,5
+1021,Hatchet,1,1,500,9,1,1,,5
+1022,Thief's Tools,1,1,3643,9,1,1,,5
+1023,Living Key,1,1,5520,9,1,1,,5
+1108,Sulfur,1,1,688,9,1,1,,5
+1120,Casablanca,1,1,1620,9,1,1,,5
+1134,Bast Parchment,1,1,810,9,1,1,,5
+1155,Iron Sand,1,1,100,9,1,1,,5
+1161,Uchitake,1,1,66,9,1,1,,5
+1164,Tsurara,1,1,30,9,1,1,,5
+1167,Kawahori-Ogi,1,1,58,9,1,1,,5
+1170,Makibishi,1,1,58,9,1,1,,5
+1173,Hiraishin,1,1,56,9,1,1,,5
+1176,Mizu-Deppo,1,1,44,9,1,1,,5
+1239,Goblin Doll,1,1,490,9,1,1,,5
+1240,Koma,1,1,165,9,1,1,,5
+1410,Sweet William,1,1,1620,9,1,1,,5
+1411,Phalaenopsis,1,1,1620,9,1,1,,5
+1412,Olive Flower,1,1,1620,9,1,1,,5
+1413,Cattleya,1,1,1620,9,1,1,,5
+1415,Urushi,1,1,5147,9,1,1,,5
+1421,Shirataki,1,1,369,9,1,1,,5
+1471,Sticky Rice,1,1,316,9,1,1,,5
+1472,Gardenia Seed,1,1,369,9,1,1,,5
+1475,Curry Powder,1,1,579,9,1,1,,5
+1523,Apple Mint,1,1,284,9,1,1,,5
+1554,Turmeric,1,1,431,9,1,1,,5
+1555,Coriander,1,1,1061,9,1,1,,5
+1590,Holy Basil,1,1,536,9,1,1,,5
+1650,Kopparnickel Ore,1,1,500,9,1,1,,5
+1652,Rice Vinegar,1,1,150,9,1,1,,5
+1817,Cactus Arm,1,1,728,9,1,1,,5
+1840,Semolina,1,1,1800,9,1,1,,5
+2176,Fire Card,1,1,48,9,1,1,,5
+2177,Ice Card,1,1,48,9,1,1,,5
+2178,Wind Card,1,1,48,9,1,1,,5
+2179,Earth Card,1,1,48,9,1,1,,5
+2180,Thunder Card,1,1,48,9,1,1,,5
+2181,Water Card,1,1,48,9,1,1,,5
+2182,Light Card,1,1,48,9,1,1,,5
+2183,Dark Card,1,1,48,9,1,1,,5
+2213,Pine Nuts,1,1,12,9,1,1,,5
+2214,Imperial Rice,1,1,68,9,1,1,,5
+2235,Wildgrass Seeds,1,1,320,9,1,1,,5
+2237,Imperial Flour,1,1,60,9,1,1,,5
+2239,Tension Spring,1,1,4940,9,1,1,,5
+2240,Inhibitor,1,1,9925,9,1,1,,5
+2242,Mana Booster,1,1,9925,9,1,1,,5
+2243,Loudspeaker,1,1,4940,9,1,1,,5
+2246,Accelerator,1,1,4940,9,1,1,,5
+2247,Scope,1,1,9925,9,1,1,,5
+2250,Shock Absorber,1,1,9925,9,1,1,,5
+2251,Armor Plate,1,1,4940,9,1,1,,5
+2254,Stabilizer,1,1,4940,9,1,1,,5
+2255,Volt Gun,1,1,9925,9,1,1,,5
+2258,Mana Jammer,1,1,4940,9,1,1,,5
+2260,Stealth Screen,1,1,9925,9,1,1,,5
+2262,Auto-Repair Kit,1,1,4940,9,1,1,,5
+2264,Damage Gauge,1,1,9925,9,1,1,,5
+2266,Mana Tank,1,1,4940,9,1,1,,5
+2268,Mana Conserver,1,1,9925,9,1,1,,5
+2271,Coffee Beans,1,1,316,9,1,1,,5
+2554,Asphodel,1,1,100,9,1,1,,5
+2792,Catalytic Oil,1,1,92,9,1,1,,5
+4112,Potion,1,1,837,9,1,1,,5
+4116,Hi-Potion,1,1,900,9,1,1,,5
+4128,Ether,1,1,1000,9,1,1,,5
+4132,Hi-Ether,1,1,500,9,1,1,,5
+4148,Antidote,1,1,290,9,1,1,,5
+4150,Eye Drops,1,1,500,9,1,1,,5
+4151,Echo Drops,1,1,736,9,1,1,,5
+4154,Holy Water,1,1,3000,9,1,1,,5
+4155,Remedy,1,1,2400,9,1,1,,5
+4163,Blinding Potion,1,1,1092,9,1,1,,5
+4352,Derfland Pear,1,1,126,9,1,1,,5
+4359,Dhalmel Meat,1,1,216,9,1,1,,5
+4360,Bastore Sardine,1,1,41,9,1,1,,5
+4361,Nebimonite,1,1,1289,9,1,1,,5
+4363,Faerie Apple,1,1,39,9,1,1,,5
+4365,Rolanberry,1,1,120,9,1,1,,5
+4366,La Theine Cabbage,1,1,21,9,1,1,,5
+4372,Giant Sheep Meat,1,1,43,9,1,1,,5
+4375,Danceshroom,1,1,4032,9,1,1,,5
+4376,Meat Jerky,1,1,108,9,1,1,,5
+4378,Selbina Milk,1,1,54,9,1,1,,5
+4382,Frost Turnip,1,1,28,9,1,1,,5
+4383,Gold Lobster,1,1,1134,9,1,1,,5
+4384,Black Sole,1,1,5250,9,1,1,,5
+4385,Zafmlug Bass,1,1,235,9,1,1,,5
+4388,Eggplant,1,1,44,9,1,1,,5
+4389,San d'Orian Carrot,1,1,28,9,1,1,,5
+4390,Mithran Tomato,1,1,36,9,1,1,,5
+4391,Bretzel,1,1,21,9,1,1,,5
+4392,Saruta Orange,1,1,28,9,1,1,,5
+4398,Fish Mithkabob,1,1,993,9,1,1,,5
+4399,Bluetail,1,1,1350,9,1,1,,5
+4403,Yellow Globe,1,1,155,9,1,1,,5
+4405,Rice Ball,1,1,144,9,1,1,,5
+4410,Roast Mushroom,1,1,344,9,1,1,,5
+4412,Thundermelon,1,1,295,9,1,1,,5
+4415,Roasted Corn,1,1,111,9,1,1,,5
+4422,Orange Juice,1,1,180,9,1,1,,5
+4423,Apple Juice,1,1,276,9,1,1,,5
+4424,Melon Juice,1,1,1012,9,1,1,,5
+4431,San d'Orian Grape,1,1,68,9,1,1,,5
+4432,Kazham Pineapl.,1,1,54,9,1,1,,5
+4432,Kazham Pineapple,1,1,54,9,1,1,,5
+4436,Baked Popoto,1,1,294,9,1,1,,5
+4441,Grape Juice,1,1,855,9,1,1,,5
+4442,Pineapple Juice,1,1,368,9,1,1,,5
+4443,Cobalt Jellyfish,1,1,63,9,1,1,,5
+4444,Rarab Tail,1,1,21,9,1,1,,5
+4445,Yagudo Cherry,1,1,39,9,1,1,,5
+4450,Coral Fungus,1,1,679,9,1,1,,5
+4451,Silver Shark,1,1,3000,9,1,1,,5
+4455,Pebble Soup,1,1,184,9,1,1,,5
+4457,Eel Kabob,1,1,2700,9,1,1,,5
+4458,Goblin Bread,1,1,276,9,1,1,,5
+4461,Bastore Bream,1,1,4050,9,1,1,,5
+4467,Garlic Cracker,1,1,3,9,1,1,,5
+4468,Pamamas,1,1,72,9,1,1,,5
+4472,Crayfish,1,1,38,9,1,1,,5
+4479,Bhefhel Marlin,1,1,1350,9,1,1,,5
+4480,Gugru Tuna,1,1,375,9,1,1,,5
+4481,Ogre Eel,1,1,291,9,1,1,,5
+4482,Nosteau Herring,1,1,736,9,1,1,,5
+4483,Tiger Cod,1,1,509,9,1,1,,5
+4484,Shall Shell,1,1,3312,9,1,1,,5
+4485,Noble Lady,1,1,2100,9,1,1,,5
+4490,Pickled Herring,1,1,441,9,1,1,,5
+4491,Watermelon,1,1,182,9,1,1,,5
+4495,Goblin Chocolate,1,1,35,9,1,1,,5
+4499,Iron Bread,1,1,92,9,1,1,,5
+4500,Greedie,1,1,24,9,1,1,,5
+4503,Buburimu Grape,1,1,180,9,1,1,,5
+4505,Sunflower Seeds,1,1,90,9,1,1,,5
+4509,Distilled Water,1,1,12,9,1,1,,5
+4514,Quus,1,1,60,9,1,1,,5
+4536,Blackened Frog,1,1,3133,9,1,1,,5
+4539,Goblin Pie,1,1,650,9,1,1,,5
+4543,Goblin Mushpot,1,1,1140,9,1,1,,5
+4545,Gysahl Greens,1,1,61,9,1,1,,5
+4556,Icecap Rolanberry,1,1,5544,9,1,1,,5
+4571,Beaugreens,1,1,90,9,1,1,,5
+4578,Sausage,1,1,143,9,1,1,,5
+4589,Scroll of Shock Spikes,1,1,8280,9,0,0,0,0
+4609,Scroll of Cure,1,1,61,9,0,0,0,0
+4610,Scroll of Cure II,1,1,585,9,0,0,0,0
+4611,Cure III,1,1,3344,9,0,0,0,0
+4612,Cure IV (Scroll),1,1,23400,9,0,0,0,0
+4614,Cure VI (Scroll),1,1,141137,9,0,0,0,0
+4615,Scroll of Curaga ,1,1,1363,9,0,0,0,0
+4616,Curaga II (Scroll),1,1,11200,9,0,0,0,0
+4617,Curaga III (Scroll),1,1,19932,9,0,0,0,0
+4620,Raise,1,1,5293,9,0,0,0,0
+4622,Scroll of Poisona ,1,1,180,9,0,0,0,0
+4623,Scroll of Paralyna,1,1,324,9,0,0,0,0
+4624,Scroll of Blindna ,1,1,990,9,0,0,0,0
+4625,Scroll of Silena,1,1,2330,9,0,0,0,0
+4626,Scroll of Stona,1,1,19200,9,0,0,0,0
+4627,Scroll of Viruna,1,1,13300,9,0,0,0,0
+4628,Cursna (Scroll),1,1,8568,9,0,0,0,0
+4629,Holy (Scroll),1,1,31500,9,0,0,0,0
+4631,Scroll of Dia,1,1,82,9,0,0,0,0
+4632,Dia II,1,1,10304,9,0,0,0,0
+4636,Scroll of Banish,1,1,140,9,0,0,0,0
+4637,Banish II,1,1,8280,9,0,0,0,0
+4638,Banish III,1,1,50000,9,0,0,0,0
+4641,Scroll of Diaga,1,1,1165,9,0,0,0,0
+4646,Scroll of Banishga ,1,1,1165,9,0,0,0,0
+4647,Banishga II (Scroll),1,1,20000,9,0,0,0,0
+4651,Scroll of Protect,1,1,219,9,0,0,0,0
+4652,Protect II,1,1,6508,9,0,0,0,0
+4653,Protect III (Scroll),1,1,32000,9,0,0,0,0
+4654,Protect IV,1,1,77350,9,0,0,0,0
+4655,Haste,1,1,18400,9,0,0,0,0
+4656,Scroll of Shell ,1,1,1584,9,0,0,0,0
+4657,Shell II,1,1,16192,9,0,0,0,0
+4658,Scroll of Shell III,1,1,26244,9,0,0,0,0
+4660,Shell V (Scroll),1,1,125069,9,0,0,0,0
+4661,Scroll of Blink,1,1,2097,9,0,0,0,0
+4662,Scroll of Stoneskin ,1,1,7025,9,0,0,0,0
+4663,Scroll of Aquaveil,1,1,360,9,0,0,0,0
+4664,Scroll of Slow,1,1,837,9,0,0,0,0
+4668,Scroll of Barfire,1,1,1760,9,0,0,0,0
+4669,Scroll of Barblizzard,1,1,3624,9,0,0,0,0
+4670,Scroll of Baraero,1,1,930,9,0,0,0,0
+4671,Scroll of Barstone,1,1,156,9,0,0,0,0
+4672,Scroll of Barthunder,1,1,5754,9,0,0,0,0
+4673,Scroll of Barwater,1,1,360,9,0,0,0,0
+4674,Scroll of Barfira,1,1,1760,9,0,0,0,0
+4675,Scroll of Barblizzara,1,1,3624,9,0,0,0,0
+4676,Scroll of Baraera,1,1,930,9,0,0,0,0
+4677,Scroll of Barstonra,1,1,156,9,0,0,0,0
+4678,Scroll of Barthundra,1,1,5754,9,0,0,0,0
+4679,Scroll of Barwatera,1,1,360,9,0,0,0,0
+4680,Scroll of Barsleep,1,1,244,9,0,0,0,0
+4681,Scroll of Barpoison,1,1,400,9,0,0,0,0
+4682,Scroll of Barparalyze,1,1,780,9,0,0,0,0
+4683,Scroll of Barblind,1,1,2030,9,0,0,0,0
+4684,Scroll of Barsilence,1,1,4608,9,0,0,0,0
+4685,Scroll of Barpetrify,1,1,15120,9,0,0,0,0
+4686,Scroll of Barvirus,1,1,9600,9,0,0,0,0
+4690,Baramnesia (Scroll),1,1,27820,9,0,0,0,0
+4691,Baramnesra (Scroll),1,1,27820,9,0,0,0,0
+4694,Scroll of Barsleepra,1,1,244,9,0,0,0,0
+4695,Scroll of Barpoisonra,1,1,400,9,0,0,0,0
+4696,Scroll of Barparalyzra,1,1,780,9,0,0,0,0
+4697,Scroll of Barblindra,1,1,2030,9,0,0,0,0
+4698,Scroll of Barsilencera,1,1,4608,9,0,0,0,0
+4699,Scroll of Barpetra,1,1,15120,9,0,0,0,0
+4700,Scroll of Barvira,1,1,9600,9,0,0,0,0
+4701,Cura (Scroll),1,1,20092,9,0,0,0,0
+4702,Sacrifice (Scroll),1,1,4000,9,0,0,0,0
+4703,Esuna (Scroll),1,1,4584,9,0,0,0,0
+4704,Auspice (Scroll),1,1,30967,9,0,0,0,0
+4708,Enfire (Scroll),1,1,4747,9,0,0,0,0
+4709,Enblizzard (Scroll),1,1,3770,9,0,0,0,0
+4710,Enaero (Scroll),1,1,2300,9,0,0,0,0
+4711,Enstone (Scroll),1,1,1867,9,0,0,0,0
+4712,Enthunder (Scroll),1,1,1393,9,0,0,0,0
+4713,Enwater (Scroll),1,1,6508,9,0,0,0,0
+4716,Regen (Scroll),1,1,3974,9,0,0,0,0
+4718,Regen II (Scroll),1,1,7203,9,0,0,0,0
+4720,Flash,1,1,20000,9,0,0,0,0
+4734,Protectra II (Scroll),1,1,7074,9,0,0,0,0
+4735,Scroll of Protectra III,1,1,19200,9,0,0,0,0
+4736,Protectra IV (Scroll),1,1,85500,9,0,0,0,0
+4738,Scroll of Shellra,1,1,17600,9,0,0,0,0
+4739,Scroll of Shellra II,1,1,14080,9,0,0,0,0
+4740,Scroll of Shellra III,1,1,26244,9,0,0,0,0
+4744,Invisible,1,1,5293,9,0,0,0,0
+4745,Sneak,1,1,2300,9,0,0,0,0
+4746,Deodorize,1,1,5293,9,0,0,0,0
+4750,Reraise III (Scroll),1,1,99375,9,0,0,0,0
+4752,Scroll of Fire,1,1,837,9,0,0,0,0
+4753,Fire II (Scroll),1,1,16744,9,0,0,0,0
+4754,Fire III,1,1,10000,9,0,0,0,0
+4757,Scroll of Blizzard ,1,1,1584,9,0,0,0,0
+4758,Blizzard II (Scroll),1,1,22113,9,0,0,0,0
+4759,Blizzard III,1,1,10000,9,0,0,0,0
+4762,Scroll of Aero,1,1,324,9,0,0,0,0
+4763,Aero II (Scroll),1,1,12103,9,0,0,0,0
+4764,Aero III,1,1,8000,9,0,0,0,0
+4767,Scroll of Stone ,1,1,61,9,0,0,0,0
+4768,Scroll of Stone II,1,1,5814,9,0,0,0,0
+4769,Stone III,1,1,19932,9,0,0,0,0
+4772,Scroll of Thunder,1,1,3261,9,0,0,0,0
+4773,Scroll of Thunder II,1,1,28250,9,0,0,0,0
+4774,Thunder III,1,1,45930,9,0,0,0,0
+4777,Scroll of Water ,1,1,140,9,0,0,0,0
+4778,Scroll of Water II,1,1,8100,9,0,0,0,0
+4779,Water III,1,1,22682,9,0,0,0,0
+4782,Firaga (Scroll),1,1,7103,9,0,0,0,0
+4787,Blizzaga (Scroll),1,1,10829,9,0,0,0,0
+4792,Aeroga (Scroll),1,1,4193,9,0,0,0,0
+4797,Scroll of Stonega,1,1,1191,9,0,0,0,0
+4802,Scroll of Thundaga,1,1,15456,9,0,0,0,0
+4807,Scroll of Waterga,1,1,2143,9,0,0,0,0
+4828,Scroll of Poison,1,1,82,9,0,0,0,0
+4829,Poison II,1,1,25200,9,0,0,0,0
+4833,Poisonga,1,1,5160,9,0,0,0,0
+4838,Scroll of Bio,1,1,360,9,0,0,0,0
+4839,Bio II (Scroll),1,1,12740,9,0,0,0,0
+4843,Scroll of Burn,1,1,4464,9,0,0,0,0
+4844,Scroll of Frost ,1,1,3688,9,0,0,0,0
+4845,Scroll of Choke,1,1,2250,9,0,0,0,0
+4846,Scroll of Rasp ,1,1,1827,9,0,0,0,0
+4847,Scroll of Shock,1,1,1363,9,0,0,0,0
+4848,Scroll of Drown,1,1,6366,9,0,0,0,0
+4849,Scroll of Addle,1,1,130378,9,0,0,0,0
+4854,Drain II,1,1,30780,9,0,0,0,0
+4859,Shock Spikes (Scroll),1,1,8190,9,0,0,0,0
+4860,Stun (Scroll),1,1,27000,9,0,0,0,0
+4861,Scroll of Sleep,1,1,2250,9,0,0,0,0
+4862,Scroll of Blind,1,1,111,9,0,0,0,0
+4867,Sleep II,1,1,18720,9,0,0,0,0
+4868,Dispel,1,1,63700,9,0,0,0,0
+4876,Absorb-VIT (Scroll),1,1,3000,9,0,0,0,0
+4877,Absorb-AGI (Scroll),1,1,4270,9,0,0,0,0
+4878,Absorb-INT (Scroll),1,1,3528,9,0,0,0,0
+4879,Absorb-MND (Scroll),1,1,14070,9,0,0,0,0
+4880,Absorb-CHR (Scroll),1,1,14070,9,0,0,0,0
+4881,Sleepga,1,1,10304,9,0,0,0,0
+4883,Absorb-TP,1,1,27000,9,0,0,0,0
+4885,Dread Spikes,1,1,70650,9,0,0,0,0
+4886,Absorb-ACC,1,1,30000,9,0,0,0,0
+4912,Distract,1,1,18032,9,0,0,0,0
+4914,Frazzle,1,1,25038,9,0,0,0,0
+4928,Katon: Ichi (Scroll),1,1,1561,9,0,0,0,0
+4931,Hyoton: Ichi (Scroll),1,1,1747,9,0,0,0,0
+4934,Huton: Ichi (Scroll),1,1,1561,9,0,0,0,0
+4937,Doton: Ichi (Scroll),1,1,1561,9,0,0,0,0
+4940,Raiton: Ichi (Scroll),1,1,1747,9,0,0,0,0
+4943,Suiton: Ichi (Scroll),1,1,1561,9,0,0,0,0
+4964,Monomi: Ichi (Scroll),1,1,8726,9,0,0,0,0
+4976,Foe Requiem (Scroll),1,1,66,9,0,0,0,0
+4977,Foe Requiem II (Scroll),1,1,450,9,0,0,0,0
+4978,Foe Requiem III (Scroll),1,1,4048,9,0,0,0,0
+4979,Foe Requiem IV (Scroll),1,1,7065,9,0,0,0,0
+4982,Foe Requiem VII (Scroll),1,1,47196,9,0,0,0,0
+4986,Army's Paeon (Scroll),1,1,38,9,0,0,0,0
+4987,Army's Paeon II (Scroll),1,1,328,9,0,0,0,0
+4988,Army's Paeon III (Scroll),1,1,3312,9,0,0,0,0
+4989,Army's Paeon IV (Scroll),1,1,6072,9,0,0,0,0
+4991,Army's Paeon VI (Scroll),1,1,48944,9,0,0,0,0
+5002,Valor Minuet (Scroll),1,1,22,9,0,0,0,0
+5003,Valor Minuet II (Scroll),1,1,1126,9,0,0,0,0
+5004,Valor Minuet III (Scroll),1,1,5667,9,0,0,0,0
+5006,Valor Minuet V (Scroll),1,1,53820,9,0,0,0,0
+5023,Goblin Gavotte (Scroll),1,1,8160,9,0,0,0,0
+5039,Herculean Etude (Scroll),1,1,20000,9,0,0,0,0
+5040,Uncanny Etude (Scroll),1,1,78200,9,0,0,0,0
+5041,Vital Etude (Scroll),1,1,70656,9,0,0,0,0
+5042,Swift Etude (Scroll),1,1,15000,9,0,0,0,0
+5043,Sage Etude (Scroll),1,1,19000,9,0,0,0,0
+5044,Logical Etude (Scroll),1,1,10000,9,0,0,0,0
+5045,Bewitching Etude (Scroll),1,1,10000,9,0,0,0,0
+5046,Fire Carol (Scroll),1,1,6380,9,0,0,0,0
+5047,Ice Carol (Scroll),1,1,7440,9,0,0,0,0
+5048,Wind Carol (Scroll),1,1,5940,9,0,0,0,0
+5049,Earth Carol (Scroll),1,1,4600,9,0,0,0,0
+5050,Lightning Carol (Scroll),1,1,7920,9,0,0,0,0
+5051,Water Carol (Scroll),1,1,5000,9,0,0,0,0
+5052,Light Carol (Scroll),1,1,4200,9,0,0,0,0
+5053,Dark Carol (Scroll),1,1,8400,9,0,0,0,0
+5063,Ice Threnody (Scroll),1,1,1000,9,0,0,0,0
+5069,Dark Threnody (Scroll),1,1,199,9,0,0,0,0
+5073,Chocobo Mazurka (Scroll),1,1,50784,9,0,0,0,0
+5075,Raptor Mazurka (Scroll),1,1,4400,9,0,0,0,0
+5082,Cura II (Scroll),1,1,88389,9,0,0,0,0
+5085,Regen IV,1,1,50400,9,0,0,0,0
+5087,Scroll of Gain-STR,1,1,89804,9,0,0,0,0
+5088,Scroll of Gain-DEX,1,1,99613,9,0,0,0,0
+5089,Scroll of Gain-VIT,1,1,73740,9,0,0,0,0
+5090,Scroll of Gain-AGI,1,1,86680,9,0,0,0,0
+5091,Scroll of Gain-INT,1,1,94461,9,0,0,0,0
+5092,Scroll of Gain-MND,1,1,77500,9,0,0,0,0
+5093,Scroll of Gain-CHR,1,1,81900,9,0,0,0,0
+5094,Scroll of Boost-STR,1,1,89804,9,0,0,0,0
+5095,Scroll of Boost-DEX,1,1,99613,9,0,0,0,0
+5096,Scroll of Boost-VIT,1,1,73740,9,0,0,0,0
+5097,Scroll of Boost-AGI,1,1,85680,9,0,0,0,0
+5098,Scroll of Boost-INT,1,1,94461,9,0,0,0,0
+5099,Scroll of Boost-MND,1,1,77500,9,0,0,0,0
+5100,Scroll of Boost-CHR,1,1,81900,9,0,0,0,0
+5103,Crusade (Scroll),1,1,143451,9,0,0,0,0
+5106,Scroll of Inundation,1,1,73500,9,0,0,0,0
+5164,Ground Wasabi,1,1,1945,9,0,0,0,0
+5165,Movalpolos Water,1,1,720,9,0,0,0,0
+5187,Elshimo Coconut,1,1,158,9,0,0,0,0
+5195,Misareaux Parsley,1,1,233,9,0,0,0,0
+5235,Napa,1,1,187,9,0,0,0,0
+5236,Shungiku,1,1,224,9,0,0,0,0
+5299,Salsa,1,1,133,9,0,0,0,0
+5458,Yilanbaligi,1,1,1200,9,0,0,0,0
+5459,Sazanbaligi,1,1,1800,9,0,0,0,0
+5460,Kayabaligi,1,1,4650,9,0,0,0,0
+5461,Alabaligi,1,1,130,9,0,0,0,0
+5477,Warrior Die,1,1,68000,9,0,0,0,0
+5478,Monk Die,1,1,22400,9,0,0,0,0
+5479,White Mage Die,1,1,5000,9,0,0,0,0
+5480,Black Mage Die,1,1,108000,9,0,0,0,0
+5481,Red Mage Die,1,1,62000,9,0,0,0,0
+5482,Thief Die,1,1,50400,9,0,0,0,0
+5483,Paladin Die,1,1,90750,9,0,0,0,0
+5484,Dark Knight Die,1,1,2205,9,0,0,0,0
+5485,Beastmaster Die,1,1,26600,9,0,0,0,0
+5486,Bard Die,1,1,12780,9,0,0,0,0
+5487,Ranger Die,1,1,1300,9,0,0,0,0
+5488,Samurai Die,1,1,35200,9,0,0,0,0
+5489,Ninja Die,1,1,600,9,0,0,0,0
+5490,Dragoon Die,1,1,82500,9,0,0,0,0
+5491,Summoner Die,1,1,40000,9,0,0,0,0
+5492,Blue Mage Die,1,1,3525,9,0,0,0,0
+5493,Corsair Die,1,1,316,9,0,0,0,0
+5494,Puppetmaster Die,1,1,9216,9,0,0,0,0
+5495,Dancer Die,1,1,63375,9,0,0,0,0
+5496,Scholar Die,1,1,68250,9,0,0,0,0
+5567,Dried Date,1,1,200,9,0,0,0,0
+5570,Chai,1,1,68,9,0,0,0,0
+5572,Irmik Helvasi,1,1,2075,9,0,0,0,0
+5576,Ayran,1,1,800,9,0,0,0,0
+5577,Sutlac,1,1,1500,9,0,0,0,0
+5590,Balik Sandvici,1,1,3750,9,0,0,0,0
+5592,Imperial Coffee,1,1,450,9,0,0,0,0
+5598,Sis Kebabi,1,1,2000,9,0,0,0,0
+5600,Balik Sis,1,1,3000,9,0,0,0,0
+5604,El. Pachira Fruit,1,1,154,9,0,0,0,0
+6041,Pyrohelix (Scroll),1,1,15750,9,0,0,0,0
+6042,Hydrohelix (Scroll),1,1,13325,9,0,0,0,0
+6043,Ionohelix (Scroll),1,1,18375,9,0,0,0,0
+6044,Cryohelix (Scroll),1,1,16450,9,0,0,0,0
+6045,Geohelix (Scroll),1,1,12675,9,0,0,0,0
+6046,Anemohelix (Scroll),1,1,13975,9,0,0,0,0
+6047,Luminohelix (Scroll),1,1,19875,9,0,0,0,0
+6048,Noctohelix (Scroll),1,1,19125,9,0,0,0,0
+6049,Firestorm (Scroll),1,1,8060,9,0,0,0,0
+6050,Rainstorm (Scroll),1,1,6318,9,0,0,0,0
+6051,Thunderstorm (Scroll),1,1,9100,9,0,0,0,0
+6052,Hailstorm (Scroll),1,1,8580,9,0,0,0,0
+6053,Sandstorm (Scroll),1,1,5200,9,0,0,0,0
+6054,Windstorm (Scroll),1,1,6786,9,0,0,0,0
+6055,Aurorastorm (Scroll),1,1,11440,9,0,0,0,0
+6056,Voidstorm (Scroll),1,1,10325,9,0,0,0,0
+8918,Soot,1,1,567,9,0,0,0,0
+12289,Lauan Shield,1,1,110,9,0,0,0,0
+12290,Maple Shield,1,1,556,9,0,0,0,0
+12291,Elm Shield,1,1,1815,9,0,0,0,0
+12292,Mahogany Shield,1,1,4980,9,0,0,0,0
+12293,Oak Shield,1,1,15600,9,0,0,0,0
+12295,Round Shield,1,1,40000,9,0,0,0,0
+12300,Targe,1,1,11076,9,0,0,0,0
+12301,Buckler,1,1,31201,9,0,0,0,0
+12302,Darksteel Buckler,1,1,10000,9,0,0,0,0
+12416,Sallet,1,1,10000,9,0,0,0,0
+12424,Iron Mask,1,1,3500,9,0,0,0,0
+12432,Faceguard,1,1,1334,9,0,0,0,0
+12433,Brass Mask,1,1,2500,9,0,0,0,0
+12440,Leather Bandana,1,1,404,9,0,0,0,0
+12448,Bronze Cap,1,1,154,9,0,0,0,0
+12449,Brass Cap,1,1,1504,9,0,0,0,0
+12450,Padded Cap,1,1,4000,9,0,0,0,0
+12455,Beetle Mask,1,1,7026,9,0,0,0,0
+12456,Hachimaki,1,1,552,9,0,0,0,0
+12458,Soil Hachimaki,1,1,8972,9,0,0,0,0
+12464,Headgear,1,1,1781,9,0,0,0,0
+12466,Red Cap,1,1,3000,9,0,0,0,0
+12467,Wool Cap,1,1,5000,9,0,0,0,0
+12473,Poet's Circlet,1,1,1904,9,0,0,0,0
+12474,Wool Hat,1,1,5000,9,0,0,0,0
+12537,Cotton Hachimaki,1,1,3272,9,0,0,0,0
+12552,Chainmail,1,1,5000,9,0,0,0,0
+12554,Banded Mail,1,1,9000,9,0,0,0,0
+12560,Scale Mail,1,1,2051,9,0,0,0,0
+12561,Brass Scale Mail,1,1,6000,9,0,0,0,0
+12568,Leather Vest,1,1,618,9,0,0,0,0
+12576,Bronze Harness,1,1,235,9,0,0,0,0
+12577,Brass Harness,1,1,2286,9,0,0,0,0
+12578,Padded Armor,1,1,10000,9,0,0,0,0
+12583,Beetle Harness,1,1,4000,9,0,0,0,0
+12584,Kenpogi,1,1,833,9,0,0,0,0
+12585,Cotton Dogi,1,1,4931,9,0,0,0,0
+12586,Soil Gi,1,1,10000,9,0,0,0,0
+12592,Doublet,1,1,2525,9,0,0,0,0
+12594,Gambison,1,1,10000,9,0,0,0,0
+12595,Wool Gambison,1,1,20000,9,0,0,0,0
+12600,Robe,1,1,220,9,0,0,0,0
+12601,Linen Robe,1,1,2838,9,0,0,0,0
+12602,Wool Robe,1,1,2000,9,0,0,0,0
+12608,Tunic,1,1,1288,9,0,0,0,0
+12609,Black Tunic,1,1,9423,9,0,0,0,0
+12610,Cloak,1,1,10000,9,0,0,0,0
+12680,Chain Mittens,1,1,8460,9,0,0,0,0
+12682,Mufflers,1,1,5000,9,0,0,0,0
+12688,Scale Finger Gauntlets,1,1,1094,9,0,0,0,0
+12689,Brass Finger Gauntlets,1,1,9479,9,0,0,0,0
+12696,Leather Gloves,1,1,331,9,0,0,0,0
+12704,Bronze Mittens,1,1,128,9,0,0,0,0
+12705,Brass Mittens,1,1,1255,9,0,0,0,0
+12706,Iron Mittens,1,1,3000,9,0,0,0,0
+12711,Beetle Mittens,1,1,5707,9,0,0,0,0
+12712,Tekko,1,1,458,9,0,0,0,0
+12713,Cotton Tekko,1,1,2000,9,0,0,0,0
+12714,Soil Tekko,1,1,2713,9,0,0,0,0
+12720,Gloves,1,1,1393,9,0,0,0,0
+12722,Bracers,1,1,3000,9,0,0,0,0
+12728,Cuffs,1,1,121,9,0,0,0,0
+12729,Linen Cuffs,1,1,1605,9,0,0,0,0
+12730,Wool Cuffs,1,1,3000,9,0,0,0,0
+12736,Mitts,1,1,602,9,0,0,0,0
+12737,White Mitts,1,1,4395,9,0,0,0,0
+12738,Linen Mitts,1,1,3000,9,0,0,0,0
+12800,Cuisses,1,1,5000,9,0,0,0,0
+12808,Chain Hose,1,1,8000,9,0,0,0,0
+12810,Breeches,1,1,10000,9,0,0,0,0
+12816,Scale Cuisses,1,1,1646,9,0,0,0,0
+12817,Brass Cuisses,1,1,3000,9,0,0,0,0
+12824,Leather Trousers,1,1,493,9,0,0,0,0
+12825,Lizard Trousers,1,1,5003,9,0,0,0,0
+12832,Bronze Subligar,1,1,191,9,0,0,0,0
+12833,Brass Subligar,1,1,1840,9,0,0,0,0
+12835,Beetle Subligar,1,1,3000,9,0,0,0,0
+12836,Iron Subligar,1,1,5000,9,0,0,0,0
+12840,Sitabaki,1,1,666,9,0,0,0,0
+12841,Cotton Sitabaki,1,1,2000,9,0,0,0,0
+12842,Soil Sitabaki,1,1,10805,9,0,0,0,0
+12848,Brais,1,1,1899,9,0,0,0,0
+12850,Hose,1,1,7500,9,0,0,0,0
+12851,Wool Hose,1,1,10000,9,0,0,0,0
+12856,Slops,1,1,176,9,0,0,0,0
+12857,Linen Slops,1,1,2318,9,0,0,0,0
+12858,Wool Slops,1,1,3000,9,0,0,0,0
+12864,Slacks,1,1,860,9,0,0,0,0
+12865,Black Slacks,1,1,6279,9,0,0,0,0
+12866,Linen Slacks,1,1,5000,9,0,0,0,0
+12928,Plate Leggings,1,1,7000,9,0,0,0,0
+12933,Sandals,1,1,4084,9,0,0,0,0
+12936,Greaves,1,1,7740,9,0,0,0,0
+12938,Sollerets,1,1,10000,9,0,0,0,0
+12944,Scale Greaves,1,1,998,9,0,0,0,0
+12944,Shoes,1,1,14352,9,0,0,0,0
+12945,Brass Greaves,1,1,8419,9,0,0,0,0
+12952,Leather Highboots,1,1,309,9,0,0,0,0
+12953,Lizard Ledelsens,1,1,3162,9,0,0,0,0
+12954,Studded Boots,1,1,3000,9,0,0,0,0
+12955,Cuir Highboots,1,1,8000,9,0,0,0,0
+12960,Bronze Leggings,1,1,117,9,0,0,0,0
+12961,Brass Leggings,1,1,1140,9,0,0,0,0
+12962,Leggings,1,1,5000,9,0,0,0,0
+12967,Beetle Leggings,1,1,5332,9,0,0,0,0
+12968,Kyahan,1,1,424,9,0,0,0,0
+12969,Cotton Kyahan,1,1,2528,9,0,0,0,0
+12970,Soil Kyahan,1,1,5000,9,0,0,0,0
+12976,Gaiters,1,1,1297,9,0,0,0,0
+12978,Socks,1,1,5000,9,0,0,0,0
+12979,Wool Socks,1,1,10000,9,0,0,0,0
+12984,Ash Clogs,1,1,114,9,0,0,0,0
+12985,Holly Clogs,1,1,1495,9,0,0,0,0
+12986,Chestnut Sabots,1,1,9180,9,0,0,0,0
+12992,Solea,1,1,556,9,0,0,0,0
+13076,Fang Necklace,1,1,3510,9,0,0,0,0
+13080,Gorget,1,1,16891,9,0,0,0,0
+13088,Darksteel Nodowa,1,1,5000,9,0,0,0,0
+13092,Coeurl Gorget,1,1,2877,9,0,0,0,0
+13111,Nodowa,1,1,7000,9,0,0,0,0
+13192,Leather Belt,1,1,391,9,0,0,0,0
+13196,Silver Belt,1,1,10278,9,0,0,0,0
+13198,Swordbelt,1,1,20037,9,0,0,0,0
+13199,Blood Stone,1,1,95,9,0,0,0,0
+13321,Bone Earring,1,1,1667,9,0,0,0,0
+13327,Silver Earring,1,1,1150,9,0,0,0,0
+13328,Mythril Earring,1,1,4140,9,0,0,0,0
+13454,Copper Ring,1,1,80,9,0,0,0,0
+13456,Silver Ring,1,1,1150,9,0,0,0,0
+13465,Brass Ring,1,1,184,9,0,0,0,0
+13469,Leather Ring,1,1,1150,9,0,0,0,0
+13568,Scarlet Ribbon,1,1,1250,9,0,0,0,0
+13577,Black Cape,1,1,11088,9,0,0,0,0
+13979,Silver Bangles,1,1,5000,9,0,0,0,0
+16385,Cesti,1,1,132,9,0,0,0,0
+16390,Bronze Knuckles,1,1,224,9,0,0,0,0
+16391,Brass Knuckles,1,1,828,9,0,0,0,0
+16400,Darksteel Katars,1,1,16000,9,0,0,0,0
+16401,Jamadhars,1,1,40000,9,0,0,0,0
+16405,Cat Baghnakhs,1,1,106,9,0,0,0,0
+16406,Baghnakhs,1,1,14428,9,0,0,0,0
+16407,Brass Baghnakhs,1,1,1554,9,0,0,0,0
+16411,Claws,1,1,11746,9,0,0,0,0
+16419,Patas,1,1,10000,9,0,0,0,0
+16448,Bronze Dagger,1,1,143,9,0,0,0,0
+16449,Brass Dagger,1,1,855,9,0,0,0,0
+16450,Dagger,1,1,1867,9,0,0,0,0
+16460,Kris,1,1,5000,9,0,0,0,0
+16465,Bronze Knife,1,1,150,9,0,0,0,0
+16466,Knife,1,1,2231,9,0,0,0,0
+16512,Bilbo,1,1,3215,9,0,0,0,0
+16517,Degen,1,1,9406,9,0,0,0,0
+16530,Xiphos,1,1,618,9,0,0,0,0
+16531,Brass Xiphos,1,1,3523,9,0,0,0,0
+16535,Bronze Sword,1,1,246,9,0,0,0,0
+16536,Iron Sword,1,1,7286,9,0,0,0,0
+16537,Mythril Sword,1,1,10000,9,0,0,0,0
+16551,Sapara,1,1,776,9,0,0,0,0
+16552,Scimitar,1,1,4525,9,0,0,0,0
+16553,Tulwar,1,1,20000,9,0,0,0,0
+16558,Falchion,1,1,10000,9,0,0,0,0
+16565,Spatha,1,1,1711,9,0,0,0,0
+16583,Claymore,1,1,2448,9,0,0,0,0
+16584,Mythril Claymore,1,1,20000,9,0,0,0,0
+16640,Bronze Axe,1,1,284,9,0,0,0,0
+16641,Brass Axe,1,1,1435,9,0,0,0,0
+16657,Tabar,1,1,20000,9,0,0,0,0
+16658,Darksteel Tabar,1,1,50000,9,0,0,0,0
+16704,Butterfly Axe,1,1,672,9,0,0,0,0
+16705,Greataxe,1,1,4550,9,0,0,0,0
+16768,Bronze Zaghnal,1,1,316,9,0,0,0,0
+16769,Brass Zaghnal,1,1,2599,9,0,0,0,0
+16770,Zaghnal,1,1,12540,9,0,0,0,0
+16774,Scythe,1,1,10596,9,0,0,0,0
+16832,Harpoon,1,1,99,9,0,0,0,0
+16833,Bronze Spear,1,1,792,9,0,0,0,0
+16834,Brass Spear,1,1,4680,9,0,0,0,0
+16835,Spear,1,1,2000,9,0,0,0,0
+16836,Halberd,1,1,4450,9,0,0,0,0
+16845,Lance,1,1,16578,9,0,0,0,0
+16871,Kamayari,1,1,10000,9,0,0,0,0
+16896,Kunai,1,1,517,9,0,0,0,0
+16900,Wakizashi,1,1,1404,9,0,0,0,0
+16917,Suzume,1,1,4226,9,0,0,0,0
+16919,Shinobi-Gatana,1,1,2728,9,0,0,0,0
+16960,Uchigatana,1,1,3121,9,0,0,0,0
+16966,Tachi,1,1,1836,9,0,0,0,0
+16973,Homura,1,1,10000,9,0,0,0,0
+16974,Dotanuki,1,1,30000,9,0,0,0,0
+16975,Kanesada,1,1,11583,9,0,0,0,0
+16982,Nodachi,1,1,4752,9,0,0,0,0
+16987,Okanehira,1,1,12253,9,0,0,0,0
+16988,Kotetsu,1,1,14676,9,0,0,0,0
+16993,Peeled Crayfish,1,1,64,9,1,1,,5
+16998,Insect Ball,1,1,36,9,1,1,,5
+17005,Lufaise Fly,1,1,97,9,1,1,,5
+17016,Pet Food Alpha,1,1,11,9,1,1,,5
+17017,Pet Food Beta,1,1,82,9,1,1,,5
+17018,Pet Food Gamma Biscuit,1,1,350,9,1,1,,5
+17019,Pet Food Delta Biscuit,1,1,500,9,1,1,,5
+17020,Pet Food Epsilon Biscuit,1,1,750,9,1,1,,5
+17021,Pet Food Zeta Biscuit,1,1,1000,9,1,1,,5
+17022,Pet Food Eta Biscuit,1,1,1500,9,1,1,,5
+17023,Pet Food Theta Biscuit,1,1,2000,9,1,1,,5
+17024,Ash Club,1,1,66,9,0,0,0,0
+17025,Chestnut Club,1,1,1740,9,0,0,0,0
+17027,Oak Cudgel,1,1,3000,9,0,0,0,0
+17034,Bronze Mace,1,1,172,9,0,0,0,0
+17035,Mace,1,1,2000,9,0,0,0,0
+17036,Mythril Mace,1,1,7500,9,0,0,0,0
+17042,Bronze Hammer,1,1,312,9,0,0,0,0
+17043,Brass Hammer,1,1,2129,9,0,0,0,0
+17044,Warhammer,1,1,5000,9,0,0,0,0
+17049,Maple Wand,1,1,47,9,0,0,0,0
+17050,Willow Wand,1,1,340,9,0,0,0,0
+17051,Yew Wand,1,1,1440,9,0,0,0,0
+17059,Bronze Rod,1,1,92,9,0,0,0,0
+17060,Rod,1,1,2439,9,0,0,0,0
+17061,Mythril Rod,1,1,4000,9,0,0,0,0
+17081,Brass Rod,1,1,834,9,0,0,0,0
+17088,Ash Staff,1,1,58,9,0,0,0,0
+17089,Holly Staff,1,1,584,9,0,0,0,0
+17090,Elm Staff,1,1,3245,9,0,0,0,0
+17095,Ash Pole,1,1,386,9,0,0,0,0
+17096,Holly Pole,1,1,2000,9,0,0,0,0
+17097,Elm Pole,1,1,2000,9,0,0,0,0
+17098,Oak Pole,1,1,10000,9,0,0,0,0
+17152,Shortbow,1,1,40,9,0,0,0,0
+17153,Self Bow,1,1,493,9,0,0,0,0
+17154,Wrapped Bow,1,1,2000,9,0,0,0,0
+17155,Composite Bow,1,1,5000,9,0,0,0,0
+17160,Longbow,1,1,452,9,0,0,0,0
+17162,Great Bow,1,1,10000,9,0,0,0,0
+17216,Light Crossbow,1,1,165,9,0,0,0,0
+17217,Crossbow,1,1,2166,9,0,0,0,0
+17248,Arquebus,1,1,5308,9,0,0,0,0
+17259,Pirate's Gun,1,1,20000,9,0,0,0,0
+17265,Tanegashima,1,1,25732,9,0,0,0,0
+17267,Negoroshiki,1,1,15000,9,0,0,0,0
+17284,Chakram,1,1,6000,9,0,0,0,0
+17285,Moonring Blade,1,1,20000,9,0,0,0,0
+17298,Tathlum,1,1,294,9,1,1,0,5
+17301,Shuriken,1,1,29,9,1,1,0,5
+17302,Juji Shuriken,1,1,347,9,1,1,0,5
+17303,Manji Shuriken,1,1,3926,9,1,1,0,5
+17304,Fuma Shuriken,1,1,10000,9,1,1,0,5
+17307,Dart,1,1,10,9,1,1,0,5
+17308,Hawkeye,1,1,60,9,1,1,0,5
+17313,Grenade,1,1,1204,9,1,1,0,5
+17314,Quake Grenade,1,1,7333,9,1,1,0,5
+17315,Riot Grenade,1,1,5520,9,1,1,0,5
+17316,Bomb Arm,1,1,690,9,1,1,0,5
+17318,Wooden Arrow,1,1,3,9,1,1,0,5
+17319,Bone Arrow,1,1,4,9,1,1,0,5
+17320,Iron Arrow,1,1,8,9,1,1,0,5
+17321,Silver Arrow,1,1,16,9,1,1,0,5
+17322,Fire Arrow,1,1,81,9,1,1,0,5
+17336,Crossbow Bolt,1,1,5,9,1,1,0,5
+17337,Mythril Bolt,1,1,22,9,1,1,0,5
+17340,Bullet,1,1,58,9,1,1,0,5
+17344,Cornette,1,1,224,9,0,0,0,0
+17345,Flute,1,1,44,9,0,0,0,0
+17351,Gemshorn,1,1,4747,9,0,0,0,0
+17353,Maple Harp,1,1,44,9,0,0,0,0
+17382,Single Hook Fishing Rod,1,1,11845,9,0,0,0,0
+17387,Tarutaru F. Rod,1,1,4077,9,0,0,0,0
+17388,Fastwater Fishing Rod,1,1,1238,9,0,0,0,0
+17389,Bamboo Fishing Rod,1,1,496,9,0,0,0,0
+17390,Yew Fishing Rod,1,1,217,9,0,0,0,0
+17391,Willow Fishing Rod,1,1,66,9,0,0,0,0
+17395,Lugworm,1,1,9,9,1,1,,5
+17396,Little Worm,1,1,3,9,1,1,,5
+17399,Sabiki Rig,1,1,2394,9,1,1,,5
+17400,Sinking Minnow,1,1,691,9,1,1,,5
+17407,Minnow,1,1,270,9,1,1,,5
+17802,Kiku-Ichimonji,1,1,20000,9,1,1,,5
+17860,Carrot Broth,1,1,82,9,1,1,,5
+17862,Bug Broth,1,1,695,9,1,1,,5
+17864,Herbal Broth,1,1,126,9,1,1,,5
+17866,Carrion Broth,1,1,695,9,1,1,,5
+17876,Fish Broth,1,1,165,9,1,1,,5
+17880,Seedbed Soil,1,1,695,9,1,1,,5
+17920,Meaty Broth,1,1,2196,9,1,1,,5
+17921,Muddy Broth,1,1,2853,9,1,1,,5
+17922,Blackwater Broth,1,1,1484,9,1,1,,5
+18258,Throwing Tomahawk,1,1,248,9,1,1,,5
+18259,Angon,1,1,248,9,1,1,,5
+18731,Automaton Oil,1,1,200,9,1,1,,5
+18732,Automat. Oil Plus 1,1,1,500,9,1,1,,5
+18733,Automat. Oil Plus 2,1,1,1000,9,1,1,,5
+19251,Pet Roborant,1,1,300,9,1,1,,5
+19252,Pet Poultice,1,1,250,9,1,1,,5
+21444,Livid Broth,1,1,200,9,1,1,,5
+21445,Lyrical Broth,1,1,344,9,1,1,,5
+21446,Airy Broth,1,1,591,9,1,1,,5
+21447,Crumbly Soil,1,1,1016,9,1,1,,5
+21448,Pale Sap,1,1,1747,9,1,1,,5
+21449,Dire Broth,1,1,3004,9,1,1,,5
+21496,Furious Broth,1,1,1305,9,1,1,,5
+21497,Rapid Broth,1,1,2371,9,1,1,,5
+21498,Crackling Broth,1,1,1474,9,1,1,,5
+21499,Creepy Broth,1,1,2425,9,1,1,,5
