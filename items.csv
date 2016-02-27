@@ -1,5 +1,5 @@
- itemid, name, sell01, buy01, price01, stock01, sell12, buy12, price12, stock12
-2, Simple Bed,1,1,4000,9,0,0,0,0
+itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
+2,Simple Bed,1,1,4000,9,0,0,0,0
 107,Water Jug,1,1,182,9,0,0,0,0
 112,Yellow Jar,1,1,456,9,0,0,0,0
 188,Acolyte's Grief,1,1,31224,9,0,0,0,0
@@ -226,16 +226,16 @@
 4612,Scroll Of Cure IV,1,1,23400,9,0,0,0,0
 4613,Scroll Of Cure V,0,0,0,0,0,0,0,0
 4614,Scroll of Cure VI,1,1,141137,9,0,0,0,0
-4615,Scroll of Curaga ,1,1,1363,9,0,0,0,0
+4615,Scroll of Curaga,1,1,1363,9,0,0,0,0
 4616,Scroll Of Curaga II,1,1,11200,9,0,0,0,0
 4617,Scroll Of Curaga III,1,1,19932,9,0,0,0,0
 4618,Scroll Of Curaga IV,1,1,10000,1,0,0,0,0
 4619,Scroll Of Curaga V,0,0,0,0,0,0,0,0
 4620,Scroll Of Raise,1,1,5293,9,0,0,0,0
 4621,Scroll Of Raise II,1,1,20000,2,0,0,0,0
-4622,Scroll of Poisona ,1,1,180,9,0,0,0,0
+4622,Scroll of Poisona,1,1,180,9,0,0,0,0
 4623,Scroll of Paralyna,1,1,324,9,0,0,0,0
-4624,Scroll of Blindna ,1,1,990,9,0,0,0,0
+4624,Scroll of Blindna,1,1,990,9,0,0,0,0
 4625,Scroll of Silena,1,1,2330,9,0,0,0,0
 4626,Scroll of Stona,1,1,19200,9,0,0,0,0
 4627,Scroll of Viruna,1,1,13300,9,0,0,0,0
@@ -248,20 +248,20 @@
 4637,Scroll Of Banish II,1,1,8280,9,0,0,0,0
 4638,Scroll Of Banish III,1,1,50000,9,0,0,0,0
 4641,Scroll of Diaga,1,1,1165,9,0,0,0,0
-4646,Scroll of Banishga ,1,1,1165,9,0,0,0,0
+4646,Scroll of Banishga,1,1,1165,9,0,0,0,0
 4647,Scroll Of Banishga II,1,1,20000,9,0,0,0,0
 4651,Scroll of Protect V,1,1,219,9,0,0,0,0
 4652,Scroll Of Protect II,1,1,6508,9,0,0,0,0
 4653,Scroll Of Protect III,1,1,32000,9,0,0,0,0
 4654,Scroll Of Protect IV,1,1,77350,9,0,0,0,0
 4655,Scroll Of Haste,1,1,18400,9,0,0,0,0
-4656,Scroll of Shell ,1,1,1584,9,0,0,0,0
+4656,Scroll of Shell,1,1,1584,9,0,0,0,0
 4657,Scroll Of Shell II,1,1,16192,9,0,0,0,0
 4658,Scroll of Shell III,1,1,26244,9,0,0,0,0
 4659,Scroll Of Shell IV,1,1,9000,2,0,0,0,0
 4660,Scroll Of Shell V,1,1,125069,9,0,0,0,0
 4661,Scroll of Blink,1,1,2097,9,0,0,0,0
-4662,Scroll of Stoneskin ,1,1,7025,9,0,0,0,0
+4662,Scroll of Stoneskin,1,1,7025,9,0,0,0,0
 4663,Scroll of Aquaveil,1,1,360,9,0,0,0,0
 4664,Scroll of Slow,1,1,837,9,0,0,0,0
 4665,Scroll Of Haste,1,1,40000,3,0,0,0,0
@@ -353,7 +353,7 @@
 4754,Scroll of Fire III,1,1,10000,9,0,0,0,0
 4755,Scroll Of Fire IV,1,1,30000,1,0,0,0,0
 4756,Scroll Of Fire V,0,0,0,0,0,0,0,0
-4757,Scroll of Blizzard ,1,1,1584,9,0,0,0,0
+4757,Scroll of Blizzard,1,1,1584,9,0,0,0,0
 4758,Scroll Of Blizzard II,1,1,22113,9,0,0,0,0
 4759,Scroll Of Blizzard III,1,1,10000,9,0,0,0,0
 4760,Scroll Of Blizzard IV,1,1,10000,1,0,0,0,0
@@ -363,7 +363,7 @@
 4764,Scroll of Aero III,1,1,8000,9,0,0,0,0
 4765,Scroll Of Aero IV,1,1,50000,1,0,0,0,0
 4766,Scroll Of Aero V,0,0,0,0,0,0,0,0
-4767,Scroll of Stone ,1,1,61,9,0,0,0,0
+4767,Scroll of Stone,1,1,61,9,0,0,0,0
 4768,Scroll of Stone II,1,1,5814,9,0,0,0,0
 4769,Scroll of Stone III,1,1,19932,9,0,0,0,0
 4770,Scroll Of Stone IV,1,1,10000,2,0,0,0,0
@@ -373,7 +373,7 @@
 4774,Scroll of Thunder III,1,1,45930,9,0,0,0,0
 4775,Scroll Of Thunder IV,1,1,18500,1,0,0,0,0
 4776,Scroll Of Thunder V,0,0,0,0,0,0,0,0
-4777,Scroll of Water ,1,1,140,9,0,0,0,0
+4777,Scroll of Water,1,1,140,9,0,0,0,0
 4778,Scroll of Water II,1,1,8100,9,0,0,0,0
 4779,Scroll Of Water III,1,1,22682,9,0,0,0,0
 4780,Scroll Of Water IV,1,1,50000,2,0,0,0,0
@@ -411,9 +411,9 @@
 4838,Scroll of Bio,1,1,360,9,0,0,0,0
 4839,Scroll of Bio II,1,1,12740,9,0,0,0,0
 4843,Scroll of Burn,1,1,4464,9,0,0,0,0
-4844,Scroll of Frost ,1,1,3688,9,0,0,0,0
+4844,Scroll of Frost,1,1,3688,9,0,0,0,0
 4845,Scroll of Choke,1,1,2250,9,0,0,0,0
-4846,Scroll of Rasp ,1,1,1827,9,0,0,0,0
+4846,Scroll of Rasp,1,1,1827,9,0,0,0,0
 4847,Scroll of Shock,1,1,1363,9,0,0,0,0
 4848,Scroll of Drown,1,1,6366,9,0,0,0,0
 4849,Scroll of Addle,1,1,130378,9,0,0,0,0
