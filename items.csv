@@ -196,7 +196,7 @@
 4505,Sunflower Seeds,1,1,90,9,1,1,,5
 4509,Distilled Water,1,1,12,9,1,1,,5
 4514,Quus,1,1,60,9,1,1,,5
-4536,Blackened Frog,1,1,3133,9,1,1,,5
+4536,Blackened Frog,1,1,44,9,1,1,,5
 4539,Goblin Pie,1,1,650,9,1,1,,5
 4543,Goblin Mushpot,1,1,1140,9,1,1,,5
 4545,Gysahl Greens,1,1,61,9,1,1,,5
@@ -213,10 +213,10 @@
 4615,Scroll of Curaga ,1,1,1363,9,0,0,0,0
 4616,Curaga II (Scroll),1,1,11200,9,0,0,0,0
 4617,Curaga III (Scroll),1,1,19932,9,0,0,0,0
-4618,Scroll Of Curaga IV,1,1,"10,000",,0,0,0,0
+4618,Scroll Of Curaga IV,1,1,10000,,0,0,0,0
 4619,Scroll Of Curaga V,0,0,0,0,0,0,0,0
 4620,Raise,1,1,5293,9,0,0,0,0
-4621,Scroll Of Raise II,1,1,"20,000",,0,0,0,0
+4621,Scroll Of Raise II,1,1,20000,,0,0,0,0
 4622,Scroll of Poisona ,1,1,180,9,0,0,0,0
 4623,Scroll of Paralyna,1,1,324,9,0,0,0,0
 4624,Scroll of Blindna ,1,1,990,9,0,0,0,0
@@ -242,15 +242,15 @@
 4656,Scroll of Shell ,1,1,1584,9,0,0,0,0
 4657,Shell II,1,1,16192,9,0,0,0,0
 4658,Scroll of Shell III,1,1,26244,9,0,0,0,0
-4659,Scroll Of Shell IV,1,1,"9,000",,0,0,0,0
+4659,Scroll Of Shell IV,1,1,9000,,0,0,0,0
 4660,Shell V (Scroll),1,1,125069,9,0,0,0,0
 4661,Scroll of Blink,1,1,2097,9,0,0,0,0
 4662,Scroll of Stoneskin ,1,1,7025,9,0,0,0,0
 4663,Scroll of Aquaveil,1,1,360,9,0,0,0,0
 4664,Scroll of Slow,1,1,837,9,0,0,0,0
-4665,Scroll Of Haste,1,1,"40,000",,0,0,0,0
-4666,Scroll Of Paralyze,1,1,"1,000",,0,0,0,0
-4667,Scroll Of Silence,1,1,"2,000",,0,0,0,0
+4665,Scroll Of Haste,1,1,40000,,0,0,0,0
+4666,Scroll Of Paralyze,1,1,1000,,0,0,0,0
+4667,Scroll Of Silence,1,1,2000,,0,0,0,0
 4668,Scroll of Barfire,1,1,1760,9,0,0,0,0
 4669,Scroll of Barblizzard,1,1,3624,9,0,0,0,0
 4670,Scroll of Baraero,1,1,930,9,0,0,0,0
@@ -270,9 +270,9 @@
 4684,Scroll of Barsilence,1,1,4608,9,0,0,0,0
 4685,Scroll of Barpetrify,1,1,15120,9,0,0,0,0
 4686,Scroll of Barvirus,1,1,9600,9,0,0,0,0
-4687,Scroll Of Recall-Jugner,1,1,"250,000",,0,0,0,0
-4688,Scroll Of Recall-Pashh,1,1,"600,000",,0,0,0,0
-4689,Scroll Of Recall-Meriph,1,1,"300,000",,0,0,0,0
+4687,Scroll Of Recall-Jugner,1,1,250000,,0,0,0,0
+4688,Scroll Of Recall-Pashh,1,1,600000,,0,0,0,0
+4689,Scroll Of Recall-Meriph,1,1,300000,,0,0,0,0
 4690,Baramnesia (Scroll),1,1,27820,9,0,0,0,0
 4691,Baramnesra (Scroll),1,1,27820,9,0,0,0,0
 4694,Scroll of Barsleepra,1,1,244,9,0,0,0,0
@@ -287,7 +287,7 @@
 4703,Esuna (Scroll),1,1,4584,9,0,0,0,0
 4704,Auspice (Scroll),1,1,30967,9,0,0,0,0
 4705,Scroll Of Temper,0,0,0,0,0,0,0,0
-4706,Scroll Of Enlight,1,1,"7,000",,0,0,0,0
+4706,Scroll Of Enlight,1,1,7000,,0,0,0,0
 4707,Scroll Of Endark,1,1,3000,,0,0,0,0
 4708,Enfire (Scroll),1,1,4747,9,0,0,0,0
 4709,Enblizzard (Scroll),1,1,3770,9,0,0,0,0
@@ -296,39 +296,39 @@
 4712,Enthunder (Scroll),1,1,1393,9,0,0,0,0
 4713,Enwater (Scroll),1,1,6508,9,0,0,0,0
 4714,Scroll Of Phalanx,0,0,0,0,0,0,0,0
-4715,Scroll Of Reprisal,1,1,"50,000",,0,0,0,0
+4715,Scroll Of Reprisal,1,1,50000,,0,0,0,0
 4716,Regen (Scroll),1,1,3974,9,0,0,0,0
 4717,Scroll Of Refresh,0,0,0,0,0,0,0,0
 4718,Regen II (Scroll),1,1,7203,9,0,0,0,0
-4719,Scroll Of Regen III,1,1,"5,000",,0,0,0,0
+4719,Scroll Of Regen III,1,1,5000,,0,0,0,0
 4720,Flash,1,1,20000,9,0,0,0,0
-4721,Scroll Of Repose,1,1,"45,000",,0,0,0,0
-4722,Scroll Of Enfire II,1,1,"20,000",,0,0,0,0
-4723,Scroll Of Enblizzard II,1,1,"30,000",,0,0,0,0
-4724,Scroll Of Enaero II,1,1,"10,000",,0,0,0,0
-4725,Scroll Of Enstone II,1,1,"30,000",,0,0,0,0
-4726,Scroll Of Enthunder II,1,1,"20,000",,0,0,0,0
-4727,Scroll Of Enwater II,1,1,"50,000",,0,0,0,0
+4721,Scroll Of Repose,1,1,45000,,0,0,0,0
+4722,Scroll Of Enfire II,1,1,20000,,0,0,0,0
+4723,Scroll Of Enblizzard II,1,1,30000,,0,0,0,0
+4724,Scroll Of Enaero II,1,1,10000,,0,0,0,0
+4725,Scroll Of Enstone II,1,1,30000,,0,0,0,0
+4726,Scroll Of Enthunder II,1,1,20000,,0,0,0,0
+4727,Scroll Of Enwater II,1,1,50000,,0,0,0,0
 4728,Scroll Of Teleport-Yhoat,1,1,0,,0,0,0,0
 4729,Scroll Of Teleport-Altep,1,1,0,,0,0,0,0
 4730,Scroll Of Teleport-Holla,1,1,0,,0,0,0,0
 4731,Scroll Of Teleport-Dem,1,1,0,,0,0,0,0
 4732,Scroll Of Teleport-Mea,1,1,0,,0,0,0,0
-4733,Scroll Of Protectra,1,1,"1,000",,0,0,0,0
+4733,Scroll Of Protectra,1,1,1000,,0,0,0,0
 4734,Protectra II (Scroll),1,1,7074,9,0,0,0,0
 4735,Scroll of Protectra III,1,1,19200,9,0,0,0,0
 4736,Protectra IV (Scroll),1,1,85500,9,0,0,0,0
 4738,Scroll of Shellra,1,1,17600,9,0,0,0,0
 4739,Scroll of Shellra II,1,1,14080,9,0,0,0,0
 4740,Scroll of Shellra III,1,1,26244,9,0,0,0,0
-4741,Scroll Of Shellra IV,1,1,"5,000",,0,0,0,0
-4743,Scroll Of Reraise,1,1,"10,000",,0,0,0,0
+4741,Scroll Of Shellra IV,1,1,5000,,0,0,0,0
+4743,Scroll Of Reraise,1,1,10000,,0,0,0,0
 4744,Invisible,1,1,5293,9,0,0,0,0
 4745,Sneak,1,1,2300,9,0,0,0,0
 4746,Deodorize,1,1,5293,9,0,0,0,0
 4747,Scroll Of Teleport-Vahzl,0,0,0,0,0,0,0,0
 4748,Scroll Of Raise III,0,0,0,0,0,0,0,0
-4749,Scroll Of Reraise II,1,1,"50,000",,0,0,0,0
+4749,Scroll Of Reraise II,1,1,50000,,0,0,0,0
 4750,Reraise III (Scroll),1,1,99375,9,0,0,0,0
 4751,Scroll Of Erase,0,0,0,0,0,0,0,0
 4752,Scroll of Fire,1,1,837,9,0,0,0,0
@@ -400,7 +400,7 @@
 4847,Scroll of Shock,1,1,1363,9,0,0,0,0
 4848,Scroll of Drown,1,1,6366,9,0,0,0,0
 4849,Scroll of Addle,1,1,130378,9,0,0,0,0
-4850,Scroll Of Refresh II,1,1,"10,000",,0,0,0,0
+4850,Scroll Of Refresh II,1,1,10000,,0,0,0,0
 4853,Scroll Of Drain,1,1,25000,,0,0,0,0
 4854,Drain II,1,1,30780,9,0,0,0,0
 4855,Scroll Of Aspir,1,1,25000,,0,0,0,0
@@ -559,9 +559,9 @@
 6054,Windstorm (Scroll),1,1,6786,9,0,0,0,0
 6055,Aurorastorm (Scroll),1,1,11440,9,0,0,0,0
 6056,Voidstorm (Scroll),1,1,10325,9,0,0,0,0
-6059,Animus Augeo Schema,1,1,"5,000",,0,0,0,0
-6060,Animus Minuo Schema,1,1,"5,000",,0,0,0,0
-6061,Adloquium Schema,1,1,"5,000",,0,0,0,0
+6059,Animus Augeo Schema,1,1,5000,,0,0,0,0
+6060,Animus Minuo Schema,1,1,5000,,0,0,0,0
+6061,Adloquium Schema,1,1,5000,,0,0,0,0
 8918,Soot,1,1,567,9,0,0,0,0
 12289,Lauan Shield,1,1,110,9,0,0,0,0
 12290,Maple Shield,1,1,556,9,0,0,0,0
