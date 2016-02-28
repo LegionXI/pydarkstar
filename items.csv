@@ -171,21 +171,32 @@
 4275,Serving Of Emperor Roe,1,1,2000,5,1,1,24000,3
 4276,Serving Of Flint Caviar,1,1,1000,5,1,1,12000,3
 4284,Bowl Of Tender Navarin,1,1,5000,5,0,0,0,0
+4285,Bowl Of Ocean Soup,1,1,10000,5,0,0,0,0
 4287,Opo-opo Tart,1,1,4000,5,1,1,48000,3
 4294,Serving Of Medicinal Quus,1,1,4000,5,0,0,0,0
 4295,Plate Of Royal Sautee,1,1,10000,5,0,0,0,0
+4296,Serving Of Green Curry,1,1,2000,5,0,0,0,0
+4297,Serving Of Black Curry,1,1,10000,5,0,0,0,0
+4298,Serving Of Red Curry,1,1,30000,0,0,0,0,0
 4320,Apple Pie +1,0,0,0,0,0,0,0,0
 4322,Dhalmel Pie +1,0,0,0,0,0,0,0,0
+4323,Bowl Of Vegetable Broth,1,1,2000,5,0,0,0,0
 4324,Chunk Of Hobgoblin Chocolate,1,1,2000,5,1,1,198000,3
 4326,Serving Of Frog Flambe,1,1,1000,5,1,1,12000,3
+4327,Bowl Of Emerald Soup,1,1,2000,5,0,0,0,0
 4329,Serving Of Newt Flambe,1,1,3000,5,0,0,0,0
 4331,Imperial Omelette,1,1,10000,5,0,0,0,0
 4332,Orange Kuchen +1,0,0,0,0,0,0,0,0
+4333,Bowl Of Witch Soup,1,1,10000,5,0,0,0,0
 4335,Slice Of Juicy Mutton,1,1,2000,5,0,0,0,0
 4336,Sweet Baked Apple,1,1,2000,5,1,1,24000,3
+4337,Bowl Of Stamina Soup,1,1,10000,5,0,0,0,0
 4338,Steamed Crayfish,1,1,1000,5,1,1,12000,3
 4339,Rolanberry Pie +1,0,0,0,0,0,0,0,0
+4340,Bowl Of Optical Soup,1,1,15000,5,0,0,0,0
+4341,Bowl Of Sunset Soup,1,1,10000,5,0,0,0,0
 4342,Steamed Crab,1,1,1000,5,1,1,12000,3
+4344,Bowl Of Witch Stew,1,1,10000,5,0,0,0,0
 4345,Serving Of Flounder Meuniere +1,0,0,0,0,0,0,0,0
 4346,Serving Of Bass Meuniere +1,0,0,0,0,0,0,0,0
 4347,Serving Of Salmon Meuniere +1,0,0,0,0,0,0,0,0
@@ -232,16 +243,24 @@
 4413,Apple Pie,1,1,1000,5,1,1,12000,3
 4414,Rolanberry Pie,1,1,1000,5,1,1,12000,3
 4415,Roasted Corn,1,1,111,9,1,1,1332,5
+4416,Bowl Of Pea Soup,1,1,4000,5,0,0,0,0
+4417,Bowl Of Egg Soup,1,1,3000,5,0,0,0,0
+4418,Bowl Of Turtle Soup,1,1,10000,5,0,0,0,0
+4419,Bowl Of Mushroom Soup,0,0,0,0,0,0,0,0
+4420,Bowl Of Tomato Soup,1,1,4200,5,0,0,0,0
 4421,Melon Pie,1,1,1000,5,1,1,12000,3
 4422,Orange Juice,1,1,180,9,1,1,2160,5
 4423,Apple Juice,1,1,276,9,1,1,3312,5
 4424,Melon Juice,1,1,1012,9,1,1,12144,5
+4430,Bowl Of Pumpkin Soup,1,1,1000,5,0,0,0,0
 4431,San d'Orian Grape,1,1,68,9,1,1,816,5
 4432,Kazham Pineapl.,1,1,54,9,1,1,648,5
+4433,Bowl Of Dhalmel Stew,1,1,100,5,0,0,0,0
 4436,Baked Popoto,1,1,294,9,1,1,3528,5
 4437,Slice Of Roast Mutton,1,1,2000,5,0,0,0,0
 4438,Dhalmel Steak,1,1,1000,5,0,0,0,0
 4439,Bowl Of Navarin,1,1,3000,5,0,0,0,0
+4440,Bowl Of Whitefish Stew,1,1,20000,5,0,0,0,0
 4441,Grape Juice,1,1,855,9,1,1,10260,5
 4442,Pineapple Juice,1,1,368,9,1,1,4416,5
 4443,Cobalt Jellyfish,1,1,63,9,1,1,756,5
@@ -250,12 +269,16 @@
 4446,Pumpkin Pie,1,1,2000,5,1,1,24000,3
 4450,Coral Fungus,1,1,679,9,1,1,8148,5
 4451,Silver Shark,1,1,3000,9,1,1,36000,5
+4452,Bowl Of Shark Fin Soup,1,1,20000,5,0,0,0,0
+4453,Bowl Of Eyeball Soup,1,1,5000,5,0,0,0,0
 4455,Pebble Soup,1,1,184,9,1,1,2208,5
+4455,Bowl Of Pebble Soup,1,1,400,5,0,0,0,0
 4456,Boiled Crab,1,1,1000,5,1,1,12000,3
 4457,Eel Kabob,1,1,2700,9,1,1,32400,5
 4458,Goblin Bread,1,1,276,9,1,1,3312,5
 4459,Nebimonite Bake,1,1,3000,5,1,1,36000,3
 4461,Bastore Bream,1,1,1000,9,1,1,12000,5
+4465,Bowl Of Goblin Stew,1,1,50,5,0,0,0,0
 4467,Garlic Cracker,1,1,3,9,1,1,36,5
 4468,Pamamas,1,1,72,9,1,1,864,5
 4472,Crayfish,1,1,38,9,1,1,456,5
@@ -269,6 +292,7 @@
 4487,Colored Egg,1,1,1000,5,1,1,12000,3
 4490,Pickled Herring,1,1,441,9,1,1,5292,5
 4491,Watermelon,1,1,182,9,1,1,2184,5
+4492,Bowl Of Puls,1,1,2000,5,0,0,0,0
 4495,Goblin Chocolate,1,1,35,9,1,1,420,5
 4495,Chunk Of Goblin Chocolate,1,1,1000,5,1,1,99000,3
 4496,Piece Of Bubble Chocolate,1,1,1000,5,1,1,12000,3
@@ -283,22 +307,29 @@
 4510,Acorn Cookie,1,1,1000,5,1,1,99000,3
 4514,Quus,1,1,60,9,1,1,720,5
 4516,Slice Of Grilled Black Hare,1,1,1000,5,0,0,0,0
+4517,Serving Of Yellow Curry,1,1,8000,5,0,0,0,0
 4518,Strip Of Sheep Jerky,1,1,1000,5,1,1,12000,3
 4519,Wild Steak,1,1,2000,5,0,0,0,0
 4520,Coin Cookie,1,1,1000,5,1,1,99000,3
+4521,Bowl Of Humpty Soup,1,1,2000,5,0,0,0,0
+4522,Bowl Of Jack-o'-soup,1,1,2000,5,0,0,0,0
 4523,Melon Pie +1,0,0,0,0,0,0,0,0
 4525,Pumpkin Pie +1,0,0,0,0,0,0,0,0
 4532,Soft-boiled Egg,1,1,1000,5,1,1,12000,3
+4533,Bowl Of Delicious Puls,1,1,5000,5,0,0,0,0
 4535,Boiled Crayfish,1,1,300,5,1,1,3600,3
 4536,Blackened Frog,1,1,3133,9,1,1,37596,5
 4537,Roast Carp,1,1,500,5,1,1,6000,3
 4538,Roast Pipira,1,1,1000,5,1,1,12000,3
 4539,Goblin Pie,1,1,650,9,1,1,7800,5
 4540,Boiled Tuna Head,1,1,2000,5,0,0,0,0
+4542,Bowl Of Brain Stew,1,1,1000,5,0,0,0,0
 4543,Goblin Mushpot,1,1,1140,9,1,1,13680,5
+4544,Bowl Of Mushroom Stew,0,0,0,0,0,0,0,0
 4545,Gysahl Greens,1,1,61,9,1,1,732,5
 4547,Bowl Of Boiled Cockatrice,1,1,10000,5,0,0,0,0
 4548,Plate Of Coeurl Sautee,1,1,2000,5,0,0,0,0
+4549,Bowl Of Dragon Soup,1,1,10000,5,0,0,0,0
 4551,Salmon Croute,1,1,10000,5,1,1,120000,3
 4552,Serving Of Herb Crawler Eggs,1,1,3000,5,0,0,0,0
 4554,Serving Of Shallops Tropicale,1,1,10000,5,0,0,0,0
@@ -306,6 +337,8 @@
 4556,Serving Of Icecap Rolanberry,1,1,3000,5,0,0,0,0
 4557,Steamed Catfish,1,1,5000,5,0,0,0,0
 4559,Serving Of Herb Quus,1,1,6000,5,0,0,0,0
+4560,Bowl Of Vegetable Soup,1,1,3500,5,0,0,0,0
+4561,Bowl Of Seafood Stew,1,1,15000,5,0,0,0,0
 4563,Pamama Tart,1,1,4000,5,1,1,48000,3
 4564,Royal Omelette,1,1,12000,5,0,0,0,0
 4571,Beaugreens,1,1,90,9,1,1,1080,5
@@ -323,9 +356,12 @@
 4587,Broiled Trout,1,1,1000,5,1,1,12000,3
 4588,Broiled Eel,1,1,2000,5,1,1,24000,3
 4589,Scroll of Shock Spikes,1,1,8280,9,0,0,0,0
+4589,Bowl Of Wild Stew,1,1,8000,5,0,0,0,0
+4592,Bowl Of Wisdom Soup,1,1,5500,5,0,0,0,0
 4594,Serving Of Snowy Rolanberry,1,1,4000,5,0,0,0,0
 4595,Party Egg,1,1,2000,5,1,1,24000,3
 4599,Blackened Toad,1,1,2950,5,0,0,0,0
+4601,Bowl Of Sopa De Pez Blanco,1,1,1000,5,0,0,0,0
 4609,Scroll of Cure,1,1,61,9,0,0,0,0
 4610,Scroll of Cure II,1,1,585,9,0,0,0,0
 4611,Scroll Of Cure III,1,1,3344,9,0,0,0,0
@@ -742,6 +778,7 @@
 5177,Plate Of Bream Sushi +1,0,0,0,0,0,0,0,0
 5178,Plate Of Dorado Sushi,1,1,3000,5,1,1,36000,3
 5179,Plate Of Dorado Sushi +1,0,0,0,0,0,0,0,0
+5180,Bowl Of Sophic Stew,1,1,20000,5,0,0,0,0
 5183,Viking Herring,1,1,1000,5,1,1,12000,3
 5187,Elshimo Coconut,1,1,158,9,0,0,0,0
 5195,Misareaux Parsley,1,1,233,9,0,0,0,0
@@ -754,9 +791,12 @@
 5219,Plate Of Ikra Gunkan,1,1,1000,5,1,1,12000,3
 5220,Plate Of Ikra Gunkan +1,0,0,0,0,0,0,0,0
 5230,Love Chocolate,1,1,3000,5,0,0,0,0
+5230,Prime Seafood Stewpot,0,0,0,0,0,0,0,0
 5231,Truelove Chocolate,1,1,10000,5,0,0,0,0
 5235,Napa,1,1,187,9,0,0,2244,0
 5236,Shungiku,1,1,224,9,0,0,2688,0
+5238,Seafood Stewpot,1,1,10000,5,0,0,0,0
+5240,Prized Seafood Stewpot,0,0,0,0,0,0,0,0
 5266,Blackened Muddy Siredon,1,1,5000,5,0,0,0,0
 5299,Salsa,1,1,133,9,0,0,1596,0
 5308,Toolbag (uchitake),1,1,9900,2,1,1,118800,1
@@ -807,6 +847,12 @@
 5505,Avenger's Die,0,0,0,0,0,0,0,0
 5542,Gateau Aux Fraises,1,1,1000,5,0,0,0,0
 5543,Midwinter Dream,1,1,10000,5,0,0,0,0
+5544,Crab Stewpot,1,1,10000,5,0,0,0,0
+5545,Prime Crab Stewpot,0,0,0,0,0,0,0,0
+5546,Prized Crab Stewpot,0,0,0,0,0,0,0,0
+5547,Beef Stewpot,1,1,5500,5,0,0,0,0
+5548,Prime Beef Stewpot,0,0,0,0,0,0,0,0
+5549,Prized Beef Stewpot,0,0,0,0,0,0,0,0
 5550,Roll Of Buche Au Chocolat,1,1,1000,5,0,0,0,0
 5551,Roll Of Sylvan Excursion,1,1,10000,5,0,0,0,0
 5552,Serving Of Black Pudding,1,1,2000,5,0,0,0,0
@@ -829,10 +875,13 @@
 5577,Sutlac,1,1,1500,9,0,0,0,0
 5577,Bowl Of Sutlac,1,1,3000,5,0,0,0,0
 5578,Bowl Of Sutlac +1,0,0,0,0,0,0,0,0
+5579,Bowl Of Yayla Corbasi,1,1,3000,5,0,0,0,0
+5580,Bowl Of Yayla Corbasi +1,0,0,0,0,0,0,0,0
 5586,Serving Of Menemen,1,1,7000,5,1,1,84000,3
 5587,Serving Of Menemen +1,0,0,0,0,0,0,0,0
 5590,Balik Sandvici,1,1,3750,9,0,0,0,0
 5592,Imperial Coffee,1,1,450,9,0,0,0,0
+5595,Bowl Of Nashmau Stew,1,1,5000,5,0,0,0,0
 5598,Sis Kebabi,1,1,2000,9,0,0,0,0
 5599,Sis Kebabi +1,0,0,0,0,0,0,0,0
 5600,Balik Sis,1,1,3000,9,0,0,0,0
@@ -842,10 +891,14 @@
 5604,El. Pachira Fruit,1,1,154,9,0,0,0,0
 5609,Hellsteak,1,1,30000,5,1,1,360000,3
 5610,Hellsteak +1,0,0,0,0,0,0,0,0
+5611,Angler Stewpot,1,1,5000,5,0,0,0,0
+5612,Prime Angler Stewpot,0,0,0,0,0,0,0,0
 5614,Konigskuchen,1,1,1000,5,0,0,0,0
 5615,Uberkuchen,1,1,5000,5,0,0,0,0
 5616,Lebkuchen House,1,1,1000,5,0,0,0,0
 5617,Lebkuchen Manse,1,1,5617,5,0,0,0,0
+5618,Bowl Of Zoni Broth,1,1,5000,5,0,0,0,0
+5619,Bowl Of Zesty Zoni,1,1,10000,5,0,0,0,0
 5625,Maple Cake,1,1,562,5,0,0,0,0
 5626,Silken Siesta,1,1,6000,5,0,0,0,0
 5627,Yogurt Cake,1,1,10000,5,0,0,0,0
@@ -898,6 +951,12 @@
 5739,Mug Of Honeyed Egg,1,1,1000,5,0,0,0,0
 5745,Serving Of Cherry Bavarois,1,1,3000,5,0,0,0,0
 5746,Serving Of Cherry Bavarois +1,0,0,0,0,0,0,0,0
+5750,Bowl Of Goulash,1,1,5000,5,0,0,0,0
+5751,Bowl Of Goulash +1,0,0,0,0,0,0,0,0
+5752,Pot-au-feu,1,1,2000,5,1,1,24000,3
+5753,Pot-au-feu +1,0,0,0,0,0,0,0,0
+5760,Kohlrouladen,1,1,15000,5,0,0,0,0
+5761,Kohlrouladen +1,0,0,0,0,0,0,0,0
 5766,Butter Crepe,1,1,1000,5,1,1,12000,3
 5767,Crepe Delice,1,1,1,5,1,1,12,3
 5775,Chocolate Crepe,1,1,1000,5,1,1,12000,3
@@ -1544,3 +1603,4 @@
 21497,Rapid Broth,1,1,2371,9,1,1,28452,5
 21498,Crackling Broth,1,1,1474,9,1,1,17688,5
 21499,Creepy Broth,1,1,2425,9,1,1,29100,5
+,,,,,,,,,
