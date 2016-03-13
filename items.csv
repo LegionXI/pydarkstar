@@ -67,8 +67,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 738,Platinum Ore,1,1,5000,3,1,1,60000,1
 739,Orichalcum Ore,1,1,6000,3,1,1,72000,1
 740,Phrygian Ore,1,1,1000,3,1,1,12000,1
-741,P. Brass Ore,0,0,1,0,0,0,1,0
-756,Durium Ore,0,0,1,0,0,0,1,0
 795,Lapis Lazuli,1,1,1676,9,1,1,20112,5
 796,Light Opal,1,1,1676,9,1,1,20112,5
 799,Onyx,1,1,1676,9,1,1,20112,5
@@ -137,7 +135,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 1590,Holy Basil,1,1,536,9,1,1,6432,5
 1650,Kopparnickel Ore,1,1,500,9,1,1,6000,5
 1652,Rice Vinegar,1,1,150,9,1,1,1800,5
-1703,Kunwu Ore,0,0,1,0,0,0,1,0
 1817,Cactus Arm,1,1,728,9,1,1,8736,5
 1840,Semolina,1,1,1800,9,1,1,21600,5
 2176,Fire Card,1,1,48,9,1,1,576,5
@@ -150,25 +147,8 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 2183,Dark Card,1,1,48,9,1,1,576,5
 2213,Pine Nuts,1,1,12,9,1,1,144,5
 2214,Imperial Rice,1,1,68,9,1,1,816,5
-2228,Luminium Ore,0,0,1,0,0,0,1,0
 2235,Wildgrass Seeds,1,1,320,9,1,1,3840,5
 2237,Imperial Flour,1,1,60,9,1,1,720,5
-2239,Tension Spring,0,0,1,0,0,0,1,0
-2240,Inhibitor,0,0,1,0,0,0,1,0
-2242,Mana Booster,0,0,1,0,0,0,1,0
-2243,Loudspeaker,0,0,1,0,0,0,1,0
-2246,Accelerator,0,0,1,0,0,0,1,0
-2247,Scope,0,0,1,0,0,0,1,0
-2250,Shock Absorber,0,0,1,0,0,0,1,0
-2251,Armor Plate,0,0,1,0,0,0,1,0
-2254,Stabilizer,0,0,1,0,0,0,1,0
-2255,Volt Gun,0,0,1,0,0,0,1,0
-2258,Mana Jammer,0,0,1,0,0,0,1,0
-2260,Stealth Screen,0,0,1,0,0,0,1,0
-2262,Auto-Repair Kit,0,0,1,0,0,0,1,0
-2264,Damage Gauge,0,0,1,0,0,0,1,0
-2266,Mana Tank,0,0,1,0,0,0,1,0
-2268,Mana Conserver,0,0,1,0,0,0,1,0
 2271,Coffee Beans,1,1,316,9,1,1,3792,5
 2553,Sanjaku-tenugui,1,1,515,5,1,1,50985,3
 2554,Asphodel,1,1,100,9,1,1,1200,5
@@ -176,23 +156,12 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 2642,Kabenro,1,1,1000,5,1,1,99000,3
 2643,Jinko,1,1,1000,5,1,1,99000,3
 2644,Ryuno,1,1,1000,5,1,1,99000,3
-2763,Swamp Ore,0,0,1,0,0,0,1,0
-2765,Fool's Gold Ore,0,0,1,0,0,0,1,0
 2792,Catalytic Oil,1,1,92,9,1,1,1104,5
 2859,Cobalt Ore,1,1,10000,,,,120000,
 2970,Mokujin,1,1,1000,5,1,1,99000,3
 2971,Inoshishinofuda,1,1,1000,5,1,1,99000,3
 2972,Shikanofuda,1,1,1000,5,1,1,99000,3
 2973,Chonofuda,1,1,1000,5,1,1,99000,3
-3892,Fulgent Ore,0,0,1,0,0,0,1,0
-3918,Midrium Ore,0,0,1,0,0,0,1,0
-3920,Vanadium Ore,0,0,1,0,0,0,1,0
-3922,Rhodium Ore,0,0,1,0,0,0,1,0
-4020,Titanium Ore,0,0,1,0,0,0,1,0
-4023,Snowsteel Ore,0,0,1,0,0,0,1,0
-4042,Acuex Ore,0,0,1,0,0,0,1,0
-4046,Corroded Ore,0,0,1,0,0,0,1,0
-4058,Bismuth Ore,0,0,1,0,0,0,1,0
 4096,Fire Crystal,1,1,1000,5,1,1,12000,1
 4097,Ice Crystal,1,1,992,4,1,1,11904,3
 4098,Wind Crystal,1,1,700,6,1,1,8400,2
@@ -231,7 +200,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4276,Serving Of Flint Caviar,1,1,1000,5,1,1,12000,3
 4277,Tonosama Rice Ball,1,1,1000,5,1,1,12000,3
 4278,Shogun Rice Ball,1,1,14000,5,1,1,168000,3
-4280,Garlic Cracker +1,0,0,1,0,0,0,1,0
 4281,Red Hot Cracker,1,1,100,5,1,1,9900,3
 4283,Cup Of Choco-delight,1,1,9000,5,0,0,1,0
 4284,Bowl Of Tender Navarin,1,1,5000,5,0,0,1,0
@@ -249,8 +217,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4301,Flask Of Pear Au Lait,1,1,2000,5,0,0,1,0
 4302,Flask Of Pamama Au Lait,1,1,1000,5,0,0,1,0
 4303,Flask Of Persikos Au Lait,1,1,2000,5,0,0,1,0
-4320,Apple Pie +1,0,0,1,0,0,0,1,0
-4322,Dhalmel Pie +1,0,0,1,0,0,0,1,0
 4323,Bowl Of Vegetable Broth,1,1,2000,5,0,0,1,0
 4324,Chunk Of Hobgoblin Chocolate,1,1,2000,5,1,1,198000,3
 4326,Serving Of Frog Flambe,1,1,1000,5,1,1,12000,3
@@ -258,20 +224,15 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4329,Serving Of Newt Flambe,1,1,3000,5,0,0,1,0
 4330,Plate Of Witch Risotto,1,1,1000,5,0,0,1,0
 4331,Imperial Omelette,1,1,10000,5,0,0,1,0
-4332,Orange Kuchen +1,0,0,1,0,0,0,1,0
 4333,Bowl Of Witch Soup,1,1,10000,5,0,0,1,0
 4335,Slice Of Juicy Mutton,1,1,2000,5,0,0,1,0
 4336,Sweet Baked Apple,1,1,2000,5,1,1,24000,3
 4337,Bowl Of Stamina Soup,1,1,10000,5,0,0,1,0
 4338,Steamed Crayfish,1,1,1000,5,1,1,12000,3
-4339,Rolanberry Pie +1,0,0,1,0,0,0,1,0
 4340,Bowl Of Optical Soup,1,1,15000,5,0,0,1,0
 4341,Bowl Of Sunset Soup,1,1,10000,5,0,0,1,0
 4342,Steamed Crab,1,1,1000,5,1,1,12000,3
 4344,Bowl Of Witch Stew,1,1,10000,5,0,0,1,0
-4345,Serving Of Flounder Meuniere +1,0,0,1,0,0,0,1,0
-4346,Serving Of Bass Meuniere +1,0,0,1,0,0,0,1,0
-4347,Serving Of Salmon Meuniere +1,0,0,1,0,0,0,1,0
 4348,Mutton Enchilada,1,1,1000,5,1,1,12000,3
 4349,Bunny Ball,1,1,900,5,0,0,1,0
 4350,Dragon Steak,1,1,10000,5,0,0,1,0
@@ -325,7 +286,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4416,Bowl Of Pea Soup,1,1,4000,5,0,0,1,0
 4417,Bowl Of Egg Soup,1,1,3000,5,0,0,1,0
 4418,Bowl Of Turtle Soup,1,1,10000,5,0,0,1,0
-4419,Bowl Of Mushroom Soup,0,0,1,0,0,0,1,0
 4420,Bowl Of Tomato Soup,1,1,4200,5,0,0,1,0
 4421,Melon Pie,1,1,1000,5,1,1,12000,3
 4422,Orange Juice,1,1,180,9,1,1,2160,5
@@ -399,9 +359,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4520,Coin Cookie,1,1,1000,5,1,1,99000,3
 4521,Bowl Of Humpty Soup,1,1,2000,5,0,0,1,0
 4522,Bowl Of Jack-o'-soup,1,1,2000,5,0,0,1,0
-4523,Melon Pie +1,0,0,1,0,0,0,1,0
 4524,Pot Of Royal Tea,1,1,3000,5,0,0,1,0
-4525,Pumpkin Pie +1,0,0,1,0,0,0,1,0
 4532,Soft-boiled Egg,1,1,1000,5,1,1,12000,3
 4533,Bowl Of Delicious Puls,1,1,5000,5,0,0,1,0
 4534,Bowl Of Medicinal Gruel,1,1,10000,5,0,0,1,0
@@ -414,7 +372,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4541,Bottle Of Goblin Drink,1,1,5000,5,0,0,1,0
 4542,Bowl Of Brain Stew,1,1,1000,5,0,0,1,0
 4543,Goblin Mushpot,1,1,1140,9,1,1,13680,5
-4544,Bowl Of Mushroom Stew,0,0,1,0,0,0,1,0
 4545,Gysahl Greens,1,1,61,9,1,1,732,5
 4546,Piece Of Raisin Bread,1,1,2000,5,1,1,24000,3
 4547,Bowl Of Boiled Cockatrice,1,1,10000,5,0,0,1,0
@@ -463,13 +420,11 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4610,Scroll of Cure II,1,1,585,9,0,0,1,0
 4611,Scroll Of Cure III,1,1,3344,9,0,0,1,0
 4612,Scroll Of Cure IV,1,1,23400,9,0,0,1,0
-4613,Scroll Of Cure V,0,0,1,0,0,0,1,0
 4614,Scroll of Cure VI,1,1,141137,9,0,0,1,0
 4615,Scroll of Curaga,1,1,1363,9,0,0,1,0
 4616,Scroll Of Curaga II,1,1,11200,9,0,0,1,0
 4617,Scroll Of Curaga III,1,1,19932,9,0,0,1,0
 4618,Scroll Of Curaga IV,1,1,10000,1,0,0,1,0
-4619,Scroll Of Curaga V,0,0,1,0,0,0,1,0
 4620,Scroll Of Raise,1,1,5293,9,0,0,1,0
 4621,Scroll Of Raise II,1,1,20000,2,0,0,1,0
 4622,Scroll of Poisona,1,1,180,9,0,0,1,0
@@ -480,7 +435,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4627,Scroll of Viruna,1,1,13300,9,0,0,1,0
 4628,Scroll Of Cursna,1,1,8568,9,0,0,1,0
 4629,Scroll Of Holy,1,1,31500,9,0,0,1,0
-4630,Scroll Of Holy II,0,0,1,0,0,0,1,0
 4631,Scroll of Dia,1,1,82,9,0,0,1,0
 4632,Scroll Of Dia II,1,1,10304,9,0,0,1,0
 4636,Scroll of Banish,1,1,140,9,0,0,1,0
@@ -530,7 +484,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4689,Scroll Of Recall-Meriph,1,1,300000,2,0,0,1,0
 4690,Scroll Of Baramnesia,1,1,27820,9,0,0,1,0
 4691,Scroll Of Baramnesra,1,1,27820,9,0,0,1,0
-4692,Scroll of Haste II,0,0,1,0,0,0,1,0
 4694,Scroll of Barsleepra,1,1,244,9,0,0,1,0
 4695,Scroll of Barpoisonra,1,1,400,9,0,0,1,0
 4696,Scroll of Barparalyzra,1,1,780,9,0,0,1,0
@@ -542,19 +495,14 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4702,Scroll Of Sacrifice,1,1,4000,9,0,0,1,0
 4703,Scroll Of Esuna,1,1,4584,9,0,0,1,0
 4704,Scroll Of Auspice,1,1,30967,9,0,0,1,0
-4705,Scroll Of Temper,0,0,1,0,0,0,1,0
-4706,Scroll Of Enlight,0,0,1,0,0,0,1,0
-4707,Scroll Of Endark,0,0,1,0,0,0,1,0
 4708,Enfire (Scroll),1,1,4747,9,0,0,1,0
 4709,Enblizzard (Scroll),1,1,3770,9,0,0,1,0
 4710,Enaero (Scroll),1,1,2300,9,0,0,1,0
 4711,Enstone (Scroll),1,1,1867,9,0,0,1,0
 4712,Enthunder (Scroll),1,1,1393,9,0,0,1,0
 4713,Enwater (Scroll),1,1,6508,9,0,0,1,0
-4714,Scroll Of Phalanx,0,0,1,0,0,0,1,0
 4715,Scroll Of Reprisal,1,1,50000,2,0,0,1,0
 4716,Scroll Of Regen,1,1,3974,9,0,0,1,0
-4717,Scroll Of Refresh,0,0,1,0,0,0,1,0
 4718,Scroll Of Regen II,1,1,7203,9,0,0,1,0
 4719,Scroll Of Regen III,1,1,5000,2,0,0,1,0
 4720,Scroll Of Flash,1,1,20000,9,0,0,1,0
@@ -582,41 +530,32 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4744,Scroll Of Invisible,1,1,5293,9,0,0,1,0
 4745,Scroll Of Sneak,1,1,2300,9,0,0,1,0
 4746,Scroll Of Deodorize,1,1,5293,9,0,0,1,0
-4747,Scroll Of Teleport-Vahzl,0,0,1,0,0,0,1,0
-4748,Scroll Of Raise III,0,0,1,0,0,0,1,0
 4749,Scroll Of Reraise II,1,1,50000,3,0,0,1,0
 4750,Scroll Of Reraise III,1,1,99375,9,0,0,1,0
-4751,Scroll Of Erase,0,0,1,0,0,0,1,0
 4752,Scroll of Fire,1,1,837,9,0,0,1,0
 4753,Scroll Of Fire II,1,1,16744,9,0,0,1,0
 4754,Scroll of Fire III,1,1,10000,9,0,0,1,0
 4755,Scroll Of Fire IV,1,1,30000,1,0,0,1,0
-4756,Scroll Of Fire V,0,0,1,0,0,0,1,0
 4757,Scroll of Blizzard,1,1,1584,9,0,0,1,0
 4758,Scroll Of Blizzard II,1,1,22113,9,0,0,1,0
 4759,Scroll Of Blizzard III,1,1,10000,9,0,0,1,0
 4760,Scroll Of Blizzard IV,1,1,10000,1,0,0,1,0
-4761,Scroll Of Blizzard V,0,0,1,0,0,0,1,0
 4762,Scroll of Aero,1,1,324,9,0,0,1,0
 4763,Scroll Of Aero II,1,1,12103,9,0,0,1,0
 4764,Scroll of Aero III,1,1,8000,9,0,0,1,0
 4765,Scroll Of Aero IV,1,1,50000,1,0,0,1,0
-4766,Scroll Of Aero V,0,0,1,0,0,0,1,0
 4767,Scroll of Stone,1,1,61,9,0,0,1,0
 4768,Scroll of Stone II,1,1,5814,9,0,0,1,0
 4769,Scroll of Stone III,1,1,19932,9,0,0,1,0
 4770,Scroll Of Stone IV,1,1,10000,2,0,0,1,0
-4771,Scroll Of Stone V,0,0,1,0,0,0,1,0
 4772,Scroll of Thunder,1,1,3261,9,0,0,1,0
 4773,Scroll of Thunder II,1,1,28250,9,0,0,1,0
 4774,Scroll of Thunder III,1,1,45930,9,0,0,1,0
 4775,Scroll Of Thunder IV,1,1,18500,1,0,0,1,0
-4776,Scroll Of Thunder V,0,0,1,0,0,0,1,0
 4777,Scroll of Water,1,1,140,9,0,0,1,0
 4778,Scroll of Water II,1,1,8100,9,0,0,1,0
 4779,Scroll Of Water III,1,1,22682,9,0,0,1,0
 4780,Scroll Of Water IV,1,1,50000,2,0,0,1,0
-4781,Scroll Of Water V,0,0,1,0,0,0,1,0
 4782,Scroll Of Firaga,1,1,7103,9,0,0,1,0
 4783,Scroll Of Firaga II,1,1,10000,3,0,0,1,0
 4784,Scroll Of Firaga III,1,1,15000,1,0,0,1,0
@@ -643,7 +582,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4822,Scroll Of Flood,1,1,3000,2,0,0,1,0
 4824,Scroll Of Gravity,1,1,10000,2,0,0,1,0
 4825,Scroll Of Gravity II,1,1,50000,2,0,0,1,0
-4827,Scroll Of Comet,0,0,1,0,0,0,1,0
 4828,Scroll of Poison,1,1,82,9,0,0,1,0
 4829,Scroll of Poison II,1,1,25200,9,0,0,1,0
 4833,Scroll of Poisonga,1,1,5160,9,0,0,1,0
@@ -656,19 +594,15 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4847,Scroll of Shock,1,1,1363,9,0,0,1,0
 4848,Scroll of Drown,1,1,6366,9,0,0,1,0
 4849,Scroll of Addle,1,1,130378,9,0,0,1,0
-4850,Scroll Of Refresh II,0,0,1,0,0,0,1,0
-4851,Scroll of Meteor,0,0,1,0,0,0,1,0
 4853,Scroll Of Drain,1,1,25000,4,0,0,1,0
 4854,Scroll Of Drain II,1,1,30780,9,0,0,1,0
 4855,Scroll Of Aspir,1,1,25000,4,0,0,1,0
-4856,Scroll Of Aspir II,0,0,1,0,0,0,1,0
 4857,Scroll Of Blaze Spikes,1,1,60000,3,0,0,1,0
 4858,Scroll Of Ice Spikes,1,1,200000,1,0,0,1,0
 4859,Scroll Of Shock Spikes,1,1,8190,9,0,0,1,0
 4860,Scroll Of Stun,1,1,27000,9,0,0,1,0
 4861,Scroll of Sleep,1,1,2250,9,0,0,1,0
 4862,Scroll of Blind,1,1,111,9,0,0,1,0
-4863,Scroll Of Break,0,0,1,0,0,0,1,0
 4867,Scroll Of Sleep II,1,1,18720,9,0,0,1,0
 4868,Scroll Of Dispel,1,1,63700,9,0,0,1,0
 4869,Scroll Of Warp,1,1,15000,3,0,0,1,0
@@ -689,13 +623,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4885,Dread Spikes,1,1,70650,9,0,0,1,0
 4886,Absorb-ACC,1,1,30000,9,0,0,1,0
 4887,Scroll Of Absorb-Attri,1,1,8250,2,0,0,1,0
-4889,Scroll Of Breakga,0,0,1,0,0,0,1,0
-4890,Scroll Of Firaja,0,0,1,0,0,0,1,0
-4891,Scroll Of Blizzaja,0,0,1,0,0,0,1,0
-4892,Scroll Of Aeroja,0,0,1,0,0,0,1,0
-4893,Scroll Of Stoneja,0,0,1,0,0,0,1,0
-4894,Scroll Of Thundaja,0,0,1,0,0,0,1,0
-4895,Scroll Of Waterja,0,0,1,0,0,0,1,0
 4896,Fire Spirit Pact,0,1,50000,0,0,0,1,0
 4897,Ice Spirit Pact,0,1,4000,0,0,0,1,0
 4898,Air Spirit Pact,0,1,2000,0,0,0,1,0
@@ -729,11 +656,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4961,Scroll Of Tonko: Ichi,1,1,50000,3,0,0,1,0
 4962,Scroll Of Tonko: Ni,1,1,2000,2,0,0,1,0
 4964,Scroll Of Monomi: Ichi,1,1,8726,9,0,0,1,0
-4965,Scroll Of Aisha: Ichi,0,0,1,0,0,0,1,0
-4966,Scroll Of Myoshu: Ichi,0,0,1,0,0,0,1,0
-4967,Scroll Of Yurin: Ichi,0,0,1,0,0,0,1,0
-4968,Scroll Of Kakka: Ichi,0,0,1,0,0,0,1,0
-4969,Scroll Of Migawari: Ichi,0,0,1,0,0,0,1,0
 4976,Scroll Of Foe Requiem,1,1,66,9,0,0,1,0
 4977,Scroll Of Foe Requiem II,1,1,450,9,0,0,1,0
 4978,Scroll Of Foe Requiem III,1,1,4048,9,0,0,1,0
@@ -742,7 +664,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4981,Scroll Of Foe Requiem VI,1,1,3000,2,0,0,1,0
 4982,Scroll Of Foe Requiem VII,1,1,47196,9,0,0,1,0
 4984,Scroll Of Horde Lullaby,1,1,8000,2,0,0,1,0
-4985,Scroll Of Horde Lullaby II,0,0,1,0,0,0,1,0
 4986,Scroll Of Army's Paeon,1,1,38,9,0,0,1,0
 4987,Scroll Of Army's Paeon II,1,1,328,9,0,0,1,0
 4988,Scroll Of Army's Paeon III,1,1,3312,9,0,0,1,0
@@ -751,7 +672,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4991,Scroll Of Army's Paeon VI,1,1,48944,9,0,0,1,0
 4994,Scroll Of Mage's Ballad,1,1,5000,4,0,0,1,0
 4995,Scroll Of Mage's Ballad II,1,1,400000,1,0,0,1,0
-4996,Scroll Of Mage's Ballad III,0,0,1,0,0,0,1,0
 4997,Scroll Of Knight's Minne,1,1,3000,4,0,0,1,0
 4998,Scroll Of Knight's Minne II,1,1,8000,3,0,0,1,0
 4999,Scroll Of Knight's Minne III,1,1,15000,2,0,0,1,0
@@ -802,14 +722,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5051,Scroll Of Water Carol,1,1,5000,9,0,0,1,0
 5052,Scroll Of Light Carol,1,1,4200,9,0,0,1,0
 5053,Scroll Of Dark Carol,1,1,8400,9,0,0,1,0
-5054,Scroll Of Fire Carol II,0,0,1,0,0,0,1,0
-5055,Scroll Of Ice Carol II,0,0,1,0,0,0,1,0
-5056,Scroll Of Wind Carol II,0,0,1,0,0,0,1,0
-5057,Scroll Of Earth Carol II,0,0,1,0,0,0,1,0
-5058,Scroll Of Lightning Carol II,0,0,1,0,0,0,1,0
-5059,Scroll Of Water Carol II,0,0,1,0,0,0,1,0
-5060,Scroll Of Light Carol II,0,0,1,0,0,0,1,0
-5061,Scroll Of Dark Carol II,0,0,1,0,0,0,1,0
 5062,Scroll Of Fire Threnody,1,1,10000,4,0,0,1,0
 5063,Scroll Of Ice Threnody,1,1,1000,9,0,0,1,0
 5064,Scroll Of Wind Threnody,1,1,10000,5,0,0,1,0
@@ -824,13 +736,8 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5073,Scroll Of Chocobo Mazurka,1,1,35000,9,0,0,1,0
 5074,Scroll Of Maiden's Virelai,1,1,20000,1,0,0,1,0
 5075,Scroll Of Raptor Mazurka,1,1,4400,9,0,0,1,0
-5078,Scroll Of Sentinel's Scherzo,0,0,1,0,0,0,1,0
-5079,Scroll Of Foe Lullaby II,0,0,1,0,0,0,1,0
-5080,Scroll Of Pining Nocturne,0,0,1,0,0,0,1,0
 5082,Scroll of Cura II,1,1,88389,9,0,0,1,0
-5083,Scroll Of Cura III,0,0,1,0,0,0,1,0
 5085,Scroll of Regen IV,1,1,50400,9,0,0,1,0
-5086,Scroll Of Regen V,0,0,1,0,0,0,1,0
 5087,Scroll of Gain-STR,1,1,89804,9,0,0,1,0
 5088,Scroll of Gain-DEX,1,1,99613,9,0,0,1,0
 5089,Scroll of Gain-VIT,1,1,73740,9,0,0,1,0
@@ -845,9 +752,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5098,Scroll of Boost-INT,1,1,94461,9,0,0,1,0
 5099,Scroll of Boost-MND,1,1,77500,9,0,0,1,0
 5100,Scroll of Boost-CHR,1,1,81900,9,0,0,1,0
-5101,Scroll of Arise,0,0,1,0,0,0,1,0
 5103,Scroll Of Crusade,1,1,143451,9,0,0,1,0
-5105,Scroll of Flurry II,0,0,1,0,0,0,1,0
 5106,Scroll of Inundation,1,1,73500,9,0,0,1,0
 5142,Serving Of Bison Steak,1,1,10000,5,0,0,1,0
 5144,Serving Of Crimson Jelly,1,1,10000,5,0,0,1,0
@@ -864,19 +769,13 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5157,Serving Of Marbled Steak,1,1,12000,5,0,0,1,0
 5158,Serving Of Vermillion Jelly,1,1,20000,5,0,0,1,0
 5159,Plate Of Friture De La Misareaux,1,1,7777,5,0,0,1,0
-5160,Plate Of Urchin Sushi +1,0,0,1,0,0,0,1,0
-5162,Plate Of Squid Sushi +1,0,0,1,0,0,0,1,0
-5163,Plate Of Sole Sushi +1,0,0,1,0,0,0,1,0
 5164,Ground Wasabi,1,1,1945,9,0,0,1,0
 5165,Movalpolos Water,1,1,720,9,0,0,1,0
 5166,Coeurl Sub,1,1,3000,5,1,1,36000,3
-5167,Coeurl Sub +1,0,0,1,0,0,0,1,0
 5174,Tavnazian Taco,1,1,5000,5,1,1,60000,3
 5175,Leremieu Taco,1,1,6000,5,1,1,72000,3
 5176,Plate Of Bream Sushi,1,1,1200,5,1,1,14400,3
-5177,Plate Of Bream Sushi +1,0,0,1,0,0,0,1,0
 5178,Plate Of Dorado Sushi,1,1,3000,5,1,1,36000,3
-5179,Plate Of Dorado Sushi +1,0,0,1,0,0,0,1,0
 5180,Bowl Of Sophic Stew,1,1,20000,5,0,0,1,0
 5181,Tortilla Bueno,1,1,1000,5,1,1,12000,3
 5182,Salty Bretzel,1,1,777,5,1,1,76923,3
@@ -891,29 +790,18 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5193,Dish Of Spaghetti Nero Di Seppia,1,1,4000,5,1,1,48000,3
 5195,Misareaux Parsley,1,1,233,9,0,0,1,0
 5196,Strip Of Buffalo Jerky,1,1,1000,5,1,1,12000,3
-5197,Dish Of Spaghetti Peperoncino +1,0,0,1,0,0,0,1,0
-5198,Dish Of Spag. Vongole Rosso +1,0,0,1,0,0,0,1,0
-5199,Dish Of Spaghetti Carbonara +1,0,0,1,0,0,0,1,0
-5200,Dish Of Spaghetti Pescatora +1,0,0,1,0,0,0,1,0
-5201,Dish Of Spaghetti Boscaiola +1,0,0,1,0,0,0,1,0
-5202,Dish Of Spag. Nero Di Seppia +1,0,0,1,0,0,0,1,0
 5207,Strip Of Bison Jerky,1,1,2000,5,1,1,24000,3
 5211,Dish Of Spaghetti Arrabbiata,1,1,25000,5,1,1,300000,3
-5212,Dish Of Spaghetti Arrabbiata +1,0,0,1,0,0,0,1,0
 5213,Dish Of Spaghetti Melanzane,1,1,100,5,1,1,1200,3
-5214,Dish Of Spaghetti Melanzane +1,0,0,1,0,0,0,1,0
 5215,Plate Of Tentacle Sushi,1,1,2000,5,1,1,24000,3
-5216,Plate Of Tentacle Sushi +1,0,0,1,0,0,0,1,0
 5217,Serving Of Salmon Eggs,1,1,1000,5,1,1,12000,3
 5218,Serving Of Salmon Roe,1,1,1000,5,1,1,12000,3
 5219,Plate Of Ikra Gunkan,1,1,1000,5,1,1,12000,3
-5220,Plate Of Ikra Gunkan +1,0,0,1,0,0,0,1,0
 5230,Love Chocolate,1,1,3000,5,0,0,1,0
 5231,Truelove Chocolate,1,1,10000,5,0,0,1,0
 5235,Napa,1,1,187,9,0,0,2244,0
 5236,Shungiku,1,1,224,9,0,0,2688,0
 5238,Seafood Stewpot,1,1,10000,5,0,0,1,0
-5240,Prized Seafood Stewpot,0,0,1,0,0,0,1,0
 5263,Dish Of Spaghetti Tonno Rosso,1,1,3000,5,1,1,36000,3
 5266,Blackened Muddy Siredon,1,1,5000,5,0,0,1,0
 5299,Salsa,1,1,133,9,0,0,1596,0
@@ -954,23 +842,10 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5494,Puppetmaster Die,1,1,9216,9,0,0,1,0
 5495,Dancer Die,1,1,63375,9,0,0,1,0
 5496,Scholar Die,1,1,68250,9,0,0,1,0
-5497,Bolter's Die,0,0,1,0,0,0,1,0
-5498,Caster's Die,0,0,1,0,0,0,1,0
-5499,Courser's Die,0,0,1,0,0,0,1,0
-5500,Blitzer's Die,0,0,1,0,0,0,1,0
-5501,Tactician's Die,0,0,1,0,0,0,1,0
-5502,Allies' Die,0,0,1,0,0,0,1,0
-5503,Miser's Die,0,0,1,0,0,0,1,0
-5504,Companion's Die,0,0,1,0,0,0,1,0
-5505,Avenger's Die,0,0,1,0,0,0,1,0
 5542,Gateau Aux Fraises,1,1,1000,5,0,0,1,0
 5543,Midwinter Dream,1,1,10000,5,0,0,1,0
 5544,Crab Stewpot,1,1,10000,5,0,0,1,0
-5545,Prime Crab Stewpot,0,0,1,0,0,0,1,0
-5546,Prized Crab Stewpot,0,0,1,0,0,0,1,0
 5547,Beef Stewpot,1,1,5500,5,0,0,1,0
-5548,Prime Beef Stewpot,0,0,1,0,0,0,1,0
-5549,Prized Beef Stewpot,0,0,1,0,0,0,1,0
 5550,Roll Of Buche Au Chocolat,1,1,1000,5,0,0,1,0
 5551,Roll Of Sylvan Excursion,1,1,10000,5,0,0,1,0
 5552,Serving Of Black Pudding,1,1,2000,5,0,0,1,0
@@ -985,43 +860,28 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5567,Dried Date,1,1,200,9,0,0,1,0
 5570,Chai,1,1,68,9,0,0,1,0
 5572,Irmik Helvasi,1,1,2075,9,0,0,1,0
-5573,Irmik Helvasi +1,0,0,1,0,0,0,1,0
-5574,Dried Date +1,0,0,1,0,0,0,1,0
 5576,Ayran,1,1,800,9,0,0,1,0
 5577,Sutlac,1,1,1500,9,0,0,1,0
-5578,Bowl Of Sutlac +1,0,0,1,0,0,0,1,0
 5579,Bowl Of Yayla Corbasi,1,1,3000,5,0,0,1,0
-5580,Bowl Of Yayla Corbasi +1,0,0,1,0,0,0,1,0
 5584,Plate Of Ic Pilav,1,1,3000,5,1,1,36000,3
-5585,Plate Of Ic Pilav +1,0,0,1,0,0,0,1,0
 5586,Serving Of Menemen,1,1,7000,5,1,1,84000,3
-5587,Serving Of Menemen +1,0,0,1,0,0,0,1,0
 5590,Balik Sandvici,1,1,3750,9,0,0,1,0
-5591,Balik Sandvici +1,0,0,1,0,0,0,1,0
 5592,Imperial Coffee,1,1,450,9,0,0,1,0
-5593,Cup Of Imperial Coffee +1,0,0,1,0,0,0,1,0
-5594,Cup Of Chai +1,0,0,1,0,0,0,1,0
 5595,Bowl Of Nashmau Stew,1,1,5000,5,0,0,1,0
 5596,Simit,1,1,1000,5,1,1,12000,3
 5597,Simit +1,1,1,1000,5,1,1,12000,3
 5598,Sis Kebabi,1,1,2000,9,0,0,1,0
-5599,Sis Kebabi +1,0,0,1,0,0,0,1,0
 5600,Balik Sis,1,1,3000,9,0,0,1,0
-5601,Balik Sis +1,0,0,1,0,0,0,1,0
 5602,Dish Of Hydra Kofte,1,1,22000,5,0,0,1,0
-5603,Dish Of Hydra Kofte +1,0,0,1,0,0,0,1,0
 5604,El. Pachira Fruit,1,1,154,9,0,0,1,0
 5609,Hellsteak,1,1,30000,5,1,1,360000,3
-5610,Hellsteak +1,0,0,1,0,0,0,1,0
 5611,Angler Stewpot,1,1,5000,5,0,0,1,0
-5612,Prime Angler Stewpot,0,0,1,0,0,0,1,0
 5614,Konigskuchen,1,1,1000,5,0,0,1,0
 5615,Uberkuchen,1,1,5000,5,0,0,1,0
 5616,Lebkuchen House,1,1,1000,5,0,0,1,0
 5617,Lebkuchen Manse,1,1,5617,5,0,0,1,0
 5618,Bowl Of Zoni Broth,1,1,5000,5,0,0,1,0
 5619,Bowl Of Zesty Zoni,1,1,10000,5,0,0,1,0
-5624,Dish Of Spaghetti Tonno Rosso +1,0,0,1,0,0,0,1,0
 5625,Maple Cake,1,1,562,5,0,0,1,0
 5626,Silken Siesta,1,1,6000,5,0,0,1,0
 5627,Yogurt Cake,1,1,10000,5,0,0,1,0
@@ -1033,9 +893,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5633,Chocolate Cake,1,1,10000,5,0,0,1,0
 5634,Silken Spirit,1,1,10000,5,0,0,1,0
 5635,Shrimp Cracker,1,1,1000,5,1,1,99000,3
-5636,Shrimp Cracker +1,0,0,1,0,0,0,1,0
-5637,Pogaca,0,0,1,0,0,0,1,0
-5638,Pogaca +1,0,0,1,0,0,0,1,0
 5642,Serving Of Cilbir,1,1,5000,5,0,0,1,0
 5643,Serving Of Cibarious Cilbir,1,1,1111,5,0,0,1,0
 5644,Jack-o'-pie,1,1,2000,5,1,1,24000,3
@@ -1045,19 +902,13 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5648,Grilled Lik,1,1,100,5,1,1,1200,3
 5652,Plate Of Anchovies,1,1,1000,5,1,1,12000,3
 5653,Cherry Muffin,1,1,1000,5,1,1,12000,3
-5654,Cherry Muffin +1,0,0,1,0,0,0,1,0
 5655,Coffeecake Muffin,1,1,500,5,1,1,6000,3
-5656,Coffeecake Muffin +1,0,0,1,0,0,0,1,0
 5657,Army Biscuit,1,1,1192,5,1,1,118008,3
 5658,Dish Of Spaghetti Ortolana,1,1,5000,5,1,1,60000,3
-5659,Dish Of Spaghetti Ortolana +1,0,0,1,0,0,0,1,0
 5660,Stick Of Pepperoni,1,1,4000,5,1,1,48000,3
 5663,Plate Of Salmon Sushi,1,1,1000,5,1,1,12000,3
-5664,Plate Of Salmon Sushi +1,0,0,1,0,0,0,1,0
 5665,Plate Of Fin Sushi,1,1,1800,5,1,1,21600,3
-5666,Plate Of Fin Sushi +1,0,0,1,0,0,0,1,0
 5669,Bowl Of Loach Slop,1,1,3000,5,0,0,1,0
-5670,Bowl Of Loach Gruel,0,0,1,0,0,0,1,0
 5671,Bowl Of Loach Soup,1,1,50000,5,0,0,1,0
 5672,Dried Berry,1,1,1,5,1,1,12,3
 5673,Rolsin,1,1,1,5,1,1,12,3
@@ -1065,49 +916,30 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5683,Humpty Dumpty Effigy,1,1,30000,5,0,0,1,0
 5685,Rabbit Pie,1,1,5000,5,1,1,60000,3
 5686,Cheese Sandwich,1,1,2000,5,1,1,24000,3
-5687,Cheese Sandwich +1,0,0,1,0,0,0,1,0
 5689,Meatloaf,1,1,10000,5,0,0,1,0
-5690,Meatloaf +1,0,0,1,0,0,0,1,0
 5691,Plate Of Shrimp Sushi,1,1,5000,5,1,1,60000,3
-5692,Plate Of Shrimp Sushi +1,0,0,1,0,0,0,1,0
 5693,Plate Of Octopus Sushi,1,1,4500,5,1,1,54000,3
-5694,Plate Of Octopus Sushi +1,0,0,1,0,0,0,1,0
 5695,Margherita Pizza,1,1,10000,5,0,0,1,0
-5696,Margherita Pizza +1,0,0,1,0,0,0,1,0
 5697,Pepperoni Pizza,1,1,1000,5,0,0,1,0
-5698,Pepperoni Pizza +1,0,0,1,0,0,0,1,0
 5699,Anchovy Pizza,1,1,5000,5,0,0,1,0
-5700,Anchovy Pizza +1,0,0,1,0,0,0,1,0
 5718,Cream Puff,1,1,3000,5,1,1,36000,3
 5719,Dish Of Spaghetti Marinara,1,1,1000,5,1,1,12000,3
 5721,Plate Of Crab Sushi,1,1,500,5,1,1,6000,3
-5722,Plate Of Crab Sushi +1,0,0,1,0,0,0,1,0
 5727,Serving Of Zaru Soba,1,1,3000,5,1,1,36000,3
-5728,Serving Of Zaru Soba +1,0,0,1,0,0,0,1,0
 5729,Serving Of Bavarois,1,1,2000,5,0,0,1,0
-5730,Serving Of Bavarois +1,0,0,1,0,0,0,1,0
 5734,Toolbag (soshi),1,1,99000,2,1,1,1188000,1
 5737,Slice Of Salted Hare,1,1,500,5,0,0,1,0
 5738,Chunk Of Sweet Lizard,1,1,1000,5,0,0,1,0
 5739,Mug Of Honeyed Egg,1,1,1000,5,0,0,1,0
 5743,Marinara Pizza,1,1,5000,5,0,0,1,0
-5744,Marinara Pizza +1,0,0,1,0,0,0,1,0
 5745,Serving Of Cherry Bavarois,1,1,3000,5,0,0,1,0
-5746,Serving Of Cherry Bavarois +1,0,0,1,0,0,0,1,0
 5750,Bowl Of Goulash,1,1,5000,5,0,0,1,0
-5751,Bowl Of Goulash +1,0,0,1,0,0,0,1,0
 5752,Pot-au-feu,1,1,2000,5,1,1,24000,3
-5753,Pot-au-feu +1,0,0,1,0,0,0,1,0
 5756,Green Curry Bun,1,1,1000,5,1,1,12000,3
 5757,Yellow Curry Bun,1,1,2000,5,1,1,24000,3
 5758,Black Curry Bun,1,1,1500,5,1,1,18000,3
 5759,Red Curry Bun,1,1,15000,5,1,1,180000,3
 5760,Kohlrouladen,1,1,15000,5,0,0,1,0
-5761,Kohlrouladen +1,0,0,1,0,0,0,1,0
-5762,Green Curry Bun +1,0,0,1,0,0,0,1,0
-5763,Yellow Curry Bun +1,0,0,1,0,0,0,1,0
-5764,Black Curry Bun +1,0,0,1,0,0,0,1,0
-5765,Red Curry Bun +1,0,0,1,0,0,0,1,0
 5766,Butter Crepe,1,1,1000,5,1,1,12000,3
 5767,Crepe Delice,1,1,1,5,1,1,12,3
 5771,Ham And Cheese Crepe,1,1,1000,5,1,1,12000,3
@@ -1124,9 +956,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5782,Sugar Rusk,1,1,1000,5,1,1,12000,3
 5783,Chocolate Rusk,1,1,3000,5,1,1,36000,3
 5784,Coconut Rusk,1,1,5000,5,1,1,60000,3
-5859,Galkan Sausage +1,0,0,1,0,0,0,1,0
-5860,Galkan Sausage +2,0,0,1,0,0,0,1,0
-5861,Galkan Sausage +3,0,0,1,0,0,0,1,0
 5862,Galkan Sausage -1,1,1,5000,5,1,1,60000,3
 5863,Toolbag (kabenro),1,1,99000,2,1,1,1188000,1
 5864,Toolbag (jinko),1,1,99000,2,1,1,1188000,1
@@ -1159,17 +988,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 6054,Windstorm (Scroll),1,1,6786,9,0,0,1,0
 6055,Aurorastorm (Scroll),1,1,11440,9,0,0,1,0
 6056,Voidstorm (Scroll),1,1,10325,9,0,0,1,0
-6059,Animus Augeo Schema,0,0,1,0,0,0,1,0
-6060,Animus Minuo Schema,0,0,1,0,0,0,1,0
-6061,Adloquium Schema,0,0,1,0,0,0,1,0
-8721,Hepatizon Ore,0,0,1,0,0,0,1,0
-8723,Beryllium Ore,0,0,1,0,0,0,1,0
-8747,Ra'Kaznar Ore,0,0,1,0,0,0,1,0
 8918,Soot,1,1,567,9,1,1,6804,5
-8974,Harold's Ore,0,0,1,0,0,0,1,0
-9058,Specter's Ore,0,0,1,0,0,0,1,0
-9075,Vulcanite Ore,0,0,1,0,0,0,1,0
-9130,Eschite Ore,0,0,1,0,0,0,1,0
 12289,Lauan Shield,1,1,110,9,0,0,1,0
 12290,Maple Shield,1,1,556,9,0,0,1,0
 12291,Elm Shield,1,1,1815,9,0,0,1,0
@@ -1303,7 +1122,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 13568,Scarlet Ribbon,1,1,1250,9,0,0,1,0
 13577,Black Cape,1,1,11088,9,0,0,1,0
 13979,Silver Bangles,1,1,5000,9,0,0,1,0
-16104,Darksteel Jambiya +1,0,0,1,0,0,0,1,0
 16385,Cesti,1,1,132,9,0,0,1,0
 16386,Lizard Cesti,1,1,3000,5,0,0,1,0
 16387,Poison Cesti,1,1,3000,4,0,0,1,0
@@ -1314,7 +1132,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16392,Metal Knuckles,1,1,10000,5,0,0,1,0
 16393,Mythril Knuckles,1,1,10000,3,0,0,1,0
 16394,Darksteel Knuckles,1,1,20000,2,0,0,1,0
-16395,Diamond Knuckles,0,0,1,0,0,0,1,0
 16396,Koenigs Knuckles,1,1,50000,1,0,0,1,0
 16397,Behemoth Cesti,1,1,10000,1,0,0,1,0
 16398,Burning Cesti,1,1,5000,4,0,0,1,0
@@ -1385,12 +1202,8 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16477,Cermet Kukri,1,1,15000,3,0,0,1,0
 16478,Poison Kukri,1,1,10000,4,0,0,1,0
 16479,Acid Kukri,1,1,16000,3,0,0,1,0
-16480,Thief's Knife,0,0,1,0,0,0,1,0
-16481,Yataghan +1,0,0,1,0,0,0,1,0
 16482,Onion Dagger,1,1,1000,6,0,0,1,0
 16483,Onion Knife,1,1,1000,5,0,0,1,0
-16485,Yataghan,0,0,1,0,0,0,1,0
-16486,Beestinger,0,0,1,0,0,0,1,0
 16489,Poison Kukri +1,1,1,10000,3,0,0,1,0
 16490,Blind Knife +1,1,1,7500,5,0,0,1,0
 16491,Bronze Knife +1,1,1,2000,5,0,0,1,0
@@ -1445,7 +1258,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16700,Poison Cesti +1,1,1,10000,3,0,0,1,0
 16701,Strike Baghnakhs,1,1,11500,4,0,0,1,0
 16702,Cougar Baghnakhs,1,1,15000,3,0,0,1,0
-16703,Impact Knuckles,0,0,1,0,0,0,1,0
 16704,Butterfly Axe,1,1,672,9,0,0,1,0
 16705,Greataxe,1,1,4550,9,0,0,1,0
 16736,Dagger +1,1,1,5000,4,0,0,1,0
@@ -1468,7 +1280,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16753,Ceremonial Dagger,1,1,1000,6,0,0,1,0
 16754,Parrying Knife,1,1,19000,4,0,0,1,0
 16755,Archer's Knife,1,1,20000,3,0,0,1,0
-16757,Corsair's Knife,0,0,1,0,0,0,1,0
 16758,Darksteel Baselard +1,1,1,30000,2,0,0,1,0
 16759,Darksteel Kris,1,1,25000,3,0,0,1,0
 16760,Darksteel Kris +1,1,1,50000,2,0,0,1,0
@@ -1582,12 +1393,10 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 17399,Sabiki Rig,1,1,2394,9,1,1,28728,5
 17400,Sinking Minnow,1,1,691,9,1,1,8292,5
 17407,Minnow,1,1,270,9,1,1,3240,5
-17472,Cross-counters,0,0,1,0,0,0,1,0
 17473,Torama Cesti,1,1,30000,2,0,0,1,0
 17475,Darksteel Katars +1,1,1,25000,1,0,0,1,0
 17476,Cat Baghnakhs +1,1,1,15000,5,0,0,1,0
 17477,Bone Patas +1,1,1,25000,1,0,0,1,0
-17480,Diamond Knuckles +1,0,0,1,0,0,0,1,0
 17481,Kaiser Knuckles,1,1,100000,0,0,0,1,0
 17482,Jamadhars +1,1,1,50000,1,0,0,1,0
 17483,Venom Katars +1,1,1,50000,1,0,0,1,0
@@ -1672,40 +1481,25 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 17990,Combat Caster's Dagger +1,1,1,12000,3,0,0,1,0
 17991,Combat Caster's Dagger +2,1,1,25000,2,0,0,1,0
 17993,Platoon Dagger,1,1,5000,5,0,0,1,0
-17994,Calveley's Dagger,0,0,1,0,0,0,1,0
-17995,Jongleur's Dagger,0,0,1,0,0,0,1,0
 17996,Stylet,1,1,10000,2,0,0,1,0
 17997,Argent Dagger,1,1,10000,4,0,0,1,0
 17998,Thanatos Baselard,1,1,20000,2,0,0,1,0
 17999,Taillefer's Dagger,1,1,35000,2,0,0,1,0
 18000,Mighty Knife,1,1,50000,2,0,0,1,0
-18001,Harpe,0,0,1,0,0,0,1,0
-18004,Trailer's Kukri,0,0,1,0,0,0,1,0
-18006,Hoplites Harpe,0,0,1,0,0,0,1,0
 18008,Hushed Dagger,1,1,3000,5,0,0,1,0
-18009,Martial Knife,0,0,1,0,0,0,1,0
 18010,Melt Dagger,1,1,15000,4,0,0,1,0
 18011,Melt Knife,1,1,4500,4,0,0,1,0
 18012,Melt Baselard,1,1,10000,3,0,0,1,0
 18013,Melt Kukri,1,1,17000,4,0,0,1,0
-18015,Blau Dolch,0,0,1,0,0,0,1,0
-18020,Mercurial Kris,0,0,1,0,0,0,1,0
 18022,Adaman Kris +1,1,1,25000,1,0,0,1,0
-18023,Jambiya,0,0,1,0,0,0,1,0
-18024,Jambiya +1,0,0,1,0,0,0,1,0
 18026,Magnet Knife,1,1,4000,1,0,0,1,0
 18029,Piercing Dagger,1,1,3000,6,0,0,1,0
-18030,Khimaira Jambiya,0,0,1,0,0,0,1,0
-18032,Adder Jambiya,0,0,1,0,0,0,1,0
-18033,Adder Jambiya +1,0,0,1,0,0,0,1,0
 18035,Deathbone Knife,1,1,10000,3,0,0,1,0
 18258,Throwing Tomahawk,1,1,248,9,1,1,2976,5
 18259,Angon,1,1,248,9,1,1,2976,5
 18350,Tourney Patas,1,1,20000,2,0,0,1,0
 18351,Meteor Cesti,1,1,5000,2,0,0,1,0
 18352,Mighty Patas,1,1,50000,1,0,0,1,0
-18353,Adargas,0,0,1,0,0,0,1,0
-18354,Adargas +1,0,0,1,0,0,0,1,0
 18355,Hushed Baghnakhs,1,1,20000,5,0,0,1,0
 18356,Martial Knuckles,1,1,15000,3,0,0,1,0
 18357,Melt Claws,1,1,20000,3,0,0,1,0
@@ -1716,24 +1510,15 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 18731,Automaton Oil,1,1,200,9,1,1,2400,5
 18732,Automat. Oil Plus 1,1,1,500,9,1,1,6000,5
 18733,Automat. Oil Plus 2,1,1,1000,9,1,1,12000,5
-18741,Scogan's Knuckles,0,0,1,0,0,0,1,0
 18743,Darksteel Sainti,1,1,40000,1,0,0,1,0
 18744,Darksteel Sainti +1,1,1,200000,0,0,0,1,0
-18745,Adaman Sainti,0,0,1,0,0,0,1,0
-18746,Gem Sainti,0,0,1,0,0,0,1,0
 18747,Smash Cesti,1,1,5000,5,0,0,1,0
-18748,Hades Sainti,0,0,1,0,0,0,1,0
-18749,Hades Sainti +1,0,0,1,0,0,0,1,0
-18750,Black Adargas,0,0,1,0,0,0,1,0
-18751,Black Adargas +1,0,0,1,0,0,0,1,0
 18755,Noble Himantes,1,1,10000,3,0,0,1,0
 18756,Cobra Unit Baghnakhs,1,1,10000,3,0,0,1,0
 18757,Gnole Sainti,1,1,30000,2,0,0,1,0
 18758,Gnole Sainti +1,1,1,48000,1,0,0,1,0
 18760,Useshi,1,1,10000,1,0,0,1,0
-18761,Acantha Shavers,0,0,1,0,0,0,1,0
 18764,Oberon's Knuckles,1,1,5000,3,0,0,1,0
-18765,Oberon's Sainti,0,0,1,0,0,0,1,0
 18766,Tyro Katars,1,1,2500,3,0,0,1,0
 18768,Poppet Katars,1,1,20000,1,0,0,1,0
 18769,Severus Claws,1,1,25000,2,0,0,1,0
@@ -1745,10 +1530,8 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 18784,Metasoma Katars,1,1,50000,1,0,0,1,0
 18785,Grotesque Cesti,1,1,30000,1,0,0,1,0
 19100,Cobra Unit Knife,1,1,20000,2,0,0,1,0
-19103,Darksteel Jambiya,0,0,1,0,0,0,1,0
 19105,Thug's Jambiya,1,1,10000,4,0,0,1,0
 19106,Thug's Jambiya +1,1,1,14000,2,0,0,1,0
-19107,Azoth,0,0,1,0,0,0,1,0
 19111,Silktone,1,1,5000,3,0,0,1,0
 19112,Farseer,1,1,5000,3,0,0,1,0
 19115,Fane Baselard,1,1,15000,2,0,0,1,0
@@ -1757,10 +1540,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 19119,Ranging Knife,1,1,7300,4,0,0,1,0
 19120,Avis,1,1,25000,3,0,0,1,0
 19127,Ranging Knife +1,1,1,13000,3,0,0,1,0
-19138,Verus Knife,0,0,1,0,0,0,1,0
-19139,Verus Knife +1,0,0,1,0,0,0,1,0
-19140,Mantodea Harpe,0,0,1,0,0,0,1,0
-19142,Gnadgott,0,0,1,0,0,0,1,0
 19251,Pet Roborant,1,1,300,9,1,1,3600,5
 19252,Pet Poultice,1,1,250,9,1,1,3000,5
 21444,Livid Broth,1,1,200,9,1,1,2400,5
