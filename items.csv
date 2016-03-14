@@ -211,7 +211,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4288,Zebra Eel,1,1,10000,1,1,1,120000,3
 4289,Forest Carp,1,1,10000,1,1,1,120000,3
 4290,Elshimo Frog,1,1,1000,3,1,1,12000,3
-4291,Sandfish,1,1,1000,3,1,1,1,0
+4291,Sandfish,1,1,1000,3,0,0,1,0
 4292,Loaf Of Pain De Neige,1,1,1500,5,1,1,18000,3
 4294,Serving Of Medicinal Quus,1,1,4000,5,0,0,1,0
 4295,Plate Of Royal Sautee,1,1,10000,5,0,0,1,0
@@ -223,22 +223,22 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4301,Flask Of Pear Au Lait,1,1,2000,5,0,0,1,0
 4302,Flask Of Pamama Au Lait,1,1,1000,5,0,0,1,0
 4303,Flask Of Persikos Au Lait,1,1,2000,5,0,0,1,0
-4304,Grimmonite,1,1,1000,1,1,1,1,0
-4305,Ryugu Titan,1,1,4000,1,1,1,1,0
-4306,Giant Donko,1,1,15000,1,1,1,1,0
-4307,Jungle Catfish,1,1,10000,3,1,1,1,0
-4308,Giant Chirai,1,1,10000,1,1,1,1,0
-4309,Cave Cherax,1,1,40000,1,1,1,1,0
+4304,Grimmonite,1,1,1000,1,0,0,1,0
+4305,Ryugu Titan,1,1,4000,1,0,0,1,0
+4306,Giant Donko,1,1,15000,1,0,0,1,0
+4307,Jungle Catfish,1,1,10000,3,0,0,1,0
+4308,Giant Chirai,1,1,10000,1,0,0,1,0
+4309,Cave Cherax,1,1,40000,1,0,0,1,0
 4310,Tiny Goldfish,1,1,1000,3,1,1,12000,3
 4311,Black Bubble-eye,1,1,1000,1,1,1,12000,3
-4312,Lionhead,1,1,5000,1,1,1,1,0
+4312,Lionhead,1,1,5000,1,0,0,1,0
 4313,Blindfish,1,1,5000,1,1,1,60000,3
 4314,Bibikibo,1,1,3650,1,1,1,43800,3
 4315,Lungfish,1,1,50000,3,1,1,600000,3
-4316,Armored Pisces,1,1,10000,1,1,1,1,0
+4316,Armored Pisces,1,1,10000,1,0,0,1,0
 4317,Trilobite,1,1,5000,1,1,1,60000,3
-4318,Bibiki Urchin,1,1,2500,1,1,1,1,0
-4319,Tricorn,1,1,25000,1,1,1,1,0
+4318,Bibiki Urchin,1,1,2500,1,0,0,1,0
+4319,Tricorn,1,1,25000,1,0,0,1,0
 4323,Bowl Of Vegetable Broth,1,1,2000,5,0,0,1,0
 4324,Chunk Of Hobgoblin Chocolate,1,1,2000,5,1,1,198000,3
 4326,Serving Of Frog Flambe,1,1,1000,5,1,1,12000,3
@@ -342,30 +342,30 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4451,Silver Shark,1,1,3000,9,1,1,36000,5
 4452,Bowl Of Shark Fin Soup,1,1,20000,5,0,0,1,0
 4453,Bowl Of Eyeball Soup,1,1,5000,5,0,0,1,0
-4454,Emperor Fish,1,1,2000,3,1,1,1,0
+4454,Emperor Fish,1,1,2000,3,0,0,1,0
 4455,Pebble Soup,1,1,184,9,1,1,2208,5
 4456,Boiled Crab,1,1,1000,5,1,1,12000,3
 4457,Eel Kabob,1,1,2700,9,1,1,32400,5
 4458,Goblin Bread,1,1,276,9,1,1,3312,5
 4459,Nebimonite Bake,1,1,3000,5,1,1,36000,3
 4461,Bastore Bream,1,1,1000,9,1,1,12000,5
-4462,Monke-onke,1,1,10000,1,1,1,1,0
-4463,Takitaro,1,1,15000,1,1,1,1,0
+4462,Monke-onke,1,1,10000,1,0,0,1,0
+4463,Takitaro,1,1,15000,1,0,0,1,0
 4464,Pipira,1,1,5000,3,1,1,60000,3
 4465,Bowl Of Goblin Stew,1,1,50,5,0,0,1,0
 4466,Spicy Cracker,1,1,500,5,1,1,6000,3
 4467,Garlic Cracker,1,1,3,9,1,1,36,5
 4468,Pamamas,1,1,72,9,1,1,864,5
-4469,Giant Catfish,1,1,1000,7,1,1,1,0
+4469,Giant Catfish,1,1,1000,7,0,0,1,0
 4470,Icefish,1,1,2000,1,1,1,24000,3
 4471,Bladefish,1,1,10000,1,1,1,1,0
 4472,Crayfish,1,1,38,9,1,1,456,5
 4473,Crescent Fish,1,1,10000,6,1,1,120000,3
-4474,Gigant Squid,1,1,2000,9,1,1,1,0
-4475,Sea Zombie,1,1,40000,10,1,1,1,0
-4476,Titanictus,1,1,2500,10,1,1,1,0
-4477,Gavial Fish,1,1,3000,5,1,1,1,0
-4478,Three-eyed Fish,1,1,5000,11,1,1,1,0
+4474,Gigant Squid,1,1,2000,9,0,0,1,0
+4475,Sea Zombie,1,1,40000,10,0,0,1,0
+4476,Titanictus,1,1,2500,10,0,0,1,0
+4477,Gavial Fish,1,1,3000,5,0,0,1,0
+4478,Three-eyed Fish,1,1,5000,11,0,0,1,0
 4479,Bhefhel Marlin,1,1,1350,9,1,1,16200,5
 4480,Gugru Tuna,1,1,375,9,1,1,4500,5
 4481,Ogre Eel,1,1,291,9,1,1,3492,5
@@ -442,8 +442,8 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4576,Wizard Cookie,1,1,1000,5,1,1,99000,3
 4577,Wild Cookie,1,1,100,5,1,1,9900,3
 4578,Sausage,1,1,143,9,1,1,1716,5
-4579,Elshimo Newt,1,1,1000,1,1,1,1,0
-4580,Coral Butterfly,1,1,4000,3,1,1,1,0
+4579,Elshimo Newt,1,1,1000,1,0,0,1,0
+4580,Coral Butterfly,1,1,4000,3,0,0,1,0
 4581,Blackened Newt,1,1,1000,5,0,0,1,0
 4582,Serving Of Bass Meuniere,1,1,10000,5,0,0,1,0
 4583,Serving Of Salmon Meuniere,1,1,9550,5,0,0,1,0
@@ -801,28 +801,28 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5100,Scroll of Boost-CHR,1,1,81900,9,0,0,1,0
 5103,Scroll Of Crusade,1,1,143451,9,0,0,1,0
 5106,Scroll of Inundation,1,1,73500,9,0,0,1,0
-5120,Titanic Sawfish,1,1,40000,3,1,1,1,0
+5120,Titanic Sawfish,1,1,40000,3,0,0,1,0
 5121,Moorish Idol,1,1,5000,5,1,1,60000,3
 5122,Bibiki Slug,1,1,100,6,1,1,1200,3
 5123,Jacknife,1,1,400,1,1,1,4800,3
 5124,Tropical Clam,1,1,4000,1,1,1,48000,3
-5125,Phanauet Newt,1,1,10000,1,1,1,1,0
-5126,Muddy Siredon,1,1,1000,3,1,1,1,0
-5127,Gugrusaurus,1,1,20000,1,1,1,1,0
+5125,Phanauet Newt,1,1,10000,1,0,0,1,0
+5126,Muddy Siredon,1,1,1000,3,0,0,1,0
+5127,Gugrusaurus,1,1,20000,1,0,0,1,0
 5128,Cone Calamary,1,1,2900,5,1,1,34800,3
-5129,Lik,1,1,20000,10,1,1,1,0
+5129,Lik,1,1,20000,10,0,0,1,0
 5130,Tavnazian Goby,1,1,1500,1,1,1,18000,3
 5131,Vongola Clam,1,1,3000,1,1,1,36000,3
 5132,Gurnard,1,1,1000,1,1,1,12000,3
-5133,Pterygotus,1,1,832,1,1,1,1,0
-5134,Mola Mola,1,1,800,1,1,1,1,0
-5135,Rhinochimera,1,1,5000,1,1,1,1,0
-5136,Istavrit,1,1,3000,1,1,1,1,0
-5137,Turnabaligi,1,1,20000,1,1,1,1,0
+5133,Pterygotus,1,1,832,1,0,0,1,0
+5134,Mola Mola,1,1,800,1,0,0,1,0
+5135,Rhinochimera,1,1,5000,1,0,0,1,0
+5136,Istavrit,1,1,3000,1,0,0,1,0
+5137,Turnabaligi,1,1,20000,1,0,0,1,0
 5138,Black Ghost,1,1,5000,4,1,1,60000,3
 5139,Betta,1,1,25000,1,1,1,300000,3
-5140,Kalkanbaligi,1,1,10000,1,1,1,1,0
-5141,Veydal Wrasse,1,1,20000,3,1,1,1,0
+5140,Kalkanbaligi,1,1,10000,1,0,0,1,0
+5141,Veydal Wrasse,1,1,20000,3,0,0,1,0
 5142,Serving Of Bison Steak,1,1,10000,5,0,0,1,0
 5144,Serving Of Crimson Jelly,1,1,10000,5,0,0,1,0
 5145,Plate Of Fish And Chips,1,1,1000,5,0,0,1,0
@@ -891,33 +891,33 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5447,Denizanasi,1,1,100,1,1,1,1200,3
 5448,Kalamar,1,1,3000,5,1,1,36000,3
 5449,Hamsi,1,1,300,1,1,1,3600,3
-5450,Lakerda,1,1,2000,1,1,1,1,0
-5451,Kilicbaligi,1,1,4650,1,1,1,1,0
+5450,Lakerda,1,1,2000,1,0,0,1,0
+5451,Kilicbaligi,1,1,4650,1,0,0,1,0
 5452,Uskumru,1,1,550,1,1,1,6600,3
 5453,Istakoz,1,1,3000,3,1,1,36000,3
 5454,Mercanbaligi,1,1,3000,1,1,1,36000,3
-5455,Ahtapot,1,1,500,1,1,1,1,0
+5455,Ahtapot,1,1,500,1,0,0,1,0
 5456,Istiridye,1,1,2000,3,1,1,24000,3
 5457,Dil,1,1,1000,1,1,1,12000,3
 5458,Yilanbaligi,1,1,1200,9,0,0,1,0
 5459,Sazanbaligi,1,1,1800,9,0,0,1,0
 5460,Kayabaligi,1,1,4650,9,0,0,1,0
 5461,Alabaligi,1,1,130,9,0,0,1,0
-5462,Morinabaligi,1,1,7500,1,1,1,1,0
-5463,Yayinbaligi,1,1,5000,1,1,1,1,0
+5462,Morinabaligi,1,1,7500,1,0,0,1,0
+5463,Yayinbaligi,1,1,5000,1,0,0,1,0
 5464,Kaplumbaga,1,1,7500,1,1,1,90000,3
 5465,Caedarva Frog,1,1,6000,1,1,1,72000,3
 5466,Trumpet Shell,1,1,2000,3,1,1,24000,3
-5467,Megalodon,1,1,5500,1,1,1,1,0
-5468,Matsya,1,1,80000,6,1,1,1,0
+5467,Megalodon,1,1,5500,1,0,0,1,0
+5468,Matsya,1,1,80000,6,0,0,1,0
 5469,Brass Loach,1,1,3700,1,1,1,44400,3
-5470,Pirarucu,1,1,8100,1,1,1,1,0
-5471,Gerrothorax,1,1,10000,1,1,1,1,0
+5470,Pirarucu,1,1,8100,1,0,0,1,0
+5471,Gerrothorax,1,1,10000,1,0,0,1,0
 5472,Garpike,1,1,1000,1,1,1,12000,3
 5473,Bastore Sweeper,1,1,5000,3,1,1,60000,3
 5474,Ca Cuong,1,1,3000,1,1,1,36000,3
-5475,Gigant Octopus,1,1,8000,3,1,1,1,0
-5476,Abaia,1,1,30000,9,1,1,1,0
+5475,Gigant Octopus,1,1,8000,3,0,0,1,0
+5476,Abaia,1,1,30000,9,0,0,1,0
 5477,Warrior Die,1,1,68000,9,0,0,1,0
 5478,Monk Die,1,1,22400,9,0,0,1,0
 5479,White Mage Die,1,1,5000,9,0,0,1,0
@@ -938,10 +938,10 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5494,Puppetmaster Die,1,1,9216,9,0,0,1,0
 5495,Dancer Die,1,1,63375,9,0,0,1,0
 5496,Scholar Die,1,1,68250,9,0,0,1,0
-5537,Soryu,1,1,2500,1,1,1,1,0
-5538,Sekiryu,1,1,3650,1,1,1,1,0
-5539,Hakuryu,1,1,3000,1,1,1,1,0
-5540,Kokuryu,1,1,4000,1,1,1,1,0
+5537,Soryu,1,1,2500,1,0,0,1,0
+5538,Sekiryu,1,1,3650,1,0,0,1,0
+5539,Hakuryu,1,1,3000,1,0,0,1,0
+5540,Kokuryu,1,1,4000,1,0,0,1,0
 5542,Gateau Aux Fraises,1,1,1000,5,0,0,1,0
 5543,Midwinter Dream,1,1,10000,5,0,0,1,0
 5544,Crab Stewpot,1,1,10000,5,0,0,1,0
@@ -1022,8 +1022,8 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5695,Margherita Pizza,1,1,10000,5,0,0,1,0
 5697,Pepperoni Pizza,1,1,1000,5,0,0,1,0
 5699,Anchovy Pizza,1,1,5000,5,0,0,1,0
-5714,Pearlscale,1,1,10000,1,1,1,1,0
-5715,Calico Comet,1,1,1000,5,1,1,1,0
+5714,Pearlscale,1,1,10000,1,0,0,1,0
+5715,Calico Comet,1,1,1000,5,0,0,1,0
 5718,Cream Puff,1,1,3000,5,1,1,36000,3
 5719,Dish Of Spaghetti Marinara,1,1,1000,5,1,1,12000,3
 5721,Plate Of Crab Sushi,1,1,500,5,1,1,6000,3
@@ -1059,10 +1059,10 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5783,Chocolate Rusk,1,1,3000,5,1,1,36000,3
 5784,Coconut Rusk,1,1,5000,5,1,1,60000,3
 5812,Blowfish,1,1,1000,1,1,1,12000,3
-5813,Dorado Gar,1,1,10000,1,1,1,1,0
-5814,Crocodilos,1,1,10000,1,1,1,1,0
-5815,Pelazoea,1,1,5000,1,1,1,1,0
-5816,King Perch,1,1,3000,1,1,1,1,0
+5813,Dorado Gar,1,1,10000,1,0,0,1,0
+5814,Crocodilos,1,1,10000,1,0,0,1,0
+5815,Pelazoea,1,1,5000,1,0,0,1,0
+5816,King Perch,1,1,3000,1,0,0,1,0
 5862,Galkan Sausage -1,1,1,5000,5,1,1,60000,3
 5863,Toolbag (kabenro),1,1,99000,2,1,1,1188000,1
 5864,Toolbag (jinko),1,1,99000,2,1,1,1188000,1
