@@ -159,7 +159,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 2643,Jinko,1,1,1000,3,1,1,99000,1
 2644,Ryuno,1,1,1000,3,1,1,99000,1
 2792,Catalytic Oil,1,1,92,4,1,1,1104,2
-2859,Cobalt Ore,1,1,10000,,,,120000,
+2859,Cobalt Ore,1,1,10000,,1,1,120000,
 2970,Mokujin,1,1,1000,3,1,1,99000,1
 2971,Inoshishinofuda,1,1,1000,3,1,1,99000,1
 2972,Shikanofuda,1,1,1000,3,1,1,99000,1
@@ -1395,9 +1395,24 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16581,Holy Sword,1,1,30000,3,0,0,1,0
 16583,Claymore,1,1,2448,4,0,0,1,0
 16584,Mythril Claymore,1,1,20000,4,0,0,1,0
+16585,Darksteel Claymore,1,1,25000,2,0,0,1,0
+16587,Gold Algol,1,1,50000,1,0,0,1,0
+16588,Flame Claymore,1,1,10000,4,0,0,1,0
+16589,Two-handed Sword,1,1,10000,3,0,0,1,0
+16590,Greatsword,1,1,5000,4,0,0,1,0
+16591,Zweihander,1,1,40000,2,0,0,1,0
+16593,Plain Sword,1,1,10000,4,0,0,1,0
+16594,Inferno Sword,1,1,10000,4,0,0,1,0
+16595,Ram-dao,1,1,30000,2,0,0,1,0
+16596,Flamberge,1,1,35000,1,0,0,1,0
+16597,Nagan,1,1,25000,2,0,0,1,0
+16599,Royal Guard's Sword,1,1,50000,2,0,0,1,0
 16600,Wax Sword,1,1,4000,4,0,0,1,0
+16601,Royal Swordsman's Blade,1,1,20000,2,0,0,1,0
+16603,Halo Claymore,1,1,10000,3,0,0,1,0
 16604,Save The Queen,0,1,50000,0,0,0,1,0
 16605,Enhancing Sword,0,1,250000,0,0,0,1,0
+16606,Rusty Greatsword,1,1,7000,4,0,0,1,0
 16608,Gladiator,1,1,30000,3,0,0,1,0
 16609,Bloody Sword,1,1,50000,2,0,0,1,0
 16610,Wax Sword +1,1,1,10000,3,0,0,1,0
@@ -1406,6 +1421,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16613,Spirit Sword,1,1,10000,3,0,0,1,0
 16614,Knife +1,1,1,8800,2,0,0,1,0
 16615,Falchion +1,1,1,20000,1,0,0,1,0
+16616,Zweihander +1,1,1,65000,1,0,0,1,0
 16617,Tuck +1,1,1,29500,2,0,0,1,0
 16618,Mailbreaker +1,1,1,20000,1,0,0,1,0
 16620,Merman's Sword,1,1,40000,1,0,0,1,0
@@ -1424,10 +1440,13 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16634,Broadsword +1,1,1,30000,2,0,0,1,0
 16635,Mythril Sword +1,1,1,10000,2,0,0,1,0
 16636,Tulwar +1,1,1,30000,2,0,0,1,0
+16637,Deathbringer,1,1,10000,2,0,0,1,0
+16639,Fine Claymore,1,1,30000,2,0,0,1,0
 16640,Bronze Axe,1,1,284,4,0,0,1,0
 16641,Brass Axe,1,1,1435,4,0,0,1,0
 16657,Tabar,1,1,20000,4,0,0,1,0
 16658,Darksteel Tabar,1,1,50000,4,0,0,1,0
+16683,Claymore +1,1,1,11000,2,0,0,1,0
 16688,Mythril Claws +1,1,1,20000,1,0,0,1,0
 16689,Brass Knuckles +1,1,1,10000,2,0,0,1,0
 16690,Cesti +1,1,1,10000,3,0,0,1,0
@@ -1517,6 +1536,33 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16900,Wakizashi,1,1,1404,4,0,0,1,0
 16917,Suzume,1,1,4226,4,0,0,1,0
 16919,Shinobi-Gatana,1,1,2728,4,0,0,1,0
+16928,Hellfire Sword,1,1,20000,3,0,0,1,0
+16929,Burning Claymore,1,1,15000,3,0,0,1,0
+16930,Mercenary's Greatsword,1,1,13000,3,0,0,1,0
+16931,Two-handed Sword +1,1,1,20000,2,0,0,1,0
+16932,Greatsword +1,1,1,25000,1,0,0,1,0
+16933,Darksteel Claymore +1,1,1,30000,1,0,0,1,0
+16934,Braveheart,1,1,10000,3,0,0,1,0
+16935,Barbarian's Sword,1,1,10000,4,0,0,1,0
+16936,Demonic Sword,1,1,30000,1,0,0,1,0
+16937,Ice Brand,1,1,12000,4,0,0,1,0
+16938,Glorious Sword,1,1,30000,2,0,0,1,0
+16939,Ram-dao +1,1,1,50000,1,0,0,1,0
+16941,Flamberge +1,0,1,300000,0,0,0,1,0
+16942,Balmung,1,1,10000,3,0,0,1,0
+16944,Lockheart,1,1,35000,2,0,0,1,0
+16946,Windurstian Sword,1,1,20000,3,0,0,1,0
+16947,Federation Sword,1,1,30000,2,0,0,1,0
+16948,Royal Swordsman's Blade +1,1,1,17500,2,0,0,1,0
+16949,Royal Swordsman's Blade +2,1,1,30000,1,0,0,1,0
+16950,Mythril Heart,1,1,45000,2,0,0,1,0
+16951,Mythril Heart +1,0,1,100000,0,0,0,1,0
+16953,Reserve Captain's Greatsword,1,1,30000,1,0,0,1,0
+16954,Pealing Nagan,1,1,40000,1,0,0,1,0
+16955,Nagan +1,0,1,300000,0,0,0,1,0
+16957,Faussar,1,1,25000,2,0,0,1,0
+16958,Faussar +1,1,1,35000,1,0,0,1,0
+16959,Platoon Sword,1,1,5000,4,0,0,1,0
 16960,Uchigatana,1,1,3121,4,0,0,1,0
 16966,Tachi,1,1,1836,4,0,0,1,0
 16973,Homura,1,1,10000,4,0,0,1,0
@@ -1814,9 +1860,28 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 18361,Ponderous Manoples,1,1,10000,1,0,0,1,0
 18362,Sainti,1,1,15000,1,0,0,1,0
 18363,Sainti +1,1,1,25000,1,0,0,1,0
+18366,Gust Claymore,1,1,5000,4,0,0,1,0
+18367,Gust Claymore +1,1,1,10000,2,0,0,1,0
+18368,Gust Sword,1,1,10000,3,0,0,1,0
+18369,Gust Sword +1,1,1,35000,1,0,0,1,0
+18370,Gust Tongue,1,1,10000,3,0,0,1,0
+18372,Balan's Sword,1,1,20000,2,0,0,1,0
+18373,Balin's Sword,1,1,10000,3,0,0,1,0
+18374,Mighty Sword,1,1,20000,2,0,0,1,0
+18375,Falx,1,1,20000,3,0,0,1,0
+18376,Falx +1,1,1,35000,1,0,0,1,0
+18377,Mercurial Sword,0,1,200000,0,0,0,1,0
+18380,Martial Sword,1,1,60000,1,0,0,1,0
+18381,Prominence Sword,1,1,20000,2,0,0,1,0
+18382,Darksteel Falx,1,1,50000,2,0,0,1,0
+18383,Darksteel Falx +1,0,1,100000,0,0,0,1,0
+18384,Lucent Sword,1,1,20000,2,0,0,1,0
+18386,Gloom Claymore,1,1,10000,3,0,0,1,0
+18389,Crude Sword,1,1,25000,2,0,0,1,0
 18731,Automaton Oil,1,1,200,4,1,1,2400,2
 18732,Automat. Oil Plus 1,1,1,500,4,1,1,6000,2
 18733,Automat. Oil Plus 2,1,1,1000,4,1,1,12000,2
+18739,Vulcan Claymore,1,1,15000,3,0,0,1,0
 18743,Darksteel Sainti,1,1,40000,1,0,0,1,0
 18744,Darksteel Sainti +1,1,1,200000,0,0,0,1,0
 18747,Smash Cesti,1,1,5000,3,0,0,1,0
@@ -1853,6 +1918,18 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 19119,Ranging Knife,1,1,7300,2,0,0,1,0
 19120,Avis,1,1,25000,2,0,0,1,0
 19127,Ranging Knife +1,1,1,13000,2,0,0,1,0
+19150,Cobra Unit Claymore,1,1,15000,3,0,0,1,0
+19151,Bahadur,1,1,35000,1,0,0,1,0
+19152,Bahadur +1,0,1,110000,0,0,0,1,0
+19155,Cruadin,1,1,10000,3,0,0,1,0
+19156,Balisarde,1,1,40000,1,0,0,1,0
+19160,Estramacon,1,1,10000,3,0,0,1,0
+19165,Cratus Sword,1,1,20000,2,0,0,1,0
+19166,Cratus Sword +1,0,1,100000,0,0,0,1,0
+19170,Kardia Faussar,1,1,30000,2,0,0,1,0
+19171,Kardia Faussar +1,1,1,50000,1,0,0,1,0
+19172,Jingang Greatsword,1,1,50000,1,0,0,1,0
+19173,Gram,1,1,49500,1,0,0,1,0
 19251,Pet Roborant,1,1,300,4,1,1,3600,2
 19252,Pet Poultice,1,1,250,4,1,1,3000,2
 21444,Livid Broth,1,1,200,4,1,1,2400,2
