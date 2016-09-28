@@ -1091,6 +1091,16 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 10802,Majorelle Shield,0,1,200000,0,0,0,1,1
 10803,Weathering Shield,0,1,20000,0,0,0,1,1
 10804,Thuellaic Ecu,0,1,10000,0,0,0,1,1
+11473,Mirror Tiara,1,1,40000,1,0,0,1,0
+11474,Louhi's Mask,1,1,10000,1,0,0,1,0
+11492,Risky Patch,1,1,50000,3,0,0,1,0
+11493,Precision Bandana,1,1,30000,3,0,0,1,0
+11494,Circe's Hat,1,1,30000,3,0,0,1,0
+11495,Zeal Cap,1,1,40000,2,0,0,1,0
+11498,Zeal Cap +1,1,1,50000,1,0,0,1,0
+11788,Jester's Hat,1,1,100000,4,0,0,1,0
+12117,Ebon Armet,1,1,50000,1,0,0,1,0
+12141,Ebon Beret,1,1,10000,1,0,0,1,0
 12289,Lauan Shield,1,1,110,4,0,0,1,0
 12290,Maple Shield,1,1,556,4,0,0,1,0
 12291,Elm Shield,1,1,1815,4,0,0,1,0
@@ -1203,22 +1213,107 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 12414,Turtle Shield,1,1,10000,3,0,0,1,1
 12415,Shell Shield,1,1,1000,4,0,0,1,1
 12416,Sallet,1,1,10000,4,0,0,1,0
+12417,Mythril Sallet,1,1,10000,2,0,0,1,0
+12418,Gold Armet,1,1,10000,2,0,0,1,0
+12419,Darksteel Armet,1,1,40000,1,0,0,1,0
+12420,Adaman Barbuta,1,1,30000,1,0,0,1,0
+12422,Iron Musketeer's Armet,1,1,10000,2,0,0,1,0
 12424,Iron Mask,1,1,3500,4,0,0,1,0
+12425,Silver Mask,1,1,15000,3,0,0,1,0
+12426,Banded Helm,1,1,20000,2,0,0,1,0
+12427,Bascinet,1,1,10000,2,0,0,1,0
+12428,Celata,1,1,10000,1,0,0,1,0
+12430,Royal Knight's Bascinet,1,1,20000,2,0,0,1,0
+12431,Royal Squire's Helm,1,1,10000,3,0,0,1,0
 12432,Faceguard,1,1,1334,4,0,0,1,0
 12433,Brass Mask,1,1,2500,4,0,0,1,0
+12435,Coral Visor,1,1,15000,2,0,0,1,0
+12436,Dragon Mask,1,1,50000,1,0,0,1,0
+12437,Gavial Mask,1,1,1000,1,0,0,1,0
+12438,Centurion's Visor,1,1,10000,3,0,0,1,0
+12439,Bascinet +1,1,1,15000,1,0,0,1,0
 12440,Leather Bandana,1,1,404,4,0,0,1,0
+12441,Lizard Helm,1,1,2000,4,0,0,1,0
+12442,Studded Bandana,1,1,2000,3,0,0,1,0
+12443,Cuir Bandana,1,1,3000,3,0,0,1,0
+12444,Raptor Helm,1,1,15000,2,0,0,1,0
+12445,Dusk Mask,1,1,22500,1,0,0,1,0
+12446,Tiger Helm,1,1,20000,1,0,0,1,0
+12447,Coeurl Mask,1,1,15000,1,0,0,1,0
 12448,Bronze Cap,1,1,154,4,0,0,1,0
 12449,Brass Cap,1,1,1504,4,0,0,1,0
 12450,Padded Cap,1,1,4000,4,0,0,1,0
+12451,Scorpion Mask,1,1,5000,2,0,0,1,0
+12452,Darksteel Cap,1,1,10000,1,0,0,1,0
+12453,Coral Cap,1,1,30000,1,0,0,1,0
+12454,Bone Mask,1,1,2000,4,0,0,1,0
 12455,Beetle Mask,1,1,7026,4,0,0,1,0
 12456,Hachimaki,1,1,552,4,0,0,1,0
+12457,Cotton Hachimaki,1,1,2000,4,0,0,1,0
 12458,Soil Hachimaki,1,1,8972,4,0,0,1,0
+12459,Zunari Kabuto,1,1,13000,2,0,0,1,0
+12460,Shinobi Hachigane,1,1,10000,2,0,0,1,0
+12463,Bronze Cap +1,1,1,3000,3,0,0,1,0
 12464,Headgear,1,1,1781,4,0,0,1,0
+12465,Cotton Headgear,1,1,1000,3,0,0,1,0
 12466,Red Cap,1,1,3000,4,0,0,1,0
 12467,Wool Cap,1,1,5000,4,0,0,1,0
+12468,Green Beret,1,1,10000,1,0,0,1,0
+12469,War Beret,1,1,10000,1,0,0,1,0
+12470,Mercenary Captain's Headgear,1,1,10000,3,0,0,1,0
+12471,Headgear +1,1,1,5000,3,0,0,1,0
+12472,Circlet,1,1,1000,4,0,0,1,0
 12473,Poet's Circlet,1,1,1904,4,0,0,1,0
 12474,Wool Hat,1,1,5000,4,0,0,1,0
+12475,Velvet Hat,1,1,5000,3,0,0,1,0
+12476,Silk Hat,1,1,30000,2,0,0,1,0
+12477,Noble's Crown,1,1,10000,1,0,0,1,0
+12478,Tactician Magician's Hat,1,1,20000,2,0,0,1,0
+12479,Wool Hat +1,1,1,10000,2,0,0,1,0
+12480,Lizard Helm +1,1,1,10000,3,0,0,1,0
+12481,Cuir Bandana +1,1,1,10000,2,0,0,1,0
+12482,Scorpion Mask +1,1,1,9779,1,0,0,1,0
+12484,Mercenary's Hachimaki,1,1,5000,3,0,0,1,0
+12485,Fungus Hat,1,1,2500,4,0,0,1,0
+12487,Faceguard +1,1,1,4000,3,0,0,1,0
+12490,Yasha Jinpachi,1,1,15000,1,0,0,1,0
+12494,Gold Hairpin,1,1,15000,2,0,0,1,0
+12495,Silver Hairpin,1,1,3000,3,0,0,1,0
+12496,Copper Hairpin,1,1,1000,4,0,0,1,0
+12497,Brass Hairpin,1,1,4000,4,0,0,1,0
+12498,Cotton Headband,1,1,3000,4,0,0,1,0
+12499,Flax Headband,1,1,5000,3,0,0,1,0
+12500,Traveler's Hat,1,1,1000,4,0,0,1,0
+12501,Monk's Headgear,1,1,2000,4,0,0,1,0
+12502,Compound Eye Circlet,1,1,5000,4,0,0,1,0
+12503,Silk Headband,1,1,5000,2,0,0,1,0
+12504,Rainbow Headband,1,1,20000,1,0,0,1,0
+12505,Bone Hairpin,1,1,300,4,0,0,1,0
+12506,Shell Hairpin,1,1,3000,4,0,0,1,0
+12507,Horn Hairpin,1,1,13000,3,0,0,1,0
+12508,Coral Hairpin,1,1,40000,2,0,0,1,0
+12509,Legionnaire's Cap,1,1,1000,4,0,0,1,0
+12510,Royal Footman's Bandana,1,1,2000,4,0,0,1,0
+12522,Rusty Cap,1,1,2000,3,0,0,1,0
+12524,Iron Mask +1,1,1,7000,2,0,0,1,0
+12525,Strong Cap,1,1,8000,3,0,0,1,0
+12526,Copper Hairpin +1,1,1,3000,3,0,0,1,0
+12527,Circlet +1,1,1,5000,3,0,0,1,0
+12528,Brass Cap +1,1,1,4000,3,0,0,1,0
+12529,Brass Hairpin +1,1,1,5000,3,0,0,1,0
+12530,Sage's Circlet,1,1,5000,3,0,0,1,0
+12531,Silver Hairpin +1,1,1,10000,2,0,0,1,0
+12532,Brass Mask +1,1,1,9500,2,0,0,1,0
+12533,Silver Mask +1,1,1,20000,2,0,0,1,0
+12534,Hachimaki +1,1,1,2000,3,0,0,1,0
+12535,Great Headgear,1,1,5000,3,0,0,1,0
+12536,Erudite's Headband,1,1,10000,4,0,0,1,0
 12537,Cotton Hachimaki,1,1,3272,4,0,0,1,0
+12538,Red Cap +1,1,1,10000,2,0,0,1,0
+12539,Soil Hachimaki +1,1,1,2000,2,0,0,1,0
+12540,Alluring Headband,1,1,4000,3,0,0,1,0
+12541,Wool Cap +1,1,1,20000,1,0,0,1,0
+12542,Leather Bandana +1,1,1,2000,3,0,0,1,0
 12552,Chainmail,1,1,5000,4,0,0,1,0
 12554,Banded Mail,1,1,9000,4,0,0,1,0
 12560,Scale Mail,1,1,2051,4,0,0,1,0
@@ -1267,6 +1362,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 12817,Brass Cuisses,1,1,3000,4,0,0,1,0
 12824,Leather Trousers,1,1,493,4,0,0,1,0
 12825,Lizard Trousers,1,1,5003,4,0,0,1,0
+12828,Horn Hairpin +1,1,1,6000,2,0,0,1,0
 12832,Bronze Subligar,1,1,191,4,0,0,1,0
 12833,Brass Subligar,1,1,1840,4,0,0,1,0
 12835,Beetle Subligar,1,1,3000,4,0,0,1,0
@@ -1325,11 +1421,155 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 13465,Brass Ring,1,1,184,4,0,0,1,0
 13469,Leather Ring,1,1,1150,4,0,0,1,0
 13568,Scarlet Ribbon,1,1,1250,4,0,0,1,0
+13574,Black Ribbon,1,1,40000,1,0,0,1,0
 13577,Black Cape,1,1,11088,4,0,0,1,0
+13590,Green Ribbon,1,1,5000,2,0,0,1,0
+13698,Beak Helm,1,1,10000,2,0,0,1,0
+13701,Beak Helm +1,1,1,10000,1,0,0,1,0
+13704,Ogre Mask,1,1,5000,1,0,0,1,0
+13711,Carapace Mask,1,1,4000,2,0,0,1,0
+13824,Strong Bandana,1,1,8000,3,0,0,1,0
+13825,Bone Hairpin +1,1,1,2000,3,0,0,1,0
+13826,Bone Mask +1,1,1,10000,3,0,0,1,0
+13827,Beetle Mask +1,1,1,8000,2,0,0,1,0
+13829,Carapace Mask +1,1,1,10000,1,0,0,1,0
+13830,Legionnaire's Circlet,1,1,10000,3,0,0,1,0
+13831,Sallet +1,1,1,10000,1,0,0,1,0
+13832,Banded Helm +1,1,1,20000,1,0,0,1,0
+13833,Noble's Ribbon,1,1,10000,3,0,0,1,0
+13834,Mage's Hat,1,1,20000,3,0,0,1,0
+13835,Dino Helm,1,1,10000,2,0,0,1,0
+13836,Shell Hairpin +1,1,1,3000,3,0,0,1,0
+13837,Bonze's Circlet,1,1,1000,4,0,0,1,0
+13838,Dodge Headband,1,1,2000,3,0,0,1,0
+13839,Marine Hat,1,1,10000,3,0,0,1,0
+13840,Electrum Hairpin,1,1,10000,2,0,0,1,0
+13841,Valkyrie's Mask,1,1,40000,2,0,0,1,0
+13844,Shinobi Hachigane +1,1,1,30000,1,0,0,1,0
+13846,Scorpion Helm,1,1,30000,1,0,0,1,0
+13847,Mythril Sallet +1,1,1,20000,1,0,0,1,0
+13848,Gilt Armet,1,1,100000,1,0,0,1,0
+13849,Gold Hairpin +1,1,1,20000,1,0,0,1,0
+13850,Merman's Hairpin,1,1,10000,2,0,0,1,0
+13851,Silk Headband +1,1,1,15000,1,0,0,1,0
+13854,Green Ribbon +1,1,1,10000,1,0,0,1,0
+13862,Torama Mask,1,1,10000,1,0,0,1,0
+13864,Merman's Cap,1,1,100000,1,0,0,1,0
+13865,Zunari Kabuto +1,1,1,30000,1,0,0,1,0
+13871,Iron Visor,1,1,10000,3,0,0,1,0
+13872,Iron Visor +1,1,1,10000,2,0,0,1,0
+13873,Steel Visor,1,1,5000,2,0,0,1,0
+13874,Steel Visor +1,1,1,15000,1,0,0,1,0
+13875,Monsoon Jinpachi,1,1,10000,2,0,0,1,0
+13878,Carapace Helm,1,1,20000,2,0,0,1,0
+13879,Carapace Helm +1,1,1,60000,1,0,0,1,0
+13881,Arhat's Jinpachi,1,1,10000,2,0,0,1,0
+13882,Corsair's Hat,1,1,10000,2,0,0,1,0
+13883,Corsair's Hat +1,1,1,17000,1,0,0,1,0
+13884,Jester's Headband,1,1,5000,2,0,0,1,0
+13885,Juggler's Headband,1,1,40000,1,0,0,1,0
+13887,Black Sallet,1,1,40000,1,0,0,1,0
+13889,Bastokan Cap,1,1,5000,4,0,0,1,0
+13890,Republic Cap,1,1,10000,3,0,0,1,0
+13891,San D'Orian Helm,1,1,10000,3,0,0,1,0
+13892,Kingdom Helm,1,1,30000,3,0,0,1,0
+13893,Iron Musketeer's Armet +1,1,1,20000,2,0,0,1,0
+13894,Iron Musketeer's Armet +2,1,1,30000,1,0,0,1,0
+13895,San D'Orian Bandana,1,1,10000,4,0,0,1,0
+13896,Kingdom Bandana,1,1,15000,3,0,0,1,0
+13897,Bastokan Visor,1,1,10000,3,0,0,1,0
+13898,Republic Visor,1,1,20000,2,0,0,1,0
+13899,Bastokan Circlet,1,1,10000,3,0,0,1,0
+13900,Republic Circlet,1,1,10000,2,0,0,1,0
+13901,Windurstian Hachimaki,1,1,5000,3,0,0,1,0
+13902,Federation Hachimaki,1,1,15000,2,0,0,1,0
+13903,Windurstian Headgear,1,1,10000,3,0,0,1,0
+13904,Federation Headgear,1,1,14500,2,0,0,1,0
+13905,Tactician Magician's Hat +1,1,1,20000,2,0,0,1,0
+13906,Tactician Magician's Hat +2,1,1,30000,1,0,0,1,0
+13910,Roshi Jinpachi,1,1,30000,1,0,0,1,0
+13918,Tiger Mask,1,1,10000,1,0,0,1,0
+13920,Wyvern Helm,1,1,10000,1,0,0,1,0
+13922,Demon Helm,1,1,10000,1,0,0,1,0
+13925,Rasetsu Jinpachi,1,1,20000,1,0,0,1,0
+13929,Errant Hat,1,1,10000,1,0,0,1,0
+13931,Lilac Corsage,1,1,30000,1,0,0,1,0
+13932,Gala Corsage,1,1,50000,2,0,0,1,0
+13936,Dragon Cap,1,1,20000,1,0,0,1,0
+13939,Austere Hat,1,1,10000,2,0,0,1,0
+13940,Penance Hat,1,1,20000,1,0,0,1,0
+13942,Panther Mask,1,1,10000,1,0,0,1,0
+13950,Elite Beret,1,1,10000,1,0,0,1,0
 13979,Silver Bangles,1,1,5000,4,0,0,1,0
 15071,Spartan Hoplon,1,1,30000,2,0,0,1,1
+15147,Garrison Sallet,1,1,6000,4,0,0,1,0
+15148,Mana Circlet,1,1,11000,2,0,0,1,0
+15149,Rival Ribbon,1,1,15000,2,0,0,1,0
+15150,Shock Mask,1,1,34500,2,0,0,1,0
+15151,Super Ribbon,1,1,50000,2,0,0,1,0
+15152,Cactuar Ribbon,1,1,50000,1,0,0,1,0
+15153,Sha'ir Turban,1,1,20000,1,0,0,1,0
+15155,Barone Zucchetto,1,1,40000,1,0,0,1,0
+15157,Bison Warbonnet,1,1,20000,1,0,0,1,0
+15159,Igqira Tiara,1,1,10000,1,0,0,1,0
+15161,Noct Beret,1,1,10000,3,0,0,1,0
+15162,Mist Crown,1,1,33846,3,0,0,1,0
+15163,Seer's Crown,1,1,10000,3,0,0,1,0
+15164,Garish Crown,1,1,10000,3,0,0,1,0
+15165,Shade Tiara,1,1,20000,3,0,0,1,0
+15166,Seer's Crown +1,1,1,20000,2,0,0,1,0
+15167,Eisenschaller,1,1,19000,3,0,0,1,0
+15168,Rubious Crown,1,1,10000,3,0,0,1,0
+15169,Shade Tiara +1,1,1,25000,2,0,0,1,0
+15170,Blink Band,1,1,30000,3,0,0,1,0
+15171,Kampfschaller,1,1,20000,2,0,0,1,0
+15172,Noct Beret +1,1,1,20000,2,0,0,1,0
+15173,Kosshin,1,1,80000,3,0,0,1,0
+15175,Reviler's Helm,1,1,30000,1,0,0,1,0
+15180,Cache-nez,1,1,5000,4,0,0,1,0
+15181,Pineal Hat,1,1,3000,1,0,0,1,0
+15186,Trump Crown,1,1,40000,3,0,0,1,0
+15188,Hachiman Jinpachi,1,1,37500,1,0,0,1,0
+15189,Lord's Armet,1,1,40000,1,0,0,1,0
+15190,Wise Cap,1,1,10000,1,0,0,1,0
+15195,Faerie Hairpin,1,1,50000,1,0,0,1,0
+15196,Elegant Ribbon,1,1,8000,2,0,0,1,0
+15197,Vampire Mask,1,1,5000,2,0,0,1,0
+15205,Alumine Salade,1,1,15000,2,0,0,1,0
+15206,Luisant Salade,1,1,30000,1,0,0,1,0
+15207,Trader's Chapeau,1,1,20000,3,0,0,1,0
+15208,Baron's Chapeau,1,1,30000,2,0,0,1,0
+15209,Unicorn Cap,1,1,20000,1,0,0,1,0
+15211,Reraise Hairpin,1,1,60000,2,0,0,1,0
+15242,Crow Beret,1,1,20000,2,0,0,1,0
+15243,Raven Beret,1,1,30000,1,0,0,1,0
+15268,Eldritch Bone Hairpin,1,1,5000,4,0,0,1,0
+15269,Eldritch Horn Hairpin,1,1,5000,3,0,0,1,0
+16061,Sipahi Turban,1,1,20000,2,0,0,1,0
+16063,Jaridah Khud,1,1,10000,2,0,0,1,0
+16067,Abtal Turban,1,1,30000,1,0,0,1,0
+16068,Akinji Khud,1,1,20000,1,0,0,1,0
+16071,Kawahori Kabuto,1,1,10000,1,0,0,1,0
+16072,Brigand's Mask,1,1,30000,1,0,0,1,0
+16073,Hydra Mask,1,1,50000,1,0,0,1,0
+16078,Blissful Chapeau,1,1,23500,3,0,0,1,0
+16079,Silken Hat,1,1,20000,2,0,0,1,0
 16086,Behourd Lance,1,1,10000,2,0,0,1,0
+16104,Khimaira Bonnet,1,1,30000,1,0,0,1,0
 16106,Triton's Lance,0,1,100000,0,0,0,1,0
+16110,Plain Cap,1,1,1000,3,0,0,1,0
+16111,Tabin Beret,1,1,10000,1,0,0,1,0
+16121,Mamool Ja Helm,1,1,50000,1,0,0,1,0
+16122,Troll Coif,1,1,60000,1,0,0,1,0
+16124,Qiqirn Hood,1,1,50000,1,0,0,1,0
+16128,Wivre Hairpin,1,1,10000,1,0,0,1,0
+16130,Wivre Mask,1,1,50000,1,0,0,1,0
+16132,Dandy Spectacles,1,1,50000,3,0,0,1,0
+16133,Fancy Spectacles,1,1,60000,2,0,0,1,0
+16141,Iron Ram Helm,1,1,10000,2,0,0,1,0
+16142,Fourth Division Armet,1,1,10000,2,0,0,1,0
+16143,Cobra Unit Hat,1,1,15000,1,0,0,1,0
+16150,Saurian Helm,1,1,20000,1,0,0,1,0
 16161,Januwiyah,1,1,150000,1,0,0,1,1
 16162,Tariqah,1,1,10000,1,0,0,1,1
 16163,Januwiyah +1,0,1,100000,0,0,0,1,1
@@ -2900,13 +3140,3 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 21497,Rapid Broth,1,1,2371,4,1,1,28452,2
 21498,Crackling Broth,1,1,1474,4,1,1,17688,2
 21499,Creepy Broth,1,1,2425,4,1,1,29100,2
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
