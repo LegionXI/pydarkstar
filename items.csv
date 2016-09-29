@@ -444,7 +444,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4586,Broiled Carp,1,1,2000,3,1,1,24000,1
 4587,Broiled Trout,1,1,1000,3,1,1,12000,1
 4588,Broiled Eel,1,1,2000,3,1,1,24000,1
-4589,Scroll of Shock Spikes,1,1,8280,4,0,0,1,0
 4590,Salmon Rice Ball,1,1,1000,3,1,1,12000,1
 4591,Loaf Of Pumpernickel,1,1,150,3,1,1,1800,1
 4592,Bowl Of Wisdom Soup,1,1,5500,3,0,0,1,0
@@ -455,90 +454,90 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4603,Cup Of Chamomile Tea,1,1,1000,3,0,0,1,0
 4604,Rogue Rice Ball,1,1,1000,3,1,1,12000,1
 4605,Naval Rice Ball,1,1,2000,3,1,1,24000,1
-4609,Scroll of Cure,1,1,61,4,0,0,1,0
-4610,Scroll of Cure II,1,1,585,4,0,0,1,0
+4609,Scroll Of Cure,1,1,61,4,0,0,1,0
+4610,Scroll Of Cure II,1,1,585,4,0,0,1,0
 4611,Scroll Of Cure III,1,1,3344,4,0,0,1,0
 4612,Scroll Of Cure IV,1,1,23400,4,0,0,1,0
-4614,Scroll of Cure VI,1,1,141137,4,0,0,1,0
-4615,Scroll of Curaga,1,1,1363,4,0,0,1,0
+4614,Scroll Of Cure VI,1,1,141137,4,0,0,1,0
+4615,Scroll Of Curaga,1,1,1363,4,0,0,1,0
 4616,Scroll Of Curaga II,1,1,11200,4,0,0,1,0
 4617,Scroll Of Curaga III,1,1,19932,4,0,0,1,0
 4618,Scroll Of Curaga IV,1,1,10000,1,0,0,1,0
 4620,Scroll Of Raise,1,1,5293,4,0,0,1,0
 4621,Scroll Of Raise II,1,1,20000,1,0,0,1,0
-4622,Scroll of Poisona,1,1,180,4,0,0,1,0
-4623,Scroll of Paralyna,1,1,324,4,0,0,1,0
-4624,Scroll of Blindna,1,1,990,4,0,0,1,0
-4625,Scroll of Silena,1,1,2330,4,0,0,1,0
-4626,Scroll of Stona,1,1,19200,4,0,0,1,0
-4627,Scroll of Viruna,1,1,13300,4,0,0,1,0
+4622,Scroll Of Poisona,1,1,180,4,0,0,1,0
+4623,Scroll Of Paralyna,1,1,324,4,0,0,1,0
+4624,Scroll Of Blindna,1,1,990,4,0,0,1,0
+4625,Scroll Of Silena,1,1,2330,4,0,0,1,0
+4626,Scroll Of Stona,1,1,19200,4,0,0,1,0
+4627,Scroll Of Viruna,1,1,13300,4,0,0,1,0
 4628,Scroll Of Cursna,1,1,8568,4,0,0,1,0
 4629,Scroll Of Holy,1,1,31500,4,0,0,1,0
-4631,Scroll of Dia,1,1,82,4,0,0,1,0
+4631,Scroll Of Dia,1,1,82,4,0,0,1,0
 4632,Scroll Of Dia II,1,1,10304,4,0,0,1,0
-4636,Scroll of Banish,1,1,140,4,0,0,1,0
+4636,Scroll Of Banish,1,1,140,4,0,0,1,0
 4637,Scroll Of Banish II,1,1,8280,4,0,0,1,0
 4638,Scroll Of Banish III,1,1,50000,4,0,0,1,0
-4641,Scroll of Diaga,1,1,1165,4,0,0,1,0
-4646,Scroll of Banishga,1,1,1165,4,0,0,1,0
+4641,Scroll Of Diaga,1,1,1165,4,0,0,1,0
+4646,Scroll Of Banishga,1,1,1165,4,0,0,1,0
 4647,Scroll Of Banishga II,1,1,20000,4,0,0,1,0
-4651,Scroll of Protect V,1,1,219,4,0,0,1,0
+4651,Scroll Of Protect V,1,1,219,4,0,0,1,0
 4652,Scroll Of Protect II,1,1,6508,4,0,0,1,0
 4653,Scroll Of Protect III,1,1,32000,4,0,0,1,0
 4654,Scroll Of Protect IV,1,1,77350,4,0,0,1,0
 4655,Scroll Of Haste,1,1,18400,4,0,0,1,0
-4656,Scroll of Shell,1,1,1584,4,0,0,1,0
+4656,Scroll Of Shell,1,1,1584,4,0,0,1,0
 4657,Scroll Of Shell II,1,1,16192,4,0,0,1,0
-4658,Scroll of Shell III,1,1,26244,4,0,0,1,0
+4658,Scroll Of Shell III,1,1,26244,4,0,0,1,0
 4659,Scroll Of Shell IV,1,1,9000,1,0,0,1,0
 4660,Scroll Of Shell V,1,1,125069,4,0,0,1,0
-4661,Scroll of Blink,1,1,2097,4,0,0,1,0
-4662,Scroll of Stoneskin,1,1,7025,4,0,0,1,0
-4663,Scroll of Aquaveil,1,1,360,4,0,0,1,0
-4664,Scroll of Slow,1,1,837,4,0,0,1,0
+4661,Scroll Of Blink,1,1,2097,4,0,0,1,0
+4662,Scroll Of Stoneskin,1,1,7025,4,0,0,1,0
+4663,Scroll Of Aquaveil,1,1,360,4,0,0,1,0
+4664,Scroll Of Slow,1,1,837,4,0,0,1,0
 4666,Scroll Of Paralyze,1,1,1000,3,0,0,1,0
 4667,Scroll Of Silence,1,1,2000,3,0,0,1,0
-4668,Scroll of Barfire,1,1,1760,4,0,0,1,0
-4669,Scroll of Barblizzard,1,1,3624,4,0,0,1,0
-4670,Scroll of Baraero,1,1,930,4,0,0,1,0
-4671,Scroll of Barstone,1,1,156,4,0,0,1,0
-4672,Scroll of Barthunder,1,1,5754,4,0,0,1,0
-4673,Scroll of Barwater,1,1,360,4,0,0,1,0
-4674,Scroll of Barfira,1,1,1760,4,0,0,1,0
-4675,Scroll of Barblizzara,1,1,3624,4,0,0,1,0
-4676,Scroll of Baraera,1,1,930,4,0,0,1,0
-4677,Scroll of Barstonra,1,1,156,4,0,0,1,0
-4678,Scroll of Barthundra,1,1,5754,4,0,0,1,0
-4679,Scroll of Barwatera,1,1,360,4,0,0,1,0
-4680,Scroll of Barsleep,1,1,244,4,0,0,1,0
-4681,Scroll of Barpoison,1,1,400,4,0,0,1,0
-4682,Scroll of Barparalyze,1,1,780,4,0,0,1,0
-4683,Scroll of Barblind,1,1,2030,4,0,0,1,0
-4684,Scroll of Barsilence,1,1,4608,4,0,0,1,0
-4685,Scroll of Barpetrify,1,1,15120,4,0,0,1,0
-4686,Scroll of Barvirus,1,1,9600,4,0,0,1,0
+4668,Scroll Of Barfire,1,1,1760,4,0,0,1,0
+4669,Scroll Of Barblizzard,1,1,3624,4,0,0,1,0
+4670,Scroll Of Baraero,1,1,930,4,0,0,1,0
+4671,Scroll Of Barstone,1,1,156,4,0,0,1,0
+4672,Scroll Of Barthunder,1,1,5754,4,0,0,1,0
+4673,Scroll Of Barwater,1,1,360,4,0,0,1,0
+4674,Scroll Of Barfira,1,1,1760,4,0,0,1,0
+4675,Scroll Of Barblizzara,1,1,3624,4,0,0,1,0
+4676,Scroll Of Baraera,1,1,930,4,0,0,1,0
+4677,Scroll Of Barstonra,1,1,156,4,0,0,1,0
+4678,Scroll Of Barthundra,1,1,5754,4,0,0,1,0
+4679,Scroll Of Barwatera,1,1,360,4,0,0,1,0
+4680,Scroll Of Barsleep,1,1,244,4,0,0,1,0
+4681,Scroll Of Barpoison,1,1,400,4,0,0,1,0
+4682,Scroll Of Barparalyze,1,1,780,4,0,0,1,0
+4683,Scroll Of Barblind,1,1,2030,4,0,0,1,0
+4684,Scroll Of Barsilence,1,1,4608,4,0,0,1,0
+4685,Scroll Of Barpetrify,1,1,15120,4,0,0,1,0
+4686,Scroll Of Barvirus,1,1,9600,4,0,0,1,0
 4687,Scroll Of Recall-Jugner,1,1,250000,1,0,0,1,0
 4688,Scroll Of Recall-Pashh,1,1,600000,1,0,0,1,0
 4689,Scroll Of Recall-Meriph,1,1,300000,1,0,0,1,0
 4690,Scroll Of Baramnesia,1,1,27820,4,0,0,1,0
 4691,Scroll Of Baramnesra,1,1,27820,4,0,0,1,0
-4694,Scroll of Barsleepra,1,1,244,4,0,0,1,0
-4695,Scroll of Barpoisonra,1,1,400,4,0,0,1,0
-4696,Scroll of Barparalyzra,1,1,780,4,0,0,1,0
-4697,Scroll of Barblindra,1,1,2030,4,0,0,1,0
-4698,Scroll of Barsilencera,1,1,4608,4,0,0,1,0
-4699,Scroll of Barpetra,1,1,15120,4,0,0,1,0
-4700,Scroll of Barvira,1,1,9600,4,0,0,1,0
+4694,Scroll Of Barsleepra,1,1,244,4,0,0,1,0
+4695,Scroll Of Barpoisonra,1,1,400,4,0,0,1,0
+4696,Scroll Of Barparalyzra,1,1,780,4,0,0,1,0
+4697,Scroll Of Barblindra,1,1,2030,4,0,0,1,0
+4698,Scroll Of Barsilencera,1,1,4608,4,0,0,1,0
+4699,Scroll Of Barpetra,1,1,15120,4,0,0,1,0
+4700,Scroll Of Barvira,1,1,9600,4,0,0,1,0
 4701,Scroll Of Cura,1,1,20092,4,0,0,1,0
 4702,Scroll Of Sacrifice,1,1,4000,4,0,0,1,0
 4703,Scroll Of Esuna,1,1,4584,4,0,0,1,0
 4704,Scroll Of Auspice,1,1,30967,4,0,0,1,0
-4708,Scroll of Enfire,1,1,4747,4,0,0,1,0
-4709,Scroll of Enblizzard,1,1,3770,4,0,0,1,0
-4710,Scroll of Enaero,1,1,2300,4,0,0,1,0
-4711,Scroll of Enstone,1,1,1867,4,0,0,1,0
-4712,Scroll of Enthunder,1,1,1393,4,0,0,1,0
-4713,Scroll of Enwater,1,1,6508,4,0,0,1,0
+4708,Scroll Of Enfire,1,1,4747,4,0,0,1,0
+4709,Scroll Of Enblizzard,1,1,3770,4,0,0,1,0
+4710,Scroll Of Enaero,1,1,2300,4,0,0,1,0
+4711,Scroll Of Enstone,1,1,1867,4,0,0,1,0
+4712,Scroll Of Enthunder,1,1,1393,4,0,0,1,0
+4713,Scroll Of Enwater,1,1,6508,4,0,0,1,0
 4715,Scroll Of Reprisal,1,1,50000,1,0,0,1,0
 4716,Scroll Of Regen,1,1,3974,4,0,0,1,0
 4718,Scroll Of Regen II,1,1,7203,4,0,0,1,0
@@ -557,12 +556,12 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4731,Scroll Of Teleport-Dem,1,1,100000,1,0,0,1,0
 4732,Scroll Of Teleport-Mea,1,1,200000,1,0,0,1,0
 4733,Scroll Of Protectra,1,1,1000,3,0,0,1,0
-4734,Scroll of Protectra II,1,1,7074,4,0,0,1,0
-4735,Scroll of Protectra III,1,1,19200,4,0,0,1,0
-4736,Scroll of Protectra IV,1,1,85500,4,0,0,1,0
-4738,Scroll of Shellra,1,1,17600,4,0,0,1,0
-4739,Scroll of Shellra II,1,1,14080,4,0,0,1,0
-4740,Scroll of Shellra III,1,1,26244,4,0,0,1,0
+4734,Scroll Of Protectra II,1,1,7074,4,0,0,1,0
+4735,Scroll Of Protectra III,1,1,19200,4,0,0,1,0
+4736,Scroll Of Protectra IV,1,1,85500,4,0,0,1,0
+4738,Scroll Of Shellra,1,1,17600,4,0,0,1,0
+4739,Scroll Of Shellra II,1,1,14080,4,0,0,1,0
+4740,Scroll Of Shellra III,1,1,26244,4,0,0,1,0
 4741,Scroll Of Shellra IV,1,1,5000,1,0,0,1,0
 4743,Scroll Of Reraise,1,1,10000,1,0,0,1,0
 4744,Scroll Of Invisible,1,1,5293,4,0,0,1,0
@@ -570,28 +569,28 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4746,Scroll Of Deodorize,1,1,5293,4,0,0,1,0
 4749,Scroll Of Reraise II,1,1,50000,1,0,0,1,0
 4750,Scroll Of Reraise III,1,1,99375,4,0,0,1,0
-4752,Scroll of Fire,1,1,837,4,0,0,1,0
+4752,Scroll Of Fire,1,1,837,4,0,0,1,0
 4753,Scroll Of Fire II,1,1,16744,4,0,0,1,0
-4754,Scroll of Fire III,1,1,10000,4,0,0,1,0
+4754,Scroll Of Fire III,1,1,10000,4,0,0,1,0
 4755,Scroll Of Fire IV,1,1,30000,1,0,0,1,0
-4757,Scroll of Blizzard,1,1,1584,4,0,0,1,0
+4757,Scroll Of Blizzard,1,1,1584,4,0,0,1,0
 4758,Scroll Of Blizzard II,1,1,22113,4,0,0,1,0
 4759,Scroll Of Blizzard III,1,1,10000,4,0,0,1,0
 4760,Scroll Of Blizzard IV,1,1,10000,1,0,0,1,0
-4762,Scroll of Aero,1,1,324,4,0,0,1,0
+4762,Scroll Of Aero,1,1,324,4,0,0,1,0
 4763,Scroll Of Aero II,1,1,12103,4,0,0,1,0
-4764,Scroll of Aero III,1,1,8000,4,0,0,1,0
+4764,Scroll Of Aero III,1,1,8000,4,0,0,1,0
 4765,Scroll Of Aero IV,1,1,50000,1,0,0,1,0
-4767,Scroll of Stone,1,1,61,4,0,0,1,0
-4768,Scroll of Stone II,1,1,5814,4,0,0,1,0
-4769,Scroll of Stone III,1,1,19932,4,0,0,1,0
+4767,Scroll Of Stone,1,1,61,4,0,0,1,0
+4768,Scroll Of Stone II,1,1,5814,4,0,0,1,0
+4769,Scroll Of Stone III,1,1,19932,4,0,0,1,0
 4770,Scroll Of Stone IV,1,1,10000,1,0,0,1,0
-4772,Scroll of Thunder,1,1,3261,4,0,0,1,0
-4773,Scroll of Thunder II,1,1,28250,4,0,0,1,0
-4774,Scroll of Thunder III,1,1,45930,4,0,0,1,0
+4772,Scroll Of Thunder,1,1,3261,4,0,0,1,0
+4773,Scroll Of Thunder II,1,1,28250,4,0,0,1,0
+4774,Scroll Of Thunder III,1,1,45930,4,0,0,1,0
 4775,Scroll Of Thunder IV,1,1,18500,1,0,0,1,0
-4777,Scroll of Water,1,1,140,4,0,0,1,0
-4778,Scroll of Water II,1,1,8100,4,0,0,1,0
+4777,Scroll Of Water,1,1,140,4,0,0,1,0
+4778,Scroll Of Water II,1,1,8100,4,0,0,1,0
 4779,Scroll Of Water III,1,1,22682,4,0,0,1,0
 4780,Scroll Of Water IV,1,1,50000,1,0,0,1,0
 4782,Scroll Of Firaga,1,1,7103,4,0,0,1,0
@@ -603,13 +602,13 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4792,Scroll Of Aeroga,1,1,4193,4,0,0,1,0
 4793,Scroll Of Aeroga II,1,1,10000,1,0,0,1,0
 4794,Scroll Of Aeroga III,1,1,10000,1,0,0,1,0
-4797,Scroll of Stonega,1,1,1191,4,0,0,1,0
+4797,Scroll Of Stonega,1,1,1191,4,0,0,1,0
 4798,Scroll Of Stonega II,1,1,10000,1,0,0,1,0
 4799,Scroll Of Stonega III,1,1,20000,1,0,0,1,0
-4802,Scroll of Thundaga,1,1,15456,4,0,0,1,0
+4802,Scroll Of Thundaga,1,1,15456,4,0,0,1,0
 4803,Scroll Of Thundaga II,1,1,10000,1,0,0,1,0
 4804,Scroll Of Thundaga III,1,1,10000,1,0,0,1,0
-4807,Scroll of Waterga,1,1,2143,4,0,0,1,0
+4807,Scroll Of Waterga,1,1,2143,4,0,0,1,0
 4808,Scroll Of Waterga II,1,1,20000,1,0,0,1,0
 4809,Scroll Of Waterga III,1,1,60000,1,0,0,1,0
 4812,Scroll Of Flare,1,1,4000,1,0,0,1,0
@@ -620,26 +619,27 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4822,Scroll Of Flood,1,1,3000,1,0,0,1,0
 4824,Scroll Of Gravity,1,1,10000,1,0,0,1,0
 4825,Scroll Of Gravity II,1,1,50000,1,0,0,1,0
-4828,Scroll of Poison,1,1,82,4,0,0,1,0
-4829,Scroll of Poison II,1,1,25200,4,0,0,1,0
-4833,Scroll of Poisonga,1,1,5160,4,0,0,1,0
-4838,Scroll of Bio,1,1,360,4,0,0,1,0
-4839,Scroll of Bio II,1,1,12740,4,0,0,1,0
-4843,Scroll of Burn,1,1,4464,4,0,0,1,0
-4844,Scroll of Frost,1,1,3688,4,0,0,1,0
-4845,Scroll of Choke,1,1,2250,4,0,0,1,0
-4846,Scroll of Rasp,1,1,1827,4,0,0,1,0
-4847,Scroll of Shock,1,1,1363,4,0,0,1,0
-4848,Scroll of Drown,1,1,6366,4,0,0,1,0
-4849,Scroll of Addle,1,1,130378,4,0,0,1,0
+4828,Scroll Of Poison,1,1,82,4,0,0,1,0
+4829,Scroll Of Poison II,1,1,25200,4,0,0,1,0
+4833,Scroll Of Poisonga,1,1,5160,4,0,0,1,0
+4838,Scroll Of Bio,1,1,360,4,0,0,1,0
+4839,Scroll Of Bio II,1,1,12740,4,0,0,1,0
+4843,Scroll Of Burn,1,1,4464,4,0,0,1,0
+4844,Scroll Of Frost,1,1,3688,4,0,0,1,0
+4845,Scroll Of Choke,1,1,2250,4,0,0,1,0
+4846,Scroll Of Rasp,1,1,1827,4,0,0,1,0
+4847,Scroll Of Shock,1,1,1363,4,0,0,1,0
+4848,Scroll Of Drown,1,1,6366,4,0,0,1,0
+4849,Scroll Of Addle,1,1,130378,4,0,0,1,0
 4853,Scroll Of Drain,1,1,25000,2,0,0,1,0
 4854,Scroll Of Drain II,1,1,30780,4,0,0,1,0
 4855,Scroll Of Aspir,1,1,25000,2,0,0,1,0
 4857,Scroll Of Blaze Spikes,1,1,60000,1,0,0,1,0
 4858,Scroll Of Ice Spikes,1,1,200000,1,0,0,1,0
+4859,Scroll Of Shock Spikes,1,1,8280,4,0,0,1,0
 4860,Scroll Of Stun,1,1,27000,4,0,0,1,0
-4861,Scroll of Sleep,1,1,2250,4,0,0,1,0
-4862,Scroll of Blind,1,1,111,4,0,0,1,0
+4861,Scroll Of Sleep,1,1,2250,4,0,0,1,0
+4862,Scroll Of Blind,1,1,111,4,0,0,1,0
 4867,Scroll Of Sleep II,1,1,18720,4,0,0,1,0
 4868,Scroll Of Dispel,1,1,63700,4,0,0,1,0
 4869,Scroll Of Warp,1,1,15000,1,0,0,1,0
@@ -654,7 +654,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4878,Absorb-INT (Scroll),1,1,3528,4,0,0,1,0
 4879,Absorb-MND (Scroll),1,1,14070,4,0,0,1,0
 4880,Absorb-CHR (Scroll),1,1,14070,4,0,0,1,0
-4881,Scroll of Sleepga,1,1,10304,4,0,0,1,0
+4881,Scroll Of Sleepga,1,1,10304,4,0,0,1,0
 4882,Scroll Of Sleepga II,0,1,2000000,0,0,0,1,0
 4883,Absorb-TP,1,1,27000,4,0,0,1,0
 4885,Dread Spikes,1,1,70650,4,0,0,1,0
@@ -732,7 +732,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5018,Scroll Of Puppet's Operetta,1,1,30000,1,0,0,1,0
 5020,Scroll Of Gold Capriccio,1,1,10000,1,0,0,1,0
 5022,Scroll Of Warding Round,1,1,1000,1,0,0,1,0
-5023,Scroll of Goblin Gavotte,1,1,8160,4,0,0,1,0
+5023,Scroll Of Goblin Gavotte,1,1,8160,4,0,0,1,0
 5027,Scroll Of Advancing March,1,1,20000,2,0,0,1,0
 5028,Scroll Of Victory March,1,1,20000,1,0,0,1,0
 5029,Scroll Of Battlefield Elegy,1,1,20000,1,0,0,1,0
@@ -773,24 +773,24 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5073,Scroll Of Chocobo Mazurka,1,1,35000,4,0,0,1,0
 5074,Scroll Of Maiden's Virelai,1,1,20000,1,0,0,1,0
 5075,Scroll Of Raptor Mazurka,1,1,4400,4,0,0,1,0
-5082,Scroll of Cura II,1,1,88389,4,0,0,1,0
-5085,Scroll of Regen IV,1,1,50400,4,0,0,1,0
-5087,Scroll of Gain-STR,1,1,89804,4,0,0,1,0
-5088,Scroll of Gain-DEX,1,1,99613,4,0,0,1,0
-5089,Scroll of Gain-VIT,1,1,73740,4,0,0,1,0
-5090,Scroll of Gain-AGI,1,1,86680,4,0,0,1,0
-5091,Scroll of Gain-INT,1,1,94461,4,0,0,1,0
-5092,Scroll of Gain-MND,1,1,77500,4,0,0,1,0
-5093,Scroll of Gain-CHR,1,1,81900,4,0,0,1,0
-5094,Scroll of Boost-STR,1,1,89804,4,0,0,1,0
-5095,Scroll of Boost-DEX,1,1,99613,4,0,0,1,0
-5096,Scroll of Boost-VIT,1,1,73740,4,0,0,1,0
-5097,Scroll of Boost-AGI,1,1,85680,4,0,0,1,0
-5098,Scroll of Boost-INT,1,1,94461,4,0,0,1,0
-5099,Scroll of Boost-MND,1,1,77500,4,0,0,1,0
-5100,Scroll of Boost-CHR,1,1,81900,4,0,0,1,0
+5082,Scroll Of Cura II,1,1,88389,4,0,0,1,0
+5085,Scroll Of Regen IV,1,1,50400,4,0,0,1,0
+5087,Scroll Of Gain-STR,1,1,89804,4,0,0,1,0
+5088,Scroll Of Gain-DEX,1,1,99613,4,0,0,1,0
+5089,Scroll Of Gain-VIT,1,1,73740,4,0,0,1,0
+5090,Scroll Of Gain-AGI,1,1,86680,4,0,0,1,0
+5091,Scroll Of Gain-INT,1,1,94461,4,0,0,1,0
+5092,Scroll Of Gain-MND,1,1,77500,4,0,0,1,0
+5093,Scroll Of Gain-CHR,1,1,81900,4,0,0,1,0
+5094,Scroll Of Boost-STR,1,1,89804,4,0,0,1,0
+5095,Scroll Of Boost-DEX,1,1,99613,4,0,0,1,0
+5096,Scroll Of Boost-VIT,1,1,73740,4,0,0,1,0
+5097,Scroll Of Boost-AGI,1,1,85680,4,0,0,1,0
+5098,Scroll Of Boost-INT,1,1,94461,4,0,0,1,0
+5099,Scroll Of Boost-MND,1,1,77500,4,0,0,1,0
+5100,Scroll Of Boost-CHR,1,1,81900,4,0,0,1,0
 5103,Scroll Of Crusade,1,1,143451,4,0,0,1,0
-5106,Scroll of Inundation,1,1,73500,4,0,0,1,0
+5106,Scroll Of Inundation,1,1,73500,4,0,0,1,0
 5120,Titanic Sawfish,1,1,40000,2,0,0,1,0
 5121,Moorish Idol,1,1,5000,3,1,1,60000,1
 5122,Bibiki Slug,1,1,100,2,1,1,1200,1
