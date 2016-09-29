@@ -1098,6 +1098,11 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 11494,Circe's Hat,1,1,30000,3,0,0,1,0
 11495,Zeal Cap,1,1,40000,2,0,0,1,0
 11498,Zeal Cap +1,1,1,50000,1,0,0,1,0
+11578,Tiercel Necklace,1,1,3000,1,0,0,1,0
+11579,Fylgja Torque,1,1,70000,1,0,0,1,0
+11581,Ire Torque,1,1,45000,1,0,0,1,0
+11583,Lemegeton Medallion,1,1,30000,1,0,0,1,0
+11624,Solon Torque,1,1,1300000,1,0,0,1,0
 11788,Jester's Hat,1,1,100000,4,0,0,1,0
 12117,Ebon Armet,1,1,50000,1,0,0,1,0
 12141,Ebon Beret,1,1,10000,1,0,0,1,0
@@ -1403,11 +1408,111 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 12985,Holly Clogs,1,1,1495,4,0,0,1,0
 12986,Chestnut Sabots,1,1,9180,4,0,0,1,0
 12992,Solea,1,1,556,4,0,0,1,0
+13057,Buburimu Gorget,1,1,5000,3,0,0,1,0
+13058,Bloodbead Amulet,1,1,10000,4,0,0,1,0
+13059,Fine Gorget,1,1,10000,3,0,0,1,0
+13060,Feather Collar +1,1,1,25000,3,0,0,1,0
+13061,Spike Necklace,1,1,30000,2,0,0,1,0
+13062,Green Gorget,1,1,5000,3,0,0,1,0
+13063,Blue Gorget,1,1,15000,3,0,0,1,0
+13064,Iron Musketeer's Gorget,1,1,15000,2,0,0,1,0
+13065,Gorget +1,1,1,2000,2,0,0,1,0
+13066,Red Choker,1,1,10000,3,0,0,1,0
+13067,Noble's Gorget,1,1,50000,3,0,0,1,0
+13068,Hemp Gorget +1,1,1,4000,2,0,0,1,0
+13069,Leather Gorget +1,1,1,10000,3,0,0,1,0
+13070,Wolf Gorget +1,1,1,4000,2,0,0,1,0
+13071,Scale Gorget,1,1,12000,4,0,0,1,0
+13072,Bird Whistle,1,1,5000,4,0,0,1,0
+13073,Holy Phial,1,1,10000,3,0,0,1,0
+13075,Feather Collar,1,1,5000,4,0,0,1,0
 13076,Fang Necklace,1,1,3510,4,0,0,1,0
+13079,Darksteel Gorget,1,1,10000,2,0,0,1,0
 13080,Gorget,1,1,16891,4,0,0,1,0
+13081,Leather Gorget,1,1,850,4,0,0,1,0
+13082,Chain Gorget,1,1,30000,3,0,0,1,0
+13083,Chain Choker,1,1,4550,3,0,0,1,0
+13084,Mythril Gorget,1,1,53500,3,0,0,1,0
+13085,Hemp Gorget,1,1,1000,3,0,0,1,0
+13086,Cerulean Pendant,1,1,2000,4,0,0,1,0
+13087,Jeweled Collar,1,1,20000,2,0,0,1,0
 13088,Darksteel Nodowa,1,1,5000,4,0,0,1,0
+13089,Wolf Gorget,1,1,3000,3,0,0,1,0
+13090,Beetle Gorget,1,1,1000,3,0,0,1,0
+13091,Carapace Gorget,1,1,10000,3,0,0,1,0
 13092,Coeurl Gorget,1,1,2877,4,0,0,1,0
+13093,Justice Badge,1,1,4000,4,0,0,1,0
+13094,Flower Necklace,1,1,3000,3,0,0,1,0
+13096,Dog Collar,1,1,10000,4,0,0,1,0
+13097,Brisingamen,1,1,50000,1,0,0,1,0
+13098,Republican Bronze Medal,1,1,3000,4,0,0,1,0
+13099,Republican Iron Medal,1,1,10000,3,0,0,1,0
+13100,Republican Mythril Medal,1,1,10000,2,0,0,1,0
+13101,Green Scarf,1,1,5000,4,0,0,1,0
+13102,Paisley Scarf,1,1,9000,3,0,0,1,0
+13103,Checkered Scarf,1,1,20000,2,0,0,1,0
+13104,Royal Squire's Collar,1,1,4000,3,0,0,1,0
+13105,Temple Knight Army Collar,1,1,12000,2,0,0,1,0
+13106,Royal Guard's Collar,1,1,20000,2,0,0,1,0
+13107,Royal Knight Army Collar,1,1,10000,1,0,0,1,0
+13108,Coral Gorget,1,1,5000,2,0,0,1,0
+13109,Harmonia's Torque,1,1,2000,1,0,0,1,0
+13110,Beast Whistle,1,1,1000,3,0,0,1,0
 13111,Nodowa,1,1,7000,4,0,0,1,0
+13113,Black Silk Neckerchief,1,1,5000,3,0,0,1,0
+13114,Moon Amulet,1,1,5000,2,0,0,1,0
+13115,Elemental Charm,1,1,3000,2,0,0,1,0
+13116,Silver Name Tag,1,1,1000,4,0,0,1,0
+13117,Ranger's Necklace,1,1,9000,4,0,0,1,0
+13118,Shield Pendant,1,1,6000,3,0,0,1,0
+13119,Tiger Stole,1,1,15000,3,0,0,1,0
+13120,Clay Amulet,1,1,5000,3,0,0,1,0
+13123,Merman's Gorget,1,1,20000,2,0,0,1,0
+13124,Nodowa +1,1,1,10000,1,0,0,1,0
+13125,Torque,1,1,10000,2,0,0,1,0
+13126,Torque +1,1,1,50000,1,0,0,1,0
+13127,Guarding Gorget,1,1,4000,3,0,0,1,0
+13128,Spectacles,1,1,10000,2,0,0,1,0
+13129,Spirit Torque,1,1,10000,3,0,0,1,0
+13131,Darksteel Gorget +1,1,1,50500,1,0,0,1,0
+13132,Torama Gorget,1,1,3000,2,0,0,1,0
+13133,Darksteel Nodowa +1,1,1,10000,1,0,0,1,0
+13134,Ashura Necklace,1,1,10000,2,0,0,1,0
+13135,Promise Badge,1,1,10000,3,0,0,1,0
+13137,Spider Torque,1,1,8000,1,0,0,1,0
+13139,Yinyang Lorgnette,1,1,3000,3,0,0,1,0
+13143,Opo-opo Necklace,1,1,24500,2,0,0,1,0
+13144,Wing Gorget,1,1,50000,2,0,0,1,0
+13145,Uggalepih Pendant,1,1,20000,1,0,0,1,0
+13148,Evasion Torque,1,1,1200000,1,0,0,1,0
+13149,Parrying Torque,1,1,1100000,1,0,0,1,0
+13150,Shield Torque,1,1,1200000,1,0,0,1,0
+13151,Guarding Torque,1,1,1300000,1,0,0,1,0
+13152,Divine Torque,1,1,1600000,1,0,0,1,0
+13153,Dark Torque,1,1,1150000,1,0,0,1,0
+13154,Enhancing Torque,1,1,1450000,1,0,0,1,0
+13155,Enfeebling Torque,1,1,1129000,1,0,0,1,0
+13156,Elemental Torque,1,1,1000000,1,0,0,1,0
+13157,Healing Torque,1,1,1225000,1,0,0,1,0
+13158,Summoning Torque,1,1,30000,1,0,0,1,0
+13159,Ninjutsu Torque,1,1,1000000,1,0,0,1,0
+13160,String Torque,1,1,1110000,1,0,0,1,0
+13161,Wind Torque,1,1,1200000,1,0,0,1,0
+13163,Medieval Collar,1,1,5000,3,0,0,1,0
+13164,Agile Gorget,1,1,40000,2,0,0,1,0
+13165,Jagd Gorget,1,1,10000,3,0,0,1,0
+13166,Hateful Collar,1,1,20000,2,0,0,1,0
+13167,Storm Gorget,1,1,30000,2,0,0,1,0
+13168,Intellect Torque,1,1,40000,2,0,0,1,0
+13169,Benign Necklace,1,1,15000,2,0,0,1,0
+13170,Stoneskin Torque,1,1,58050,2,0,0,1,0
+13171,Reraise Gorget,1,1,30000,1,0,0,1,0
+13172,Pachamac's Collar,1,1,5000,2,0,0,1,0
+13173,Memento Muffler,1,1,3000,3,0,0,1,0
+13174,Willpower Torque,1,1,10000,3,0,0,1,0
+13175,Ajari Bead Necklace,1,1,4000,2,0,0,1,0
+13176,Philomath Stole,1,1,4000,2,0,0,1,0
+13182,Oscar Scarf,1,1,2000,1,0,0,1,0
 13192,Leather Belt,1,1,391,4,0,0,1,0
 13196,Silver Belt,1,1,10278,4,0,0,1,0
 13198,Swordbelt,1,1,20037,4,0,0,1,0
@@ -1545,6 +1650,18 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 15243,Raven Beret,1,1,30000,1,0,0,1,0
 15268,Eldritch Bone Hairpin,1,1,5000,4,0,0,1,0
 15269,Eldritch Horn Hairpin,1,1,5000,3,0,0,1,0
+15521,Tempered Chain,1,1,19500,2,0,0,1,0
+15522,Enlightened Chain,1,1,30000,2,0,0,1,0
+15523,Chivalrous Chain,1,1,40000,1,0,0,1,0
+15524,Fortified Chain,1,1,30000,2,0,0,1,0
+15525,Grandiose Chain,1,1,20000,2,0,0,1,0
+15526,Regen Collar,1,1,5000,4,0,0,1,0
+15528,Sacrifice Torque,1,1,10000,1,0,0,1,0
+15529,Ace's Locket,1,1,50000,1,0,0,1,0
+15530,Berserker's Torque,1,1,1000000,1,0,0,1,0
+15531,Qiqirn Collar,1,1,50000,1,0,0,1,0
+15532,Shark Necklace,1,1,3000,1,0,0,1,0
+15539,Orochi Nodowa,1,1,10000,1,0,0,1,0
 16061,Sipahi Turban,1,1,20000,2,0,0,1,0
 16063,Jaridah Khud,1,1,10000,2,0,0,1,0
 16067,Abtal Turban,1,1,30000,1,0,0,1,0
@@ -1591,6 +1708,20 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16189,Gleaming Shield,0,1,10000,0,0,0,1,1
 16190,Bloom Buckler,0,1,30000,0,0,0,1,1
 16202,Dagda's Shield,0,1,30000,0,0,0,1,1
+16261,Mohbwa Scarf,1,1,3000,3,0,0,1,0
+16262,Mohbwa Scarf +1,1,1,20000,2,0,0,1,0
+16263,Beak Necklace,1,1,5000,2,0,0,1,0
+16264,Beak Necklace +1,1,1,50000,1,0,0,1,0
+16265,Wivre Gorget,1,1,10000,1,0,0,1,0
+16272,Naraenten Bead Necklace,1,1,10000,1,0,0,1,0
+16275,Ancient Torque,1,1,1325000,1,0,0,1,0
+16277,Bandolero Scarf,1,1,100000,1,0,0,1,0
+16278,Piper's Torque,1,1,40000,2,0,0,1,0
+16281,Buffoon's Collar,1,1,30000,4,0,0,1,0
+16282,Buffoon's Collar +1,1,1,68332,3,0,0,1,0
+16296,Armiger's Lace,1,1,4000,4,0,0,1,0
+16301,Focus Collar,1,1,4000,4,0,0,1,0
+16304,Focus Collar +1,1,1,70000,3,0,0,1,0
 16385,Cesti,1,1,132,4,0,0,1,0
 16386,Lizard Cesti,1,1,3000,3,0,0,1,0
 16387,Poison Cesti,1,1,3000,2,0,0,1,0
