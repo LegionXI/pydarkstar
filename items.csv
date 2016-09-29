@@ -485,7 +485,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4652,Scroll Of Protect II,1,1,6508,4,0,0,1,0
 4653,Scroll Of Protect III,1,1,32000,4,0,0,1,0
 4654,Scroll Of Protect IV,1,1,77350,4,0,0,1,0
-4655,Scroll Of Haste,1,1,18400,4,0,0,1,0
+4655,Scroll Of Protect V,1,1,18400,4,0,0,1,0
 4656,Scroll Of Shell,1,1,1584,4,0,0,1,0
 4657,Scroll Of Shell II,1,1,16192,4,0,0,1,0
 4658,Scroll Of Shell III,1,1,26244,4,0,0,1,0
@@ -495,6 +495,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4662,Scroll Of Stoneskin,1,1,7025,4,0,0,1,0
 4663,Scroll Of Aquaveil,1,1,360,4,0,0,1,0
 4664,Scroll Of Slow,1,1,837,4,0,0,1,0
+4665,Scroll Of Haste,1,1,40000,3,0,0,1,0
 4666,Scroll Of Paralyze,1,1,1000,3,0,0,1,0
 4667,Scroll Of Silence,1,1,2000,3,0,0,1,0
 4668,Scroll Of Barfire,1,1,1760,4,0,0,1,0
