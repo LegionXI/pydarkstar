@@ -1092,6 +1092,26 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 10802,Majorelle Shield,0,1,200000,0,0,0,1,1
 10803,Weathering Shield,0,1,20000,0,0,0,1,1
 10804,Thuellaic Ecu,0,1,10000,0,0,0,1,1
+11285,Morgana's Cotehardie,1,1,180000,1,0,0,1,0
+11286,Avalon Breastplate,1,1,155000,1,0,0,1,0
+11287,Antares Harness,1,1,1500000,1,0,0,1,0
+11288,Zahak's Mail,1,1,200000,1,0,0,1,0
+11289,Ixion Cloak,1,1,65000,1,0,0,1,0
+11310,Argent Coat,1,1,20000,2,0,0,1,0
+11311,Platino Coat,1,1,35000,1,0,0,1,0
+11320,Skeleton Robe,1,1,30000,4,0,0,1,0
+11338,Aega's Doublet,1,1,20000,3,0,0,1,0
+11339,Channeling Robe,1,1,5000,3,0,0,1,0
+11340,Salutary Robe,1,1,20000,2,0,0,1,0
+11341,Vivacity Coat,1,1,30000,2,0,0,1,0
+11344,Styrne Byrnie,1,1,15000,1,0,0,1,0
+11345,Alacer Aketon,1,1,40000,1,0,0,1,0
+11346,Vela Justaucorps,1,1,80000,1,0,0,1,0
+11347,Menetrier's Alb,1,1,40000,1,0,0,1,0
+11348,Salutary Robe +1,1,1,28000,1,0,0,1,0
+11349,Vivacity Coat +1,1,1,40000,1,0,0,1,0
+11351,Alacer Aketon +1,1,1,50000,0,0,0,1,0
+11353,Menetrier's Alb +1,1,1,50000,0,0,0,1,0
 11473,Mirror Tiara,1,1,40000,1,0,0,1,0
 11474,Louhi's Mask,1,1,10000,1,0,0,1,0
 11492,Risky Patch,1,1,50000,3,0,0,1,0
@@ -1107,6 +1127,9 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 11788,Jester's Hat,1,1,100000,4,0,0,1,0
 12117,Ebon Armet,1,1,50000,1,0,0,1,0
 12141,Ebon Beret,1,1,10000,1,0,0,1,0
+12153,Ebon Breastplate,1,1,125000,1,0,0,1,0
+12156,Ebon Harness,1,1,100000,1,0,0,1,0
+12177,Ebon Frock,1,1,200000,1,0,0,1,0
 12289,Lauan Shield,1,1,110,4,0,0,1,0
 12290,Maple Shield,1,1,556,4,0,0,1,0
 12291,Elm Shield,1,1,1815,4,0,0,1,0
@@ -1190,7 +1213,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 12385,Acheron Shield,1,1,20000,1,0,0,1,1
 12386,Acheron Shield +1,0,1,300000,0,0,0,1,1
 12387,Koenig Shield,1,1,60000,1,0,0,1,1
-12388,Kaiser Shield,0,1,500000,0,0,0,1,1
 12389,Mercenary's Targe,1,1,20000,3,0,0,1,1
 12390,Wrestler's Aspis,1,1,20000,1,0,0,1,1
 12391,Healer's Shield,1,1,30000,1,0,0,1,1
@@ -1212,7 +1234,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 12407,Palmerin's Shield,1,1,20000,1,0,0,1,1
 12408,Absorbing Shield,1,1,10000,1,0,0,1,1
 12409,Numinous Shield,1,1,50000,1,0,0,1,1
-12410,Numinous Shield +1,0,1,100000,0,0,0,1,1
 12411,Dominus Shield,1,1,30000,1,0,0,1,1
 12412,Hoplon +1,1,1,50000,1,0,0,1,1
 12413,Turtle Shield +1,1,1,10000,2,0,0,1,1
@@ -1320,27 +1341,104 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 12540,Alluring Headband,1,1,4000,3,0,0,1,0
 12541,Wool Cap +1,1,1,20000,1,0,0,1,0
 12542,Leather Bandana +1,1,1,2000,3,0,0,1,0
+12544,Breastplate,1,1,20000,2,0,0,1,0
+12545,Mythril Breastplate,1,1,18000,2,0,0,1,0
+12546,Gold Cuirass,1,1,40000,2,0,0,1,0
+12547,Darksteel Cuirass,1,1,50000,1,0,0,1,0
+12548,Adaman Cuirass,1,1,50500,1,0,0,1,0
+12550,Iron Musketeer's Cuirass,1,1,30000,2,0,0,1,0
 12552,Chainmail,1,1,5000,4,0,0,1,0
+12553,Silver Mail,1,1,20000,3,0,0,1,0
 12554,Banded Mail,1,1,9000,4,0,0,1,0
+12555,Haubergeon,1,1,100000,2,0,0,1,0
+12556,Hauberk,1,1,100000,1,0,0,1,0
+12558,Royal Knight's Chainmail,1,1,50000,2,0,0,1,0
+12559,Royal Squire's Chainmail,1,1,10000,2,0,0,1,0
 12560,Scale Mail,1,1,2051,4,0,0,1,0
 12561,Brass Scale Mail,1,1,6000,4,0,0,1,0
+12563,Coral Scale Mail,1,1,40000,1,0,0,1,0
+12564,Dragon Mail,1,1,80000,1,0,0,1,0
+12565,Gavial Mail,1,1,30000,1,0,0,1,0
+12566,Centurion's Scale Mail,1,1,20000,3,0,0,1,0
+12567,Steam Scale Mail,1,1,10000,3,0,0,1,0
 12568,Leather Vest,1,1,618,4,0,0,1,0
+12569,Lizard Jerkin,1,1,10000,4,0,0,1,0
+12570,Studded Vest,1,1,4000,3,0,0,1,0
+12571,Cuir Bouilli,1,1,10000,3,0,0,1,0
+12572,Raptor Jerkin,1,1,20000,2,0,0,1,0
+12573,Dusk Jerkin,1,1,30000,1,0,0,1,0
+12574,Tiger Jerkin,1,1,30000,1,0,0,1,0
+12575,Coeurl Jerkin,1,1,10000,1,0,0,1,0
 12576,Bronze Harness,1,1,235,4,0,0,1,0
 12577,Brass Harness,1,1,2286,4,0,0,1,0
 12578,Padded Armor,1,1,10000,4,0,0,1,0
+12580,Darksteel Harness,1,1,30000,1,0,0,1,0
+12581,Coral Harness,1,1,30000,1,0,0,1,0
+12582,Bone Harness,1,1,2000,4,0,0,1,0
 12583,Beetle Harness,1,1,4000,4,0,0,1,0
 12584,Kenpogi,1,1,833,4,0,0,1,0
 12585,Cotton Dogi,1,1,4931,4,0,0,1,0
 12586,Soil Gi,1,1,10000,4,0,0,1,0
+12587,Hara-ate,1,1,30000,2,0,0,1,0
+12588,Shinobi Gi,1,1,10000,2,0,0,1,0
+12589,Scorpion Breastplate +1,1,1,45000,0,0,0,1,0
+12590,Power Gi,1,1,5000,4,0,0,1,0
+12591,Doublet +1,1,1,5000,3,0,0,1,0
 12592,Doublet,1,1,2525,4,0,0,1,0
+12593,Cotton Doublet,1,1,3000,3,0,0,1,0
 12594,Gambison,1,1,10000,4,0,0,1,0
 12595,Wool Gambison,1,1,20000,4,0,0,1,0
+12596,Battle Jupon,1,1,20000,1,0,0,1,0
+12597,War Aketon,1,1,30000,1,0,0,1,0
+12598,Mercenary Captain's Doublet,1,1,20000,3,0,0,1,0
+12599,Leather Vest +1,1,1,5000,3,0,0,1,0
 12600,Robe,1,1,220,4,0,0,1,0
 12601,Linen Robe,1,1,2838,4,0,0,1,0
 12602,Wool Robe,1,1,2000,4,0,0,1,0
+12603,Velvet Robe,1,1,25000,2,0,0,1,0
+12604,Silk Coat,1,1,20000,2,0,0,1,0
+12605,Noble's Tunic,1,1,250000,1,0,0,1,0
+12606,Tactician Magician's Coat,1,1,20000,2,0,0,1,0
+12607,Bronze Harness +1,1,1,6000,3,0,0,1,0
 12608,Tunic,1,1,1288,4,0,0,1,0
 12609,Black Tunic,1,1,9423,4,0,0,1,0
 12610,Cloak,1,1,10000,4,0,0,1,0
+12611,White Cloak,1,1,14500,2,0,0,1,0
+12612,Silk Cloak,1,1,50000,1,0,0,1,0
+12614,Combat Caster's Cloak,1,1,20000,2,0,0,1,0
+12615,Robe +1,1,1,8000,3,0,0,1,0
+12616,Tunic +1,1,1,5000,3,0,0,1,0
+12617,War Shinobi Gi,1,1,17500,1,0,0,1,0
+12618,Yasha Samue,1,1,25000,1,0,0,1,0
+12621,Scorpion Breastplate,1,1,30000,1,0,0,1,0
+12624,Cotton Dogi +1,1,1,9000,3,0,0,1,0
+12625,Gambison +1,1,1,20000,2,0,0,1,0
+12626,Linen Robe +1,1,1,6500,3,0,0,1,0
+12627,Wool Robe +1,1,1,10000,2,0,0,1,0
+12628,Battle Jupon +1,1,1,30000,0,0,0,1,0
+12629,Legionnaire's Harness,1,1,5000,4,0,0,1,0
+12630,Royal Footman's Vest,1,1,10000,4,0,0,1,0
+12651,White Cloak +1,1,1,20000,1,0,0,1,0
+12652,Silk Coat +1,1,1,30000,1,0,0,1,0
+12653,Mercenary's Gi,1,1,5000,3,0,0,1,0
+12654,Custom Tunic,1,1,50000,2,0,0,1,0
+12655,Custom Vest,1,1,60000,2,0,0,1,0
+12656,Magna Jerkin,1,1,60000,2,0,0,1,0
+12657,Magna Bodice,1,1,50000,2,0,0,1,0
+12658,Wonder Kaftan,1,1,50000,2,0,0,1,0
+12659,Savage Separates,1,1,50000,2,0,0,1,0
+12660,Elder's Surcoat,1,1,30000,3,0,0,1,0
+12661,Solid Mail,1,1,20000,4,0,0,1,0
+12662,Chainmail +1,1,1,12000,2,0,0,1,0
+12663,Strong Harness,1,1,40000,3,0,0,1,0
+12664,Brass Harness +1,1,1,8000,3,0,0,1,0
+12665,Brass Scale Mail +1,1,1,17000,2,0,0,1,0
+12666,Silver Mail +1,1,1,28000,2,0,0,1,0
+12667,Banded Mail +1,1,1,10000,1,0,0,1,0
+12668,Kenpogi +1,1,1,10000,3,0,0,1,0
+12669,Great Doublet,1,1,20000,3,0,0,1,0
+12670,Cloak +1,1,1,15000,2,0,0,1,0
+12671,Soil Gi +1,1,1,12000,2,0,0,1,0
 12680,Chain Mittens,1,1,8460,4,0,0,1,0
 12682,Mufflers,1,1,5000,4,0,0,1,0
 12688,Scale Finger Gauntlets,1,1,1094,4,0,0,1,0
@@ -1354,6 +1452,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 12713,Cotton Tekko,1,1,2000,4,0,0,1,0
 12714,Soil Tekko,1,1,2713,4,0,0,1,0
 12720,Gloves,1,1,1393,4,0,0,1,0
+12721,Iron Musketeer's Gambison,1,1,30000,2,0,0,1,0
 12722,Bracers,1,1,3000,4,0,0,1,0
 12728,Cuffs,1,1,121,4,0,0,1,0
 12729,Linen Cuffs,1,1,1605,4,0,0,1,0
@@ -1363,7 +1462,9 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 12738,Linen Mitts,1,1,3000,4,0,0,1,0
 12800,Cuisses,1,1,5000,4,0,0,1,0
 12808,Chain Hose,1,1,8000,4,0,0,1,0
+12809,Angler's Tunica,1,1,30000,4,0,0,1,0
 12810,Breeches,1,1,10000,4,0,0,1,0
+12811,Rider's Jack Coat,1,1,20000,4,0,0,1,0
 12816,Scale Cuisses,1,1,1646,4,0,0,1,0
 12817,Brass Cuisses,1,1,3000,4,0,0,1,0
 12824,Leather Trousers,1,1,493,4,0,0,1,0
@@ -1530,10 +1631,92 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 13574,Black Ribbon,1,1,40000,1,0,0,1,0
 13577,Black Cape,1,1,11088,4,0,0,1,0
 13590,Green Ribbon,1,1,5000,2,0,0,1,0
+13696,Wool Gambison +1,1,1,20000,1,0,0,1,0
+13697,Fine Jerkin,1,1,10500,4,0,0,1,0
 13698,Beak Helm,1,1,10000,2,0,0,1,0
+13699,Beak Jerkin,1,1,7000,2,0,0,1,0
 13701,Beak Helm +1,1,1,10000,1,0,0,1,0
+13703,Brigandine Armor,1,1,20000,2,0,0,1,0
 13704,Ogre Mask,1,1,5000,1,0,0,1,0
+13705,Ogre Jerkin,1,1,40000,1,0,0,1,0
+13707,Strong Vest,1,1,10000,3,0,0,1,0
+13709,Cuir Bouilli +1,1,1,15000,2,0,0,1,0
 13711,Carapace Mask,1,1,4000,2,0,0,1,0
+13712,Carapace Harness,1,1,10000,2,0,0,1,0
+13714,Carapace Harness +1,1,1,15000,1,0,0,1,0
+13716,Bone Harness +1,1,1,10000,3,0,0,1,0
+13717,Beetle Harness +1,1,1,10000,2,0,0,1,0
+13718,Royal Footman's Tunic,1,1,10000,4,0,0,1,0
+13719,Royal Squire's Robe,1,1,10000,2,0,0,1,0
+13720,Royal Knight's Cloak,1,1,20000,2,0,0,1,0
+13722,Royal Knight's Aketon,1,1,50000,2,0,0,1,0
+13723,Pyro Robe,1,1,5000,2,0,0,1,0
+13724,Breastplate +1,1,1,30000,1,0,0,1,0
+13725,Mage's Tunic,1,1,20000,3,0,0,1,0
+13726,Mage's Robe,1,1,30000,3,0,0,1,0
+13727,Dino Jerkin,1,1,30000,2,0,0,1,0
+13728,Jujitsu Gi,1,1,50000,1,0,0,1,0
+13729,Priest's Robe,1,1,10000,4,0,0,1,0
+13730,Frost Robe,1,1,10000,3,0,0,1,0
+13731,Faerie Tunic,1,1,10000,3,0,0,1,0
+13732,Earth Doublet,1,1,30000,2,0,0,1,0
+13733,Shinobi Gi +1,1,1,15000,1,0,0,1,0
+13736,Stolid Breastplate,1,1,50000,2,0,0,1,0
+13737,Mythril Breastplate +1,1,1,26000,1,0,0,1,0
+13738,Gilt Cuirass,1,1,80000,1,0,0,1,0
+13739,Beak Jerkin +1,1,1,20000,1,0,0,1,0
+13740,Byrnie,1,1,30000,1,0,0,1,0
+13742,Aketon,1,1,40000,1,0,0,1,0
+13743,Aketon +1,1,1,60000,0,0,0,1,0
+13744,Justaucorps,1,1,20000,2,0,0,1,0
+13745,Justaucorps +1,1,1,40000,1,0,0,1,0
+13748,Vermillion Cloak,1,1,100000,2,0,0,1,0
+13750,Linen Doublet,1,1,8000,3,0,0,1,0
+13751,Linen Doublet +1,1,1,16000,2,0,0,1,0
+13752,Wool Doublet,1,1,20000,2,0,0,1,0
+13753,Wool Doublet +1,1,1,30000,1,0,0,1,0
+13754,Black Cotehardie,1,1,20000,2,0,0,1,0
+13755,Flora Cotehardie,1,1,30000,2,0,0,1,0
+13756,Darksteel Cuirass +1,1,1,75000,0,0,0,1,0
+13757,Lord's Cuirass,1,1,50000,1,0,0,1,0
+13761,Coral Scale Mail +1,1,1,65000,0,0,0,1,0
+13763,Feral Jerkin,1,1,30000,1,0,0,1,0
+13764,Torama Jerkin,1,1,10000,1,0,0,1,0
+13765,Darksteel Harness +1,1,1,50000,0,0,0,1,0
+13766,Merman's Harness,1,1,60000,1,0,0,1,0
+13767,Demon's Harness,1,1,25000,1,0,0,1,0
+13769,Hara-ate +1,1,1,40000,1,0,0,1,0
+13772,Bloody Aketon,1,1,30000,1,0,0,1,0
+13775,Blue Cotehardie,1,1,20000,1,0,0,1,0
+13776,Blue Cotehardie +1,1,1,35000,0,0,0,1,0
+13777,Silk Cloak +1,1,1,70000,0,0,0,1,0
+13779,Black Cloak,1,1,20000,1,0,0,1,0
+13780,Demon's Cloak,1,1,50000,1,0,0,1,0
+13783,Iron Scale Mail,1,1,20000,3,0,0,1,0
+13784,Iron Scale Mail +1,1,1,30000,2,0,0,1,0
+13785,Steel Scale Mail,1,1,20000,2,0,0,1,0
+13786,Steel Scale Mail +1,1,1,35000,1,0,0,1,0
+13789,Carapace Breastplate,1,1,30000,1,0,0,1,0
+13790,Carapace Breastplate +1,1,1,45000,0,0,0,1,0
+13794,Heavy Cuirass,1,1,20000,1,0,0,1,0
+13795,Arhat's Gi,1,1,50000,1,0,0,1,0
+13796,Bishop's Robe,1,1,10000,3,0,0,1,0
+13797,Bishop's Robe +1,1,1,40000,2,0,0,1,0
+13798,Gaia Doublet,1,1,10000,2,0,0,1,0
+13799,Gaia Doublet +1,1,1,20000,1,0,0,1,0
+13800,Master's Gi,1,1,40000,2,0,0,1,0
+13801,Master's Gi +1,1,1,50000,1,0,0,1,0
+13806,Vagabond's Tunica,1,1,10000,4,0,0,1,0
+13807,Nomad's Tunica,1,1,20000,4,0,0,1,0
+13808,Fisherman's Tunica,1,1,3000,4,0,0,1,0
+13810,Chocobo Jack Coat,1,1,10000,4,0,0,1,0
+13812,Holy Breastplate,1,1,30000,2,0,0,1,0
+13813,Divine Breastplate,1,1,40000,1,0,0,1,0
+13814,Austere Robe,1,1,30000,2,0,0,1,0
+13815,Penance Robe,1,1,60000,1,0,0,1,0
+13816,Narasimha's Vest,1,1,20000,1,0,0,1,0
+13818,Garrison Tunica,1,1,50000,4,0,0,1,0
+13823,Regen Cuirass,1,1,70000,1,0,0,1,0
 13824,Strong Bandana,1,1,8000,3,0,0,1,0
 13825,Bone Hairpin +1,1,1,2000,3,0,0,1,0
 13826,Bone Mask +1,1,1,10000,3,0,0,1,0
@@ -1607,6 +1790,101 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 13942,Panther Mask,1,1,10000,1,0,0,1,0
 13950,Elite Beret,1,1,10000,1,0,0,1,0
 13979,Silver Bangles,1,1,5000,4,0,0,1,0
+14284,Northern Jerkin,1,1,10000,1,0,0,1,0
+14285,Tundra Jerkin,1,1,30000,1,0,0,1,0
+14338,Bastokan Harness,1,1,10000,4,0,0,1,0
+14339,Republic Harness,1,1,10000,3,0,0,1,0
+14340,Royal Squire's Chainmail +1,1,1,20000,2,0,0,1,0
+14341,Royal Squire's Chainmail +2,1,1,30000,1,0,0,1,0
+14342,Iron Musketeer's Cuirass +1,1,1,20000,2,0,0,1,0
+14343,Iron Musketeer's Cuirass +2,1,1,30000,1,0,0,1,0
+14344,San D'Orian Vest,1,1,15000,4,0,0,1,0
+14345,Kingdom Vest,1,1,30000,3,0,0,1,0
+14346,Bastokan Scale Mail,1,1,20000,3,0,0,1,0
+14347,Republic Scale Mail,1,1,60000,2,0,0,1,0
+14348,San D'Orian Tunic,1,1,20000,4,0,0,1,0
+14349,Kingdom Tunic,1,1,25000,3,0,0,1,0
+14350,Windurstian Gi,1,1,15000,3,0,0,1,0
+14351,Federation Gi,1,1,20000,2,0,0,1,0
+14352,Windurstian Doublet,1,1,10000,3,0,0,1,0
+14353,Federation Doublet,1,1,30000,2,0,0,1,0
+14354,Combat Caster's Cloak +1,1,1,20000,2,0,0,1,0
+14355,Combat Caster's Cloak +2,1,1,27500,1,0,0,1,0
+14356,Iron Musketeer's Gambison +1,1,1,15000,2,0,0,1,0
+14357,Iron Musketeer's Gambison +2,1,1,20000,1,0,0,1,0
+14358,Royal Squire's Robe +1,1,1,20000,2,0,0,1,0
+14359,Royal Squire's Robe +2,1,1,28000,1,0,0,1,0
+14360,Royal Knight's Cloak +1,1,1,30000,1,0,0,1,0
+14362,Tactician Magician's Coat +1,1,1,20000,2,0,0,1,0
+14363,Tactician Magician's Coat +2,1,1,25000,1,0,0,1,0
+14372,Cardinal Vest,1,1,30000,1,0,0,1,0
+14374,Field Tunica,1,1,20000,4,0,0,1,0
+14375,Worker Tunica,1,1,20000,4,0,0,1,0
+14376,Rasetsu Samue,1,1,30000,1,0,0,1,0
+14380,Errant Houppelande,1,1,40000,1,0,0,1,0
+14382,Plastron,1,1,100000,1,0,0,1,0
+14384,Opaline Dress,1,1,30000,2,0,0,1,0
+14385,Ceremonial Dress,1,1,45000,1,0,0,1,0
+14389,Dragon Harness,1,1,50000,1,0,0,1,0
+14414,Sha'ir Manteel,1,1,100000,1,0,0,1,0
+14416,Barone Corazza,1,1,100000,1,0,0,1,0
+14418,Bison Jacket,1,1,30000,1,0,0,1,0
+14420,Igqira Weskit,1,1,10000,1,0,0,1,0
+14422,Noct Doublet,1,1,20000,3,0,0,1,0
+14423,Mist Tunic,1,1,10000,3,0,0,1,0
+14424,Seer's Tunic,1,1,10000,3,0,0,1,0
+14425,Garish Tunic,1,1,10000,3,0,0,1,0
+14426,Shade Harness,1,1,10000,3,0,0,1,0
+14427,Seer's Tunic +1,1,1,20000,2,0,0,1,0
+14431,Eisenbrust,1,1,15500,3,0,0,1,0
+14432,Rubious Tunic,1,1,10000,3,0,0,1,0
+14433,Shade Harness +1,1,1,15000,2,0,0,1,0
+14434,Noct Doublet +1,1,1,30000,2,0,0,1,0
+14435,Kampfbrust,1,1,20000,2,0,0,1,0
+14436,Blessed Briault,1,1,20000,1,0,0,1,0
+14437,Hachiman Domaru,1,1,50000,1,0,0,1,0
+14440,Chasuble,1,1,30000,1,0,0,1,0
+14443,Vampire Cloak,1,1,10000,1,0,0,1,0
+14444,Alumine Haubert,1,1,30000,2,0,0,1,0
+14445,Luisant Haubert,1,1,35000,1,0,0,1,0
+14446,Trader's Saio,1,1,20000,3,0,0,1,0
+14447,Baron's Saio,1,1,30000,2,0,0,1,0
+14448,Unicorn Harness,1,1,39500,1,0,0,1,0
+14465,Nanban Kariginu,1,1,10000,3,0,0,1,0
+14470,Assault Breastplate,1,1,100000,1,0,0,1,0
+14490,Mana Tunic,1,1,10000,4,0,0,1,0
+14491,Mana Cloak,1,1,10000,3,0,0,1,0
+14492,High Mana Cloak,1,1,17500,2,0,0,1,0
+14493,Healing Vest,1,1,20000,3,0,0,1,0
+14494,Healing Mail,1,1,20000,1,0,0,1,0
+14495,Healing Harness,1,1,21000,4,0,0,1,0
+14496,Healing Justaucorps,1,1,50000,2,0,0,1,0
+14497,High Healing Harness,1,1,25000,2,0,0,1,0
+14498,Crow Jupon,1,1,20000,2,0,0,1,0
+14499,Raven Jupon,1,1,50000,1,0,0,1,0
+14524,Sipahi Jawshan,1,1,30000,2,0,0,1,0
+14526,Jaridah Peti,1,1,40000,2,0,0,1,0
+14528,Abtal Jawshan,1,1,50000,1,0,0,1,0
+14529,Akinji Peti,1,1,50000,1,0,0,1,0
+14531,Bannaret Mail,1,1,20000,3,0,0,1,0
+14536,Arakan Samue,1,1,50000,1,0,0,1,0
+14537,Hydra Mail,1,1,25000,1,0,0,1,0
+14539,Kyudogi,1,1,35000,1,0,0,1,0
+14541,Taikyoku Kenpogi,1,1,10000,4,0,0,1,0
+14542,Silken Coat,1,1,25000,2,0,0,1,0
+14543,Magi Coat,1,1,50000,1,0,0,1,0
+14544,Corselet,1,1,30000,1,0,0,1,0
+14566,Khimaira Jacket,1,1,2000,1,0,0,1,0
+14571,Tabin Jupon,1,1,10000,1,0,0,1,0
+14572,Tabin Jupon +1,1,1,25000,0,0,0,1,0
+14579,Scorpion Harness,1,1,50000,2,0,0,1,0
+14581,Iron Ram Chainmail,1,1,30000,2,0,0,1,0
+14582,Fourth Division Cuirass,1,1,10000,2,0,0,1,0
+14583,Cobra Unit Coat,1,1,20000,2,0,0,1,0
+14584,Iron Ram Jack Coat,1,1,10000,4,0,0,1,0
+14585,Fourth Division Tunica,1,1,10000,4,0,0,1,0
+14586,Cobra Unit Tunica,1,1,10000,4,0,0,1,0
+14587,Pilgrim Tunica,1,1,10000,4,0,0,1,0
 15071,Spartan Hoplon,1,1,30000,2,0,0,1,1
 15147,Garrison Sallet,1,1,6000,4,0,0,1,0
 15148,Mana Circlet,1,1,11000,2,0,0,1,0
@@ -1690,8 +1968,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16150,Saurian Helm,1,1,20000,1,0,0,1,0
 16161,Januwiyah,1,1,150000,1,0,0,1,1
 16162,Tariqah,1,1,10000,1,0,0,1,1
-16163,Januwiyah +1,0,1,100000,0,0,0,1,1
-16164,Tariqah +1,0,1,80000,0,0,0,1,1
 16166,Januwiyah -1,1,1,30000,1,0,0,1,1
 16167,Tariqah -1,1,1,1000,1,0,0,1,1
 16170,Wivre Shield,1,1,10000,2,0,0,1,1
@@ -1706,9 +1982,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 16185,Pelte,1,1,5000,4,0,0,1,1
 16186,Spellcaster's Ecu,1,1,30000,2,0,0,1,1
 16188,Rusty Shield,1,1,10000,1,0,0,1,1
-16189,Gleaming Shield,0,1,10000,0,0,0,1,1
-16190,Bloom Buckler,0,1,30000,0,0,0,1,1
-16202,Dagda's Shield,0,1,30000,0,0,0,1,1
 16261,Mohbwa Scarf,1,1,3000,3,0,0,1,0
 16262,Mohbwa Scarf +1,1,1,20000,2,0,0,1,0
 16263,Beak Necklace,1,1,5000,2,0,0,1,0
