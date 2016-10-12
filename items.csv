@@ -1132,9 +1132,9 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 12153,Ebon Breastplate,1,1,125000,1,0,0,1,0
 12156,Ebon Harness,1,1,100000,1,0,0,1,0
 12177,Ebon Frock,1,1,200000,1,0,0,1,0
-12189,Ebon Gauntlets,1,1,"30,000",1,0,0,1,0
-12192,Ebon Gloves,1,1,"40,000",1,0,0,1,0
-12213,Ebon Mitts,1,1,"20,000",1,0,0,1,0
+12189,Ebon Gauntlets,1,1,30000,1,0,0,1,0
+12192,Ebon Gloves,1,1,40000,1,0,0,1,0
+12213,Ebon Mitts,1,1,20000,1,0,0,1,0
 12289,Lauan Shield,1,1,110,4,0,0,1,0
 12290,Maple Shield,1,1,556,4,0,0,1,0
 12291,Elm Shield,1,1,1815,4,0,0,1,0
@@ -1444,116 +1444,116 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 12669,Great Doublet,1,1,20000,3,0,0,1,0
 12670,Cloak +1,1,1,15000,2,0,0,1,0
 12671,Soil Gi +1,1,1,12000,2,0,0,1,0
-12672,Gauntlets,1,1,"5,000",3,0,0,1,0
-12673,Mythril Gauntlets,1,1,"10,000",3,0,0,1,0
-12674,Gold Gauntlets,1,1,"20,000",2,0,0,1,0
-12675,Darksteel Gauntlets,1,1,"20,000",1,0,0,1,0
-12676,Adaman Gauntlets,1,1,"10,000",1,0,0,1,0
-12678,Iron Musketeer's Gauntlets,1,1,"10,000",3,0,0,1,0
+12672,Gauntlets,1,1,5000,3,0,0,1,0
+12673,Mythril Gauntlets,1,1,10000,3,0,0,1,0
+12674,Gold Gauntlets,1,1,20000,2,0,0,1,0
+12675,Darksteel Gauntlets,1,1,20000,1,0,0,1,0
+12676,Adaman Gauntlets,1,1,10000,1,0,0,1,0
+12678,Iron Musketeer's Gauntlets,1,1,10000,3,0,0,1,0
 12680,Chain Mittens,1,1,8460,4,0,0,1,0
-12681,Silver Mittens,1,1,"20,000",3,0,0,1,0
+12681,Silver Mittens,1,1,20000,3,0,0,1,0
 12682,Mufflers,1,1,5000,4,0,0,1,0
-12683,Darksteel Mufflers,1,1,"10,000",2,0,0,1,0
-12684,Thick Mufflers,1,1,"10,000",1,0,0,1,0
-12686,Royal Knight's Mufflers,1,1,"20,000",2,0,0,1,0
-12687,Royal Squire's Mufflers,1,1,"15,000",3,0,0,1,0
+12683,Darksteel Mufflers,1,1,10000,2,0,0,1,0
+12684,Thick Mufflers,1,1,10000,1,0,0,1,0
+12686,Royal Knight's Mufflers,1,1,20000,2,0,0,1,0
+12687,Royal Squire's Mufflers,1,1,15000,3,0,0,1,0
 12688,Scale Finger Gauntlets,1,1,1094,4,0,0,1,0
 12689,Brass Finger Gauntlets,1,1,9479,4,0,0,1,0
-12691,Coral Finger Gauntlets,1,1,"20,000",1,0,0,1,0
-12692,Dragon Finger Gauntlets,1,1,"20,000",1,0,0,1,0
-12693,Gavial Finger Gauntlets,1,1,"10,000",1,0,0,1,0
-12694,Centurion's Finger Gauntlets,1,1,"20,000",3,0,0,1,0
-12695,Bronze Mittens +1,1,1,"5,000",3,0,0,1,0
+12691,Coral Finger Gauntlets,1,1,20000,1,0,0,1,0
+12692,Dragon Finger Gauntlets,1,1,20000,1,0,0,1,0
+12693,Gavial Finger Gauntlets,1,1,10000,1,0,0,1,0
+12694,Centurion's Finger Gauntlets,1,1,20000,3,0,0,1,0
+12695,Bronze Mittens +1,1,1,5000,3,0,0,1,0
 12696,Leather Gloves,1,1,331,4,0,0,1,0
-12697,Lizard Gloves,1,1,"2,000",4,0,0,1,0
-12698,Studded Gloves,1,1,"2,500",3,0,0,1,0
-12699,Cuir Gloves,1,1,"10,000",3,0,0,1,0
-12700,Raptor Gloves,1,1,"10,000",3,0,0,1,0
-12701,Dusk Gloves,1,1,"20,000",1,0,0,1,0
-12702,Tiger Gloves,1,1,"30,000",1,0,0,1,0
-12703,Coeurl Gloves,1,1,"15,000",1,0,0,1,0
+12697,Lizard Gloves,1,1,2000,4,0,0,1,0
+12698,Studded Gloves,1,1,2500,3,0,0,1,0
+12699,Cuir Gloves,1,1,10000,3,0,0,1,0
+12700,Raptor Gloves,1,1,10000,3,0,0,1,0
+12701,Dusk Gloves,1,1,20000,1,0,0,1,0
+12702,Tiger Gloves,1,1,30000,1,0,0,1,0
+12703,Coeurl Gloves,1,1,15000,1,0,0,1,0
 12704,Bronze Mittens,1,1,128,4,0,0,1,0
 12705,Brass Mittens,1,1,1255,4,0,0,1,0
 12706,Iron Mittens,1,1,3000,4,0,0,1,0
-12707,Scorpion Mittens,1,1,"10,000",2,0,0,1,0
-12709,Coral Mittens,1,1,"30,000",1,0,0,1,0
-12710,Bone Mittens,1,1,"2,999",4,0,0,1,0
+12707,Scorpion Mittens,1,1,10000,2,0,0,1,0
+12709,Coral Mittens,1,1,30000,1,0,0,1,0
+12710,Bone Mittens,1,1,2999,4,0,0,1,0
 12711,Beetle Mittens,1,1,5707,4,0,0,1,0
 12712,Tekko,1,1,458,4,0,0,1,0
 12713,Cotton Tekko,1,1,2000,4,0,0,1,0
 12714,Soil Tekko,1,1,2713,4,0,0,1,0
-12715,Kote,1,1,"30,000",3,0,0,1,0
-12716,Shinobi Tekko,1,1,"10,000",3,0,0,1,0
-12717,Scorpion Gauntlets +1,0,1,"35,000",0,0,0,1,0
-12718,Iron Mittens +1,1,1,"4,000",2,0,0,1,0
-12719,Mercenary's Tekko,1,1,"1,000",4,0,0,1,0
+12715,Kote,1,1,30000,3,0,0,1,0
+12716,Shinobi Tekko,1,1,10000,3,0,0,1,0
+12717,Scorpion Gauntlets +1,0,1,35000,0,0,0,1,0
+12718,Iron Mittens +1,1,1,4000,2,0,0,1,0
+12719,Mercenary's Tekko,1,1,1000,4,0,0,1,0
 12720,Gloves,1,1,1393,4,0,0,1,0
 12721,Iron Musketeer's Gambison,1,1,30000,2,0,0,1,0
 12722,Bracers,1,1,3000,4,0,0,1,0
-12723,Wool Bracers,1,1,"10,000",3,0,0,1,0
-12724,Battle Bracers,1,1,"20,000",1,0,0,1,0
-12725,War Gloves,1,1,"10,000",1,0,0,1,0
-12726,Mercenary Captain's Gloves,1,1,"6,000",3,0,0,1,0
+12723,Wool Bracers,1,1,10000,3,0,0,1,0
+12724,Battle Bracers,1,1,20000,1,0,0,1,0
+12725,War Gloves,1,1,10000,1,0,0,1,0
+12726,Mercenary Captain's Gloves,1,1,6000,3,0,0,1,0
 12728,Cuffs,1,1,121,4,0,0,1,0
 12729,Linen Cuffs,1,1,1605,4,0,0,1,0
 12730,Wool Cuffs,1,1,3000,4,0,0,1,0
-12731,Velvet Cuffs,1,1,"4,000",3,0,0,1,0
-12732,Silk Cuffs,1,1,"7,000",2,0,0,1,0
-12733,Noble's Mitts,1,1,"30,000",1,0,0,1,0
-12734,Tactician Magician's Cuffs,1,1,"15,000",2,0,0,1,0
+12731,Velvet Cuffs,1,1,4000,3,0,0,1,0
+12732,Silk Cuffs,1,1,7000,2,0,0,1,0
+12733,Noble's Mitts,1,1,30000,1,0,0,1,0
+12734,Tactician Magician's Cuffs,1,1,15000,2,0,0,1,0
 12736,Mitts,1,1,602,4,0,0,1,0
 12737,White Mitts,1,1,4395,4,0,0,1,0
 12738,Linen Mitts,1,1,3000,4,0,0,1,0
-12739,Black Mitts,1,1,"5,000",2,0,0,1,0
-12740,Silk Mitts,1,1,"9,000",2,0,0,1,0
-12742,Rune Bangles,1,1,"5,000",1,0,0,1,0
-12743,Combat Caster's Mitts,1,1,"10,000",3,0,0,1,0
-12744,Cuffs +1,1,1,"2,750",3,0,0,1,0
-12748,Thief's Kote,1,1,"20,000",1,0,0,1,0
-12749,Scentless Armlets,1,1,"10,000",4,0,0,1,0
-12750,New Moon Armlets,1,1,"20,000",3,0,0,1,0
-12751,Scorpion Gauntlets,1,1,"25,000",1,0,0,1,0
-12752,Legionnaire's Mittens,1,1,"4,000",4,0,0,1,0
-12753,Royal Footman's Gloves,1,1,"5,000",4,0,0,1,0
-12761,Custom M Gloves,1,1,"50,000",1,0,0,1,0
-12762,Custom F Gloves,1,1,"40,000",1,0,0,1,0
-12763,Magna Gauntlets,1,1,"50,000",1,0,0,1,0
-12764,Magna Gloves,1,1,"40,000",1,0,0,1,0
-12765,Wonder Mitts,1,1,"50,000",1,0,0,1,0
-12766,Savage Gauntlets,1,1,"50,000",1,0,0,1,0
-12767,Elder's Bracers,1,1,"50,000",3,0,0,1,0
-12768,Solid Finger Gauntlets,1,1,"9,500",4,0,0,1,0
-12769,Chain Mittens +1,1,1,"9,000",2,0,0,1,0
-12770,Brass Mittens +1,1,1,"1,000",3,0,0,1,0
-12771,Brass Finger Gauntlets +1,1,1,"12,000",2,0,0,1,0
-12772,Silver Mittens +1,1,1,"25,000",2,0,0,1,0
-12773,Gloves +1,1,1,"5,000",3,0,0,1,0
-12774,Tekko +1,1,1,"5,000",3,0,0,1,0
-12775,Mitts +1,1,1,"1,000",3,0,0,1,0
-12776,Great Gloves,1,1,"4,000",3,0,0,1,0
-12777,Cotton Tekko +1,1,1,"5,000",3,0,0,1,0
-12778,Linen Cuffs +1,1,1,"5,000",3,0,0,1,0
-12779,Bracers +1,1,1,"7,000",2,0,0,1,0
-12780,Linen Mitts +1,1,1,"7,500",2,0,0,1,0
-12781,Soil Tekko +1,1,1,"10,000",2,0,0,1,0
-12782,Wool Cuffs +1,1,1,"6,000",2,0,0,1,0
-12783,Wool Bracers +1,1,1,"12,000",2,0,0,1,0
-12784,Leather Gloves +1,1,1,"3,000",3,0,0,1,0
-12785,Fine Gloves,1,1,"3,000",4,0,0,1,0
-12786,Strong Gloves,1,1,"6,000",3,0,0,1,0
-12787,Cuir Gloves +1,1,1,"13,000",2,0,0,1,0
-12788,Bone Mittens +1,1,1,"6,000",3,0,0,1,0
-12789,Beetle Mittens +1,1,1,"7,500",2,0,0,1,0
-12790,Carapace Mittens +1,1,1,"7,500",2,0,0,1,0
-12791,Gauntlets +1,1,1,"10,000",2,0,0,1,0
-12792,Mufflers +1,1,1,"15,000",2,0,0,1,0
-12793,Mage's Cuffs,1,1,"10,000",3,0,0,1,0
-12794,Mage's Mitts,1,1,"10,000",1,0,0,1,0
-12795,Dino Gloves,1,1,"10,000",3,0,0,1,0
-12796,Asbestos Mitts,1,1,"5,000",2,0,0,1,0
+12739,Black Mitts,1,1,5000,2,0,0,1,0
+12740,Silk Mitts,1,1,9000,2,0,0,1,0
+12742,Rune Bangles,1,1,5000,1,0,0,1,0
+12743,Combat Caster's Mitts,1,1,10000,3,0,0,1,0
+12744,Cuffs +1,1,1,2750,3,0,0,1,0
+12748,Thief's Kote,1,1,20000,1,0,0,1,0
+12749,Scentless Armlets,1,1,10000,4,0,0,1,0
+12750,New Moon Armlets,1,1,20000,3,0,0,1,0
+12751,Scorpion Gauntlets,1,1,25000,1,0,0,1,0
+12752,Legionnaire's Mittens,1,1,4000,4,0,0,1,0
+12753,Royal Footman's Gloves,1,1,5000,4,0,0,1,0
+12761,Custom M Gloves,1,1,50000,1,0,0,1,0
+12762,Custom F Gloves,1,1,40000,1,0,0,1,0
+12763,Magna Gauntlets,1,1,50000,1,0,0,1,0
+12764,Magna Gloves,1,1,40000,1,0,0,1,0
+12765,Wonder Mitts,1,1,50000,1,0,0,1,0
+12766,Savage Gauntlets,1,1,50000,1,0,0,1,0
+12767,Elder's Bracers,1,1,50000,3,0,0,1,0
+12768,Solid Finger Gauntlets,1,1,9500,4,0,0,1,0
+12769,Chain Mittens +1,1,1,9000,2,0,0,1,0
+12770,Brass Mittens +1,1,1,1000,3,0,0,1,0
+12771,Brass Finger Gauntlets +1,1,1,12000,2,0,0,1,0
+12772,Silver Mittens +1,1,1,25000,2,0,0,1,0
+12773,Gloves +1,1,1,5000,3,0,0,1,0
+12774,Tekko +1,1,1,5000,3,0,0,1,0
+12775,Mitts +1,1,1,1000,3,0,0,1,0
+12776,Great Gloves,1,1,4000,3,0,0,1,0
+12777,Cotton Tekko +1,1,1,5000,3,0,0,1,0
+12778,Linen Cuffs +1,1,1,5000,3,0,0,1,0
+12779,Bracers +1,1,1,7000,2,0,0,1,0
+12780,Linen Mitts +1,1,1,7500,2,0,0,1,0
+12781,Soil Tekko +1,1,1,10000,2,0,0,1,0
+12782,Wool Cuffs +1,1,1,6000,2,0,0,1,0
+12783,Wool Bracers +1,1,1,12000,2,0,0,1,0
+12784,Leather Gloves +1,1,1,3000,3,0,0,1,0
+12785,Fine Gloves,1,1,3000,4,0,0,1,0
+12786,Strong Gloves,1,1,6000,3,0,0,1,0
+12787,Cuir Gloves +1,1,1,13000,2,0,0,1,0
+12788,Bone Mittens +1,1,1,6000,3,0,0,1,0
+12789,Beetle Mittens +1,1,1,7500,2,0,0,1,0
+12790,Carapace Mittens +1,1,1,7500,2,0,0,1,0
+12791,Gauntlets +1,1,1,10000,2,0,0,1,0
+12792,Mufflers +1,1,1,15000,2,0,0,1,0
+12793,Mage's Cuffs,1,1,10000,3,0,0,1,0
+12794,Mage's Mitts,1,1,10000,1,0,0,1,0
+12795,Dino Gloves,1,1,10000,3,0,0,1,0
+12796,Asbestos Mitts,1,1,5000,2,0,0,1,0
 12797,Coarse Gauntlets,1,1,550,4,0,0,1,0
-12798,Zealot's Mitts,1,1,"2,000",4,0,0,1,0
-12799,Battle Gloves,1,1,"10,000",3,0,0,1,0
+12798,Zealot's Mitts,1,1,2000,4,0,0,1,0
+12799,Battle Gloves,1,1,10000,3,0,0,1,0
 12800,Cuisses,1,1,5000,4,0,0,1,0
 12808,Chain Hose,1,1,8000,4,0,0,1,0
 12809,Angler's Tunica,1,1,30000,4,0,0,1,0
@@ -1858,17 +1858,17 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 13697,Fine Jerkin,1,1,10500,4,0,0,1,0
 13698,Beak Helm,1,1,10000,2,0,0,1,0
 13699,Beak Jerkin,1,1,7000,2,0,0,1,0
-13700,Beak Gloves,1,1,"10,000",2,0,0,1,0
+13700,Beak Gloves,1,1,10000,2,0,0,1,0
 13701,Beak Helm +1,1,1,10000,1,0,0,1,0
 13703,Brigandine Armor,1,1,20000,2,0,0,1,0
 13704,Ogre Mask,1,1,5000,1,0,0,1,0
 13705,Ogre Jerkin,1,1,40000,1,0,0,1,0
-13706,Ogre Gloves,1,1,"30,000",1,0,0,1,0
+13706,Ogre Gloves,1,1,30000,1,0,0,1,0
 13707,Strong Vest,1,1,10000,3,0,0,1,0
 13709,Cuir Bouilli +1,1,1,15000,2,0,0,1,0
 13711,Carapace Mask,1,1,4000,2,0,0,1,0
 13712,Carapace Harness,1,1,10000,2,0,0,1,0
-13713,Carapace Mittens,1,1,"4,000",3,0,0,1,0
+13713,Carapace Mittens,1,1,4000,3,0,0,1,0
 13714,Carapace Harness +1,1,1,15000,1,0,0,1,0
 13716,Bone Harness +1,1,1,10000,3,0,0,1,0
 13717,Beetle Harness +1,1,1,10000,2,0,0,1,0
@@ -2015,89 +2015,89 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 13940,Penance Hat,1,1,20000,1,0,0,1,0
 13942,Panther Mask,1,1,10000,1,0,0,1,0
 13950,Elite Beret,1,1,10000,1,0,0,1,0
-13953,White Mitts +1,1,1,"10,000",2,0,0,1,0
-13954,Silk Cuffs +1,1,1,"15,000",1,0,0,1,0
-13955,Shinobi Tekko +1,1,1,"19,000",2,0,0,1,0
-13956,Scorpion Mittens +1,1,1,"14,000",1,0,0,1,0
-13957,Yasha Tekko,1,1,"10,000",1,0,0,1,0
-13958,Mythril Gauntlets +1,1,1,"21,000",2,0,0,1,0
-13959,Gilt Gauntlets,1,1,"50,000",2,0,0,1,0
-13960,Beak Gloves +1,1,1,"13,500",1,0,0,1,0
-13976,Darksteel Mufflers +1,1,1,"25,000",1,0,0,1,0
-13977,Light Gauntlets,1,1,"10,000",2,0,0,1,0
-13978,Aiming Bracelets,1,1,"5,000",2,0,0,1,0
+13953,White Mitts +1,1,1,10000,2,0,0,1,0
+13954,Silk Cuffs +1,1,1,15000,1,0,0,1,0
+13955,Shinobi Tekko +1,1,1,19000,2,0,0,1,0
+13956,Scorpion Mittens +1,1,1,14000,1,0,0,1,0
+13957,Yasha Tekko,1,1,10000,1,0,0,1,0
+13958,Mythril Gauntlets +1,1,1,21000,2,0,0,1,0
+13959,Gilt Gauntlets,1,1,50000,2,0,0,1,0
+13960,Beak Gloves +1,1,1,13500,1,0,0,1,0
+13976,Darksteel Mufflers +1,1,1,25000,1,0,0,1,0
+13977,Light Gauntlets,1,1,10000,2,0,0,1,0
+13978,Aiming Bracelets,1,1,5000,2,0,0,1,0
 13979,Silver Bangles,1,1,5000,4,0,0,1,0
-13980,Silver Bangles +1,1,1,"10,000",2,0,0,1,0
-13981,Turtle Bangles,1,1,"6,000",3,0,0,1,0
-13982,Turtle Bangles +1,1,1,"10,000",2,0,0,1,0
-13983,Gold Bangles,1,1,"10,000",2,0,0,1,0
-13985,Platinum Bangles,1,1,"10,000",1,0,0,1,0
-13987,Coral Bangles,1,1,"20,000",2,0,0,1,0
-13988,Merman's Bangles,1,1,"30,000",1,0,0,1,0
-13989,Darksteel Gauntlets +1,0,1,"30,000",0,0,0,1,0
-13990,Coral Finger Gauntlets +1,0,1,"50,000",0,0,0,1,0
-13991,Dragon Finger Gauntlets +1,0,1,"30,000",0,0,0,1,0
-13992,Feral Gloves,1,1,"10,000",1,0,0,1,0
-13993,Torama Gloves,1,1,"20,000",1,0,0,1,0
-13994,Darksteel Mittens +1,0,1,"23,000",0,0,0,1,0
-13995,Merman's Mittens,1,1,"40,000",1,0,0,1,0
-13996,Kote +1,1,1,"20,000",2,0,0,1,0
-13997,Battle Bracers +1,0,1,"10,000",0,0,0,1,0
-14000,Silk Mitts +1,1,1,"17,000",1,0,0,1,0
-14001,Iron Finger Gauntlets,1,1,"10,000",3,0,0,1,0
-14002,Iron Finger Gauntlets +1,1,1,"20,000",2,0,0,1,0
-14003,Steel Finger Gauntlets,1,1,"10,000",3,0,0,1,0
-14004,Steel Finger Gauntlets +1,1,1,"17,000",2,0,0,1,0
-14005,Monsoon Tekko,1,1,"10,000",3,0,0,1,0
-14008,Carapace Gauntlets,1,1,"20,000",2,0,0,1,0
-14009,Carapace Gauntlets +1,0,1,"30,000",0,0,0,1,0
-14010,Black Gadlings,1,1,"20,000",1,0,0,1,0
-14012,Thick Mufflers +1,0,1,"25,000",0,0,0,1,0
-14018,Gigas Bracelets,1,1,"4,000",3,0,0,1,0
-14019,Ogygos's Bracelets,1,1,"24,500",3,0,0,1,0
-14020,Enkelados's Bracelets,1,1,"5,000",2,0,0,1,0
-14021,Pallas's Bracelets,1,1,"20,000",2,0,0,1,0
-14023,Arhat's Tekko,1,1,"18,000",1,0,0,1,0
-14024,Devotee's Mitts,1,1,"10,000",3,0,0,1,0
-14025,Devotee's Mitts +1,1,1,"20,000",2,0,0,1,0
-14026,Hailstorm Tekko,1,1,"10,000",2,0,0,1,0
-14027,Hailstorm Tekko +1,1,1,"20,000",1,0,0,1,0
-14028,Arhat's Tekko +1,0,1,"25,000",0,0,0,1,0
-14029,Royal Knight's Mufflers +1,1,1,"20,000",2,0,0,1,0
-14030,Royal Knight's Mufflers +2,1,1,"23,000",1,0,0,1,0
-14031,Bastokan Mittens,1,1,"10,000",4,0,0,1,0
-14032,Republic Mittens,1,1,"15,000",3,0,0,1,0
-14033,San D'Orian Mufflers,1,1,"11,000",3,0,0,1,0
-14034,Kingdom Mufflers,1,1,"20,000",2,0,0,1,0
-14035,Iron Musketeer's Gauntlets +1,1,1,"15,000",3,0,0,1,0
-14036,Iron Musketeer's Gauntlets +2,1,1,"20,000",2,0,0,1,0
-14037,San D'Orian Gloves,1,1,"10,000",4,0,0,1,0
-14038,Kingdom Gloves,1,1,"15,000",3,0,0,1,0
-14039,Bastokan Finger Gauntlets,1,1,"10,000",3,0,0,1,0
-14040,Republic Finger Gauntlets,1,1,"20,000",2,0,0,1,0
-14043,Windurstian Tekko,1,1,"5,000",3,0,0,1,0
-14044,Federation Tekko,1,1,"10,000",2,0,0,1,0
-14045,Windurstian Gloves,1,1,"15,000",3,0,0,1,0
-14046,Federation Gloves,1,1,"20,000",2,0,0,1,0
-14047,Combat Caster's Mitts +1,1,1,"15,000",3,0,0,1,0
-14048,Combat Caster's Mitts +2,1,1,"20,000",2,0,0,1,0
-14049,Tactician Magician's Cuffs +1,1,1,"21,000",2,0,0,1,0
-14050,Tactician Magician's Cuffs +2,1,1,"30,000",1,0,0,1,0
-14051,Alumine Moufles,1,1,"10,000",3,0,0,1,0
-14052,Luisant Moufles,1,1,"25,000",3,0,0,1,0
-14053,Trader's Cuffs,1,1,"10,000",3,0,0,1,0
-14054,Baron's Cuffs,1,1,"13,000",2,0,0,1,0
-14055,Unicorn Mittens,1,1,"30,000",1,0,0,1,0
-14065,Garden Bangles,1,1,"20,000",1,0,0,1,0
-14066,Feronia's Bangles,0,1,"50,000",0,0,0,1,0
-14067,Tarasque Mitts,1,1,"20,000",1,0,0,1,0
-14068,Vagabond's Gloves,1,1,"9,000",2,0,0,1,0
-14069,Nomad's Gloves,1,1,"7,000",2,0,0,1,0
-14070,Fisherman's Gloves,1,1,"10,000",2,0,0,1,0
-14071,Angler's Gloves,1,1,"10,000",2,0,0,1,0
-14072,Chocobo Gloves,1,1,"5,000",2,0,0,1,0
-14073,Rider's Gloves,1,1,"5,000",2,0,0,1,0
-14078,Errant Cuffs,1,1,"20,000",1,0,0,1,0
+13980,Silver Bangles +1,1,1,10000,2,0,0,1,0
+13981,Turtle Bangles,1,1,6000,3,0,0,1,0
+13982,Turtle Bangles +1,1,1,10000,2,0,0,1,0
+13983,Gold Bangles,1,1,10000,2,0,0,1,0
+13985,Platinum Bangles,1,1,10000,1,0,0,1,0
+13987,Coral Bangles,1,1,20000,2,0,0,1,0
+13988,Merman's Bangles,1,1,30000,1,0,0,1,0
+13989,Darksteel Gauntlets +1,0,1,30000,0,0,0,1,0
+13990,Coral Finger Gauntlets +1,0,1,50000,0,0,0,1,0
+13991,Dragon Finger Gauntlets +1,0,1,30000,0,0,0,1,0
+13992,Feral Gloves,1,1,10000,1,0,0,1,0
+13993,Torama Gloves,1,1,20000,1,0,0,1,0
+13994,Darksteel Mittens +1,0,1,23000,0,0,0,1,0
+13995,Merman's Mittens,1,1,40000,1,0,0,1,0
+13996,Kote +1,1,1,20000,2,0,0,1,0
+13997,Battle Bracers +1,0,1,10000,0,0,0,1,0
+14000,Silk Mitts +1,1,1,17000,1,0,0,1,0
+14001,Iron Finger Gauntlets,1,1,10000,3,0,0,1,0
+14002,Iron Finger Gauntlets +1,1,1,20000,2,0,0,1,0
+14003,Steel Finger Gauntlets,1,1,10000,3,0,0,1,0
+14004,Steel Finger Gauntlets +1,1,1,17000,2,0,0,1,0
+14005,Monsoon Tekko,1,1,10000,3,0,0,1,0
+14008,Carapace Gauntlets,1,1,20000,2,0,0,1,0
+14009,Carapace Gauntlets +1,0,1,30000,0,0,0,1,0
+14010,Black Gadlings,1,1,20000,1,0,0,1,0
+14012,Thick Mufflers +1,0,1,25000,0,0,0,1,0
+14018,Gigas Bracelets,1,1,4000,3,0,0,1,0
+14019,Ogygos's Bracelets,1,1,24500,3,0,0,1,0
+14020,Enkelados's Bracelets,1,1,5000,2,0,0,1,0
+14021,Pallas's Bracelets,1,1,20000,2,0,0,1,0
+14023,Arhat's Tekko,1,1,18000,1,0,0,1,0
+14024,Devotee's Mitts,1,1,10000,3,0,0,1,0
+14025,Devotee's Mitts +1,1,1,20000,2,0,0,1,0
+14026,Hailstorm Tekko,1,1,10000,2,0,0,1,0
+14027,Hailstorm Tekko +1,1,1,20000,1,0,0,1,0
+14028,Arhat's Tekko +1,0,1,25000,0,0,0,1,0
+14029,Royal Knight's Mufflers +1,1,1,20000,2,0,0,1,0
+14030,Royal Knight's Mufflers +2,1,1,23000,1,0,0,1,0
+14031,Bastokan Mittens,1,1,10000,4,0,0,1,0
+14032,Republic Mittens,1,1,15000,3,0,0,1,0
+14033,San D'Orian Mufflers,1,1,11000,3,0,0,1,0
+14034,Kingdom Mufflers,1,1,20000,2,0,0,1,0
+14035,Iron Musketeer's Gauntlets +1,1,1,15000,3,0,0,1,0
+14036,Iron Musketeer's Gauntlets +2,1,1,20000,2,0,0,1,0
+14037,San D'Orian Gloves,1,1,10000,4,0,0,1,0
+14038,Kingdom Gloves,1,1,15000,3,0,0,1,0
+14039,Bastokan Finger Gauntlets,1,1,10000,3,0,0,1,0
+14040,Republic Finger Gauntlets,1,1,20000,2,0,0,1,0
+14043,Windurstian Tekko,1,1,5000,3,0,0,1,0
+14044,Federation Tekko,1,1,10000,2,0,0,1,0
+14045,Windurstian Gloves,1,1,15000,3,0,0,1,0
+14046,Federation Gloves,1,1,20000,2,0,0,1,0
+14047,Combat Caster's Mitts +1,1,1,15000,3,0,0,1,0
+14048,Combat Caster's Mitts +2,1,1,20000,2,0,0,1,0
+14049,Tactician Magician's Cuffs +1,1,1,21000,2,0,0,1,0
+14050,Tactician Magician's Cuffs +2,1,1,30000,1,0,0,1,0
+14051,Alumine Moufles,1,1,10000,3,0,0,1,0
+14052,Luisant Moufles,1,1,25000,3,0,0,1,0
+14053,Trader's Cuffs,1,1,10000,3,0,0,1,0
+14054,Baron's Cuffs,1,1,13000,2,0,0,1,0
+14055,Unicorn Mittens,1,1,30000,1,0,0,1,0
+14065,Garden Bangles,1,1,20000,1,0,0,1,0
+14066,Feronia's Bangles,0,1,50000,0,0,0,1,0
+14067,Tarasque Mitts,1,1,20000,1,0,0,1,0
+14068,Vagabond's Gloves,1,1,9000,2,0,0,1,0
+14069,Nomad's Gloves,1,1,7000,2,0,0,1,0
+14070,Fisherman's Gloves,1,1,10000,2,0,0,1,0
+14071,Angler's Gloves,1,1,10000,2,0,0,1,0
+14072,Chocobo Gloves,1,1,5000,2,0,0,1,0
+14073,Rider's Gloves,1,1,5000,2,0,0,1,0
+14078,Errant Cuffs,1,1,20000,1,0,0,1,0
 14284,Northern Jerkin,1,1,10000,1,0,0,1,0
 14285,Tundra Jerkin,1,1,30000,1,0,0,1,0
 14338,Bastokan Harness,1,1,10000,4,0,0,1,0
@@ -2246,88 +2246,88 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 14675,Woodsman Ring,1,1,40000,3,0,0,1,0
 14676,Assailant's Ring,1,1,20000,3,0,0,1,0
 14696,Telluric Ring,1,1,20000,2,0,0,1,0
-14708,Darksteel Mittens,1,1,"14,500",1,0,0,1,0
-14817,Field Gloves,1,1,"10,000",2,0,0,1,0
-14818,Worker Gloves,1,1,"10,000",2,0,0,1,0
-14819,Rasetsu Tekko,1,1,"10,000",1,0,0,1,0
-14823,Dragon Mittens,1,1,"14,100",1,0,0,1,0
-14826,Austere Cuffs,1,1,"40,000",2,0,0,1,0
-14827,Penance Cuffs,1,1,"50,000",1,0,0,1,0
-14833,Marine M Gloves,1,1,"40,000",1,0,0,1,0
-14834,Marine F Gloves,1,1,"50,000",1,0,0,1,0
-14835,Wood Gauntlets,1,1,"90,000",1,0,0,1,0
-14836,Wood Gloves,1,1,"70,000",1,0,0,1,0
-14837,Creek M Mitts,1,1,"100,000",1,0,0,1,0
-14838,Creek F Mitts,1,1,"30,000",1,0,0,1,0
-14839,River Gauntlets,1,1,"50,000",1,0,0,1,0
-14840,Dune Bracers,1,1,"100,000",1,0,0,1,0
-14841,Garrison Gloves,1,1,"30,000",3,0,0,1,0
-14842,Ivory Mitts,1,1,"5,000",2,0,0,1,0
-14843,Spiked Finger Gauntlets,1,1,"30,000",2,0,0,1,0
-14844,Rush Gloves,1,1,"20,000",2,0,0,1,0
-14845,Sly Gauntlets,1,1,"15,000",2,0,0,1,0
-14846,Sha'ir Gages,1,1,"30,000",1,0,0,1,0
-14848,Barone Manopolas,1,1,"20,000",1,0,0,1,0
-14850,Bison Wristbands,1,1,"20,000",1,0,0,1,0
-14852,Igqira Manillas,1,1,"20,000",1,0,0,1,0
-14854,Noct Gloves,1,1,"10,000",3,0,0,1,0
-14855,Mist Mitts,1,1,"10,000",3,0,0,1,0
-14856,Seer's Mitts,1,1,"30,000",3,0,0,1,0
-14857,Garish Mitts,1,1,"15,000",3,0,0,1,0
-14858,Shade Mittens,1,1,"25,000",3,0,0,1,0
-14859,Seer's Mitts +1,1,1,"38,000",2,0,0,1,0
-14860,Eisenhentzes,1,1,"15,000",3,0,0,1,0
-14861,Rubious Mitts,1,1,"20,000",3,0,0,1,0
-14862,Shade Mittens +1,1,1,"30,000",2,0,0,1,0
-14863,Kampfhentzes,1,1,"20,000",2,0,0,1,0
-14864,Palmer's Bangles,1,1,"25,000",3,0,0,1,0
-14865,Noct Gloves +1,1,1,"20,000",2,0,0,1,0
-14866,Concealing Cuffs,1,1,"50,000",3,0,0,1,0
-14867,Magical Mitts,1,1,"30,000",2,0,0,1,0
-14870,Trainer's Wristbands,1,1,"30,000",2,0,0,1,0
-14871,Trainer's Gloves,1,1,"10,000",1,0,0,1,0
-14872,Ostreger Mitts,1,1,"20,000",1,0,0,1,0
-14875,Blessed Mitts,1,1,"20,000",1,0,0,1,0
-14876,Hachiman Kote,1,1,"40,000",1,0,0,1,0
-14879,Lord's Gauntlets,1,1,"20,000",1,0,0,1,0
-14880,Wise Gloves,1,1,"10,000",1,0,0,1,0
-14885,Sennight Bangles,1,1,"10,000",3,0,0,1,0
-14886,Heavy Gauntlets,1,1,"30,000",1,0,0,1,0
-14907,Crow Bracers,1,1,"20,000",2,0,0,1,0
-14908,Raven Bracers,1,1,"30,000",1,0,0,1,0
-14932,Sipahi Dastana,1,1,"20,000",2,0,0,1,0
-14934,Jaridah Bazubands,1,1,"20,000",2,0,0,1,0
-14938,Abtal Dastanas,1,1,"60,000",1,0,0,1,0
-14939,Akinji Bazubands,1,1,"30,000",1,0,0,1,0
-14941,Marid Mittens,1,1,"15,000",1,0,0,1,0
-14944,Deadeye Gloves,1,1,"30,000",2,0,0,1,0
-14945,Fencing Bracers,1,1,"30,000",1,0,0,1,0
-14946,Nightmare Gloves,1,1,"10,000",1,0,0,1,0
-14947,Hanzo Tekko,1,1,"10,000",1,0,0,1,0
-14949,Hydra Finger Gauntlets,1,1,"20,000",1,0,0,1,0
-14955,Silken Cuffs,1,1,"10,000",2,0,0,1,0
-14956,Magi Cuffs,1,1,"50,000",2,0,0,1,0
-14957,Aiming Gloves,1,1,"15,000",3,0,0,1,0
-14981,Khimaira Wristbands,1,1,"20,000",1,0,0,1,0
-14984,Gold Bangles +1,1,1,"17,000",1,0,0,1,0
-14987,Thunder Mittens,1,1,"15,000",3,0,0,1,0
-14988,Stone Bangles,1,1,"10,000",3,0,0,1,0
-14989,Aero Mufflers,1,1,"10,000",3,0,0,1,0
-14990,Blizzard Gloves,1,1,"30,000",3,0,0,1,0
-14991,Fire Bracers,1,1,"20,000",3,0,0,1,0
-14992,Water Mitts,1,1,"20,000",2,0,0,1,0
-14993,Tabin Bracers,1,1,"10,000",1,0,0,1,0
-14994,Tabin Bracers +1,0,1,"25,000",0,0,0,1,0
-15005,Iron Ram Mufflers,1,1,"20,000",3,0,0,1,0
-15006,Fourth Division Gauntlets,1,1,"17,500",2,0,0,1,0
-15007,Cobra Unit Cuffs,1,1,"20,000",2,0,0,1,0
-15014,Patrician's Cuffs,1,1,"50,000",1,0,0,1,0
-15016,Orcish Gauntlets,1,1,"10,000",1,0,0,1,0
-15033,Danzo Tekko,1,1,"10,000",1,0,0,1,0
-15052,Guerilla Gloves,1,1,"10,000",4,0,0,1,0
-15054,Beacon Cuffs,1,1,"30,000",2,0,0,1,0
-15055,Finesse Gloves,1,1,"50,000",1,0,0,1,0
-15058,Combat Mittens +1,1,1,"25,000",2,0,0,1,0
+14708,Darksteel Mittens,1,1,14500,1,0,0,1,0
+14817,Field Gloves,1,1,10000,2,0,0,1,0
+14818,Worker Gloves,1,1,10000,2,0,0,1,0
+14819,Rasetsu Tekko,1,1,10000,1,0,0,1,0
+14823,Dragon Mittens,1,1,14100,1,0,0,1,0
+14826,Austere Cuffs,1,1,40000,2,0,0,1,0
+14827,Penance Cuffs,1,1,50000,1,0,0,1,0
+14833,Marine M Gloves,1,1,40000,1,0,0,1,0
+14834,Marine F Gloves,1,1,50000,1,0,0,1,0
+14835,Wood Gauntlets,1,1,90000,1,0,0,1,0
+14836,Wood Gloves,1,1,70000,1,0,0,1,0
+14837,Creek M Mitts,1,1,100000,1,0,0,1,0
+14838,Creek F Mitts,1,1,30000,1,0,0,1,0
+14839,River Gauntlets,1,1,50000,1,0,0,1,0
+14840,Dune Bracers,1,1,100000,1,0,0,1,0
+14841,Garrison Gloves,1,1,30000,3,0,0,1,0
+14842,Ivory Mitts,1,1,5000,2,0,0,1,0
+14843,Spiked Finger Gauntlets,1,1,30000,2,0,0,1,0
+14844,Rush Gloves,1,1,20000,2,0,0,1,0
+14845,Sly Gauntlets,1,1,15000,2,0,0,1,0
+14846,Sha'ir Gages,1,1,30000,1,0,0,1,0
+14848,Barone Manopolas,1,1,20000,1,0,0,1,0
+14850,Bison Wristbands,1,1,20000,1,0,0,1,0
+14852,Igqira Manillas,1,1,20000,1,0,0,1,0
+14854,Noct Gloves,1,1,10000,3,0,0,1,0
+14855,Mist Mitts,1,1,10000,3,0,0,1,0
+14856,Seer's Mitts,1,1,30000,3,0,0,1,0
+14857,Garish Mitts,1,1,15000,3,0,0,1,0
+14858,Shade Mittens,1,1,25000,3,0,0,1,0
+14859,Seer's Mitts +1,1,1,38000,2,0,0,1,0
+14860,Eisenhentzes,1,1,15000,3,0,0,1,0
+14861,Rubious Mitts,1,1,20000,3,0,0,1,0
+14862,Shade Mittens +1,1,1,30000,2,0,0,1,0
+14863,Kampfhentzes,1,1,20000,2,0,0,1,0
+14864,Palmer's Bangles,1,1,25000,3,0,0,1,0
+14865,Noct Gloves +1,1,1,20000,2,0,0,1,0
+14866,Concealing Cuffs,1,1,50000,3,0,0,1,0
+14867,Magical Mitts,1,1,30000,2,0,0,1,0
+14870,Trainer's Wristbands,1,1,30000,2,0,0,1,0
+14871,Trainer's Gloves,1,1,10000,1,0,0,1,0
+14872,Ostreger Mitts,1,1,20000,1,0,0,1,0
+14875,Blessed Mitts,1,1,20000,1,0,0,1,0
+14876,Hachiman Kote,1,1,40000,1,0,0,1,0
+14879,Lord's Gauntlets,1,1,20000,1,0,0,1,0
+14880,Wise Gloves,1,1,10000,1,0,0,1,0
+14885,Sennight Bangles,1,1,10000,3,0,0,1,0
+14886,Heavy Gauntlets,1,1,30000,1,0,0,1,0
+14907,Crow Bracers,1,1,20000,2,0,0,1,0
+14908,Raven Bracers,1,1,30000,1,0,0,1,0
+14932,Sipahi Dastana,1,1,20000,2,0,0,1,0
+14934,Jaridah Bazubands,1,1,20000,2,0,0,1,0
+14938,Abtal Dastanas,1,1,60000,1,0,0,1,0
+14939,Akinji Bazubands,1,1,30000,1,0,0,1,0
+14941,Marid Mittens,1,1,15000,1,0,0,1,0
+14944,Deadeye Gloves,1,1,30000,2,0,0,1,0
+14945,Fencing Bracers,1,1,30000,1,0,0,1,0
+14946,Nightmare Gloves,1,1,10000,1,0,0,1,0
+14947,Hanzo Tekko,1,1,10000,1,0,0,1,0
+14949,Hydra Finger Gauntlets,1,1,20000,1,0,0,1,0
+14955,Silken Cuffs,1,1,10000,2,0,0,1,0
+14956,Magi Cuffs,1,1,50000,2,0,0,1,0
+14957,Aiming Gloves,1,1,15000,3,0,0,1,0
+14981,Khimaira Wristbands,1,1,20000,1,0,0,1,0
+14984,Gold Bangles +1,1,1,17000,1,0,0,1,0
+14987,Thunder Mittens,1,1,15000,3,0,0,1,0
+14988,Stone Bangles,1,1,10000,3,0,0,1,0
+14989,Aero Mufflers,1,1,10000,3,0,0,1,0
+14990,Blizzard Gloves,1,1,30000,3,0,0,1,0
+14991,Fire Bracers,1,1,20000,3,0,0,1,0
+14992,Water Mitts,1,1,20000,2,0,0,1,0
+14993,Tabin Bracers,1,1,10000,1,0,0,1,0
+14994,Tabin Bracers +1,0,1,25000,0,0,0,1,0
+15005,Iron Ram Mufflers,1,1,20000,3,0,0,1,0
+15006,Fourth Division Gauntlets,1,1,17500,2,0,0,1,0
+15007,Cobra Unit Cuffs,1,1,20000,2,0,0,1,0
+15014,Patrician's Cuffs,1,1,50000,1,0,0,1,0
+15016,Orcish Gauntlets,1,1,10000,1,0,0,1,0
+15033,Danzo Tekko,1,1,10000,1,0,0,1,0
+15052,Guerilla Gloves,1,1,10000,4,0,0,1,0
+15054,Beacon Cuffs,1,1,30000,2,0,0,1,0
+15055,Finesse Gloves,1,1,50000,1,0,0,1,0
+15058,Combat Mittens +1,1,1,25000,2,0,0,1,0
 15071,Spartan Hoplon,1,1,30000,2,0,0,1,1
 15147,Garrison Sallet,1,1,6000,4,0,0,1,0
 15148,Mana Circlet,1,1,11000,2,0,0,1,0
@@ -2372,7 +2372,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 15243,Raven Beret,1,1,30000,1,0,0,1,0
 15268,Eldritch Bone Hairpin,1,1,5000,4,0,0,1,0
 15269,Eldritch Horn Hairpin,1,1,5000,3,0,0,1,0
-15503,Combat Mittens,1,1,"20,000",3,0,0,1,0
+15503,Combat Mittens,1,1,20000,3,0,0,1,0
 15521,Tempered Chain,1,1,19500,2,0,0,1,0
 15522,Enlightened Chain,1,1,30000,2,0,0,1,0
 15523,Chivalrous Chain,1,1,40000,1,0,0,1,0
