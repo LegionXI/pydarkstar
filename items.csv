@@ -18,7 +18,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 623,Bay Leaves,1,1,117,4,1,1,1404,2
 624,Pamtam Kelp,1,1,47,4,1,1,564,2
 625,Apple Vinegar,1,1,66,4,1,1,792,2
-626,Black Pepper,1,1,255,4,1,1,3060,2
+626,Black Pepper,1,1,234,4,1,1,2808,2
 628,Cinnamon,1,1,234,4,1,1,2808,2
 629,Millioncorn,1,1,48,4,1,1,576,2
 630,Ogre Pumpkin,1,1,86,4,1,1,1032,2
@@ -32,7 +32,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 640,Copper Ore,1,1,10,4,1,1,120,2
 641,Tin Ore,1,1,500,2,1,1,6000,1
 642,Zinc Ore,1,1,500,2,1,1,6000,1
-643,Iron Ore,1,1,1000,2,1,1,12000,1
+643,Iron Ore,1,1,810,2,1,1,9720,1
 644,Mythril Ore,1,1,1000,2,1,1,12000,1
 645,Darksteel Ore,1,1,3000,2,1,1,36000,1
 646,Adaman Ore,1,1,7000,1,1,1,84000,1
@@ -254,7 +254,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4353,Sea Bass Croute,1,1,13000,3,1,1,156000,1
 4354,Shining Trout,1,1,500,1,1,1,6000,1
 4355,Salmon Sub Sandwich,1,1,3000,3,1,1,36000,1
-4356,Loaf Of White Bread,1,1,2000,3,1,1,24000,1
+4356,Loaf Of White Bread,1,1,180,3,1,1,2160,1
 4359,Dhalmel Meat,1,1,216,4,1,1,2592,2
 4360,Bastore Sardine,1,1,41,4,1,1,492,2
 4361,Nebimonite,1,1,1289,4,1,1,15468,2
@@ -268,7 +268,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4376,Meat Jerky,1,1,108,4,1,1,1296,2
 4378,Selbina Milk,1,1,54,4,1,1,648,2
 4379,Cheval Salmon,1,1,1000,1,1,1,12000,1
-4380,Smoked Salmon,1,1,1000,3,1,1,12000,1
+4380,Smoked Salmon,1,1,198,3,1,1,2376,1
 4381,Meat Mithkabob,1,1,1000,3,1,1,12000,1
 4382,Frost Turnip,1,1,28,4,1,1,336,2
 4383,Gold Lobster,1,1,1134,4,1,1,13608,2
@@ -422,7 +422,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4557,Steamed Catfish,1,1,5000,3,0,0,1,0
 4558,Bottle Of Yagudo Drink,1,1,2000,3,0,0,1,0
 4559,Serving Of Herb Quus,1,1,6000,3,0,0,1,0
-4560,Bowl Of Vegetable Soup,1,1,3500,3,0,0,1,0
+4560,Bowl Of Vegetable Soup,1,1,1355,3,0,0,1,0
 4561,Bowl Of Seafood Stew,1,1,15000,3,0,0,1,0
 4563,Pamama Tart,1,1,4000,3,1,1,48000,1
 4564,Royal Omelette,1,1,12000,3,0,0,1,0
@@ -720,7 +720,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5004,Scroll Of Valor Minuet III,1,1,5667,4,0,0,1,0
 5005,Scroll Of Valor Minuet IV,1,1,30000,1,0,0,1,0
 5006,Scroll Of Valor Minuet V,1,1,53820,4,0,0,1,0
-5007,Scroll Of Sword Madrigal,1,1,3000,2,0,0,1,0
+5007,Scroll Of Sword Madrigal,1,1,163,2,0,0,1,0
 5008,Scroll Of Blade Madrigal,1,1,8000,1,0,0,1,0
 5009,Scroll Of Hunter's Prelude,1,1,10000,1,0,0,1,0
 5010,Scroll Of Archer's Prelude,1,1,18500,1,0,0,1,0
@@ -738,13 +738,13 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5028,Scroll Of Victory March,1,1,20000,1,0,0,1,0
 5029,Scroll Of Battlefield Elegy,1,1,20000,1,0,0,1,0
 5030,Scroll Of Carnage Elegy,1,1,10000,1,0,0,1,0
-5032,Scroll Of Sinewy Etude,1,1,10000,1,0,0,1,0
-5033,Scroll Of Dextrous Etude,1,1,10000,1,0,0,1,0
-5034,Scroll Of Vivacious Etude,1,1,10000,1,0,0,1,0
-5035,Scroll Of Quick Etude,1,1,10000,2,0,0,1,0
-5036,Scroll Of Learned Etude,1,1,10000,2,0,0,1,0
-5037,Scroll Of Spirited Etude,1,1,10000,2,0,0,1,0
-5038,Scroll Of Enchanting Etude,1,1,10000,2,0,0,1,0
+5032,Scroll Of Sinewy Etude,1,1,3146,1,0,0,1,0
+5033,Scroll Of Dextrous Etude,1,1,2815,1,0,0,1,0
+5034,Scroll Of Vivacious Etude,1,1,2208,1,0,0,1,0
+5035,Scroll Of Quick Etude,1,1,1913,2,0,0,1,0
+5036,Scroll Of Learned Etude,1,1,1567,2,0,0,1,0
+5037,Scroll Of Spirited Etude,1,1,1265,2,0,0,1,0
+5038,Scroll Of Enchanting Etude,1,1,1000,2,0,0,1,0
 5039,Scroll Of Herculean Etude,1,1,20000,4,0,0,1,0
 5040,Scroll Of Uncanny Etude,1,1,20000,4,0,0,1,0
 5041,Scroll Of Vital Etude,1,1,18000,4,0,0,1,0
@@ -865,12 +865,12 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5263,Dish Of Spaghetti Tonno Rosso,1,1,3000,3,1,1,36000,1
 5266,Blackened Muddy Siredon,1,1,5000,3,0,0,1,0
 5299,Salsa,1,1,133,4,0,0,1596,0
-5308,Toolbag (uchitake),1,1,9900,1,1,1,118800,1
+5308,Toolbag (uchitake),1,1,9504,1,1,1,114048,1
 5309,Toolbag (tsurara),1,1,9900,1,1,1,118800,1
 5310,Toolbag (kawahori-ogi),1,1,109989,1,1,1,1319868,1
-5311,Toolbag (makibishi),1,1,99000,1,1,1,1188000,1
+5311,Toolbag (makibishi),1,1,11628,1,1,1,139536,1
 5312,Toolbag (hiraishin),1,1,19800,1,1,1,237600,1
-5313,Toolbag (mizu-deppo),1,1,10890,1,1,1,130680,1
+5313,Toolbag (mizu-deppo),1,1,6336,1,1,1,76032,1
 5314,Toolbag (shihei),1,1,9900,1,1,1,118800,1
 5315,Toolbag (jusatsu),1,1,49500,1,1,1,594000,1
 5316,Toolbag (kaginawa),1,1,39600,1,1,1,475200,1
@@ -3056,7 +3056,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 17073,Mistilteinn,0,1,70000,0,0,0,1,0
 17076,Earth Wand,1,1,2000,3,0,0,1,0
 17080,Holy Maul,1,1,10000,3,0,0,1,0
-17081,Brass Rod,1,1,834,4,0,0,1,0
+17081,Brass Rod,1,1,621,4,0,0,1,0
 17082,Tactician Magician's Wand,1,1,7000,2,0,0,1,0
 17083,Time Hammer,1,1,13000,3,0,0,1,0
 17085,Holy Wand,1,1,20000,2,0,0,1,0
