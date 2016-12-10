@@ -97,17 +97,17 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 1120,Casablanca,1,1,1620,4,1,1,19440,2
 1134,Bast Parchment,1,1,810,4,1,1,9720,2
 1155,Iron Sand,1,1,100,4,1,1,1200,2
-1161,Uchitake,1,1,66,4,1,1,792,2
-1164,Tsurara,1,1,30,4,1,1,360,2
-1167,Kawahori-Ogi,1,1,58,4,1,1,696,2
-1170,Makibishi,1,1,58,4,1,1,696,2
-1173,Hiraishin,1,1,56,4,1,1,672,2
-1176,Mizu-Deppo,1,1,44,4,1,1,528,2
+1161,Uchitake,1,1,66,4,1,1,6534,2
+1164,Tsurara,1,1,30,4,1,1,2970,2
+1167,Kawahori-Ogi,1,1,58,4,1,1,5742,2
+1170,Makibishi,1,1,58,4,1,1,5742,2
+1173,Hiraishin,1,1,56,4,1,1,5544,2
+1176,Mizu-Deppo,1,1,44,4,1,1,4356,2
 1179,Shihei,1,1,100,3,1,1,9900,1
 1182,Jusatsu,1,1,500,3,1,1,49500,1
 1185,Kaginawa,1,1,400,3,1,1,39600,1
 1188,Sairui-ran,1,1,90,3,1,1,8910,1
-1191,Kodoku,1,1,1500,3,1,1,148500,1
+1191,Kodoku,1,1,500,3,1,1,49500,1
 1194,Shinobi-tabi,1,1,400,3,1,1,39600,1
 1210,Damp Scroll,1,1,795000,3,0,0,1,0
 1239,Goblin Doll,1,1,490,4,1,1,5880,2
@@ -865,17 +865,17 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5263,Dish Of Spaghetti Tonno Rosso,1,1,3000,3,1,1,36000,1
 5266,Blackened Muddy Siredon,1,1,5000,3,0,0,1,0
 5299,Salsa,1,1,133,4,0,0,1596,0
-5308,Toolbag (uchitake),1,1,9504,1,1,1,114048,1
-5309,Toolbag (tsurara),1,1,9900,1,1,1,118800,1
-5310,Toolbag (kawahori-ogi),1,1,109989,1,1,1,1319868,1
-5311,Toolbag (makibishi),1,1,11628,1,1,1,139536,1
-5312,Toolbag (hiraishin),1,1,19800,1,1,1,237600,1
+5308,Toolbag (uchitake),1,1,6534,1,1,1,78408,1
+5309,Toolbag (tsurara),1,1,2970,1,1,1,35640,1
+5310,Toolbag (kawahori-ogi),1,1,5742,1,1,1,68904,1
+5311,Toolbag (makibishi),1,1,5742,1,1,1,68904,1
+5312,Toolbag (hiraishin),1,1,5544,1,1,1,66528,1
 5313,Toolbag (mizu-deppo),1,1,6336,1,1,1,76032,1
 5314,Toolbag (shihei),1,1,9900,1,1,1,118800,1
 5315,Toolbag (jusatsu),1,1,49500,1,1,1,594000,1
 5316,Toolbag (kaginawa),1,1,39600,1,1,1,475200,1
 5317,Toolbag (sairui-ran),1,1,8910,1,1,1,106920,1
-5318,Toolbag (kodoku),1,1,148500,1,1,1,1782000,1
+5318,Toolbag (kodoku),1,1,49500,1,1,1,594000,1
 5319,Toolbag (shinobi-tabi),1,1,39600,3,1,1,475200,1
 5417,Toolbag (sanjaku-tenugui),1,1,50985,1,1,1,611820,1
 5446,Red Bubble-eye,1,1,2500,1,1,1,30000,1
