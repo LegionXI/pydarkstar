@@ -191,6 +191,8 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4269,Bijou Glace,1,1,7000,3,0,0,1,0
 4270,Sweet Rice Cake,1,1,1000,3,1,1,12000,1
 4271,Rice Dumpling,1,1,2000,3,1,1,24000,1
+4273,Kitron,1,1,1000,3,1,1,12000,1
+4274,Persikos,1,1,1000,3,1,1,12000,1
 4275,Serving Of Emperor Roe,1,1,2000,3,1,1,24000,1
 4276,Serving Of Flint Caviar,1,1,1000,3,1,1,12000,1
 4277,Tonosama Rice Ball,1,1,1000,3,1,1,12000,1
