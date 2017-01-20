@@ -183,7 +183,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4154,Holy Water,1,1,3000,4,1,1,36000,2
 4155,Remedy,1,1,2400,4,1,1,28800,2
 4163,Blinding Potion,1,1,1092,4,1,1,13104,2
-4235,Hobgoblin Pie,1,1,2000,3,1,1,24000,1
+4235,Cursed Soup,0,0,20000,0,0,0,200000,0
 4238,Loaf Of Hobgoblin Bread,1,1,1000,3,1,1,12000,1
 4266,Fulm-long Salmon Sub,1,1,6500,3,1,1,78000,1
 4267,Buttered Nebimonite,1,1,3000,3,1,1,36000,1
@@ -234,6 +234,7 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4319,Tricorn,1,1,25000,1,0,0,1,0
 4323,Bowl Of Vegetable Broth,1,1,2000,3,0,0,1,0
 4324,Chunk Of Hobgoblin Chocolate,1,1,2000,3,1,1,198000,1
+4325,Hobgoblin Pie,1,1,2000,3,1,1,24000,1
 4326,Serving Of Frog Flambe,1,1,1000,3,1,1,12000,1
 4327,Bowl Of Emerald Soup,1,1,2000,3,0,0,1,0
 4329,Serving Of Newt Flambe,1,1,3000,3,0,0,1,0
