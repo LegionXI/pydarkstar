@@ -154,9 +154,9 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 2792,Catalytic Oil,1,1,92,4,1,1,1104,2
 2859,Cobalt Ore,1,1,10000,0,1,1,120000,0
 2970,Mokujin,1,1,1000,3,1,1,99000,1
-2971,Inoshishinofuda,1,1,1000,3,1,1,99000,1
-2972,Shikanofuda,1,1,1000,3,1,1,99000,1
-2973,Chonofuda,1,1,1000,3,1,1,99000,1
+2971,Inoshishinofuda,1,1,135,3,1,1,13500,1
+2972,Shikanofuda,1,1,180,3,1,1,18000,1
+2973,Chonofuda,1,1,180,3,1,1,18000,1
 4096,Fire Crystal,1,1,1000,3,1,1,12000,1
 4097,Ice Crystal,1,1,992,2,1,1,11904,1
 4098,Wind Crystal,1,1,700,2,1,1,8400,1
@@ -1062,9 +1062,9 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5864,Toolbag (jinko),1,1,99000,1,1,1,1188000,1
 5865,Toolbag (ryuno),1,1,99000,1,1,1,1188000,1
 5866,Toolbag (mokujin),1,1,99000,1,1,1,1188000,1
-5867,Toolbag (inoshishinofuda),1,1,99000,1,1,1,1188000,1
-5868,Toolbag (shikanofuda),1,1,99000,1,1,1,1188000,1
-5869,Toolbag (chonofuda),1,1,99000,1,1,1,1188000,1
+5867,Toolbag (inoshishinofuda),1,1,13500,1,1,1,162000,1
+5868,Toolbag (shikanofuda),1,1,18000,1,1,1,216000,1
+5869,Toolbag (chonofuda),1,1,18000,1,1,1,216000,1
 5885,Saltena,1,1,10000,3,1,1,120000,1
 5886,Elshena,1,1,12000,3,1,1,144000,1
 5887,Montagna,1,1,7000,3,1,1,84000,1
