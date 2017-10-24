@@ -14,8 +14,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 617,Ginger,1,1,139,4,1,1,1668,2
 618,Blue Peas,1,1,25,4,1,1,300,2
 619,Popoto,1,1,43,4,1,1,516,2
-621,Crying Mustard,1,1,25,4,1,1,300,2
-622,Dried Marjoram,1,1,43,4,1,1,516,2
 623,Bay Leaves,1,1,117,4,1,1,1404,2
 624,Pamtam Kelp,1,1,47,4,1,1,564,2
 625,Apple Vinegar,1,1,66,4,1,1,792,2
@@ -27,8 +25,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 632,Kukuru Bean,1,1,108,4,1,1,1296,2
 633,Olive Oil,1,1,14,4,1,1,168,2
 635,Windurstian Tea Leaves,1,1,18,4,1,1,216,2
-636,Chamomile,1,1,117,4,1,1,1404,2
-638,Sage,1,1,166,4,1,1,1992,2
 639,Chestnut,1,1,108,4,1,1,1296,2
 640,Copper Ore,1,1,10,4,1,1,120,2
 641,Tin Ore,1,1,500,2,1,1,6000,1
@@ -80,21 +76,15 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 840,Chocobo Feather,1,1,7,4,1,1,84,2
 841,Yagudo Feather,1,1,36,4,1,1,432,2
 864,Fish Scales,1,1,86,4,1,1,1032,2
-915,Toad Oil,1,1,2700,4,1,1,32400,2
 916,Cactuar Needle,1,1,837,4,1,1,10044,2
 924,Fiend Blood,1,1,556,4,1,1,6672,2
-928,Bomb Ash,1,1,473,4,1,1,5676,2
 936,Rock Salt,1,1,16,4,1,1,192,2
-943,Poison Dust,1,1,294,4,1,1,3528,2
-944,Venom Dust,1,1,1035,4,1,1,12420,2
-951,Wijnruit,1,1,108,4,1,1,1296,2
 952,Poison Flour,1,1,515,4,1,1,6180,2
 954,Magic Pot Shard,1,1,1000,4,1,1,12000,2
 1020,Sickle,1,1,300,4,1,1,3600,2
 1021,Hatchet,1,1,500,4,1,1,6000,2
 1022,Thief's Tools,1,1,3643,4,1,1,43716,2
 1023,Living Key,1,1,5520,4,1,1,66240,2
-1108,Sulfur,1,1,688,4,1,1,8256,2
 1120,Casablanca,1,1,1620,4,1,1,19440,2
 1134,Bast Parchment,1,1,810,4,1,1,9720,2
 1155,Iron Sand,1,1,100,4,1,1,1200,2
@@ -173,7 +163,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4109,Water Cluster,1,1,10500,1,1,1,126000,1
 4110,Light Cluster,1,1,10000,0,1,1,120000,1
 4111,Dark Cluster,1,1,10000,0,1,1,120000,1
-4112,Potion,1,1,837,4,1,1,10044,2
 4116,Hi-Potion,1,1,900,4,1,1,10800,2
 4128,Ether,1,1,500,4,1,1,6000,2
 4132,Hi-Ether,1,1,1000,4,1,1,12000,2
@@ -330,7 +319,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4440,Bowl Of Whitefish Stew,1,1,20000,3,0,0,1,0
 4441,Grape Juice,1,1,855,4,1,1,10260,2
 4442,Pineapple Juice,1,1,368,4,1,1,4416,2
-4443,Cobalt Jellyfish,1,1,63,4,1,1,756,2
 4444,Rarab Tail,1,1,21,4,1,1,252,2
 4445,Yagudo Cherry,1,1,39,4,1,1,468,2
 4446,Pumpkin Pie,1,1,2000,3,1,1,24000,1
