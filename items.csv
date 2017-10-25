@@ -7,19 +7,10 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 217,Brass Flowerpot,1,1,920,4,0,0,1,0
 483,Broken Mithran Fishing Ro,1,1,1000,5,0,0,1,0
 605,Pickaxe,1,1,180,4,1,1,2160,2
-610,San d'Orian Flour,1,1,54,4,1,1,648,2
-611,Rye Flour,1,1,36,4,1,1,432,2
-612,Kazham Peppers,1,1,54,4,1,1,648,2
-614,Mhaura Garlic,1,1,72,4,1,1,864,2
 617,Ginger,1,1,139,4,1,1,1668,2
-618,Blue Peas,1,1,25,4,1,1,300,2
-619,Popoto,1,1,43,4,1,1,516,2
 623,Bay Leaves,1,1,117,4,1,1,1404,2
 624,Pamtam Kelp,1,1,47,4,1,1,564,2
-625,Apple Vinegar,1,1,66,4,1,1,792,2
 626,Black Pepper,1,1,234,4,1,1,2808,2
-628,Cinnamon,1,1,234,4,1,1,2808,2
-629,Millioncorn,1,1,48,4,1,1,576,2
 630,Ogre Pumpkin,1,1,86,4,1,1,1032,2
 631,Horo Flour,1,1,36,4,1,1,432,2
 632,Kukuru Bean,1,1,108,4,1,1,1296,2
@@ -75,10 +66,8 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 829,Silk Cloth,1,1,7500,4,1,1,90000,2
 840,Chocobo Feather,1,1,7,4,1,1,84,2
 841,Yagudo Feather,1,1,36,4,1,1,432,2
-864,Fish Scales,1,1,86,4,1,1,1032,2
 916,Cactuar Needle,1,1,837,4,1,1,10044,2
 924,Fiend Blood,1,1,556,4,1,1,6672,2
-936,Rock Salt,1,1,16,4,1,1,192,2
 952,Poison Flour,1,1,515,4,1,1,6180,2
 954,Magic Pot Shard,1,1,1000,4,1,1,12000,2
 1020,Sickle,1,1,300,4,1,1,3600,2
@@ -114,13 +103,9 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 1472,Gardenia Seed,1,1,369,4,1,1,4428,2
 1475,Curry Powder,1,1,579,4,1,1,6948,2
 1523,Apple Mint,1,1,284,4,1,1,3408,2
-1554,Turmeric,1,1,431,4,1,1,5172,2
-1555,Coriander,1,1,1061,4,1,1,12732,2
-1590,Holy Basil,1,1,536,4,1,1,6432,2
 1650,Kopparnickel Ore,1,1,500,4,1,1,6000,2
 1652,Rice Vinegar,1,1,150,4,1,1,1800,2
 1817,Cactus Arm,1,1,728,4,1,1,8736,2
-1840,Semolina,1,1,1800,4,1,1,21600,2
 2176,Fire Card,1,1,48,4,1,1,576,2
 2177,Ice Card,1,1,48,4,1,1,576,2
 2178,Wind Card,1,1,48,4,1,1,576,2
@@ -251,27 +236,20 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4359,Dhalmel Meat,1,1,216,4,1,1,2592,2
 4360,Bastore Sardine,1,1,41,4,1,1,492,2
 4361,Nebimonite,1,1,1289,4,1,1,15468,2
-4363,Faerie Apple,1,1,39,4,1,1,468,2
 4364,Loaf Of Black Bread,1,1,50,3,1,1,600,1
 4365,Rolanberry,1,1,120,4,1,1,1440,2
-4366,La Theine Cabbage,1,1,21,4,1,1,252,2
 4371,Slice Of Grilled Hare,1,1,1000,3,0,0,1,0
 4372,Giant Sheep Meat,1,1,43,4,1,1,516,2
 4375,Danceshroom,1,1,1100,4,1,1,13200,2
 4376,Meat Jerky,1,1,108,4,1,1,1296,2
-4378,Selbina Milk,1,1,54,4,1,1,648,2
 4379,Cheval Salmon,1,1,1000,1,1,1,12000,1
-4380,Smoked Salmon,1,1,198,3,1,1,2376,1
 4381,Meat Mithkabob,1,1,1000,3,1,1,12000,1
 4382,Frost Turnip,1,1,28,4,1,1,336,2
 4383,Gold Lobster,1,1,1134,4,1,1,13608,2
 4384,Black Sole,1,1,5250,4,1,1,63000,2
 4385,Zafmlug Bass,1,1,235,4,1,1,2820,2
 4388,Eggplant,1,1,44,4,1,1,528,2
-4389,San d'Orian Carrot,1,1,28,4,1,1,336,2
-4390,Mithran Tomato,1,1,36,4,1,1,432,2
 4391,Bretzel,1,1,21,4,1,1,252,2
-4392,Saruta Orange,1,1,28,4,1,1,336,2
 4393,Orange Kuchen,1,1,1000,3,0,0,1,0
 4394,Ginger Cookie,1,1,10,3,1,1,990,1
 4395,Galkan Sausage,1,1,2000,3,1,1,24000,1
@@ -286,11 +264,9 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4405,Rice Ball,1,1,144,4,1,1,1728,2
 4406,Baked Apple,1,1,1000,3,1,1,12000,1
 4407,Carp Sushi,1,1,1000,3,1,1,12000,1
-4408,Tortilla,1,1,100,3,1,1,1200,1
 4409,Hard-boiled Egg,1,1,500,3,1,1,6000,1
 4410,Roast Mushroom,1,1,344,4,1,1,4128,2
 4411,Dhalmel Pie,1,1,1000,3,1,1,12000,1
-4412,Thundermelon,1,1,295,4,1,1,3540,2
 4413,Apple Pie,1,1,1000,3,1,1,12000,1
 4414,Rolanberry Pie,1,1,1000,3,1,1,12000,1
 4415,Roasted Corn,1,1,111,4,1,1,1332,2
@@ -299,16 +275,13 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4418,Bowl Of Turtle Soup,1,1,10000,3,0,0,1,0
 4420,Bowl Of Tomato Soup,1,1,4200,3,0,0,1,0
 4421,Melon Pie,1,1,1000,3,1,1,12000,1
-4422,Orange Juice,1,1,180,4,1,1,2160,2
 4423,Apple Juice,1,1,276,4,1,1,3312,2
 4424,Melon Juice,1,1,1012,4,1,1,12144,2
-4425,Bottle Of Tomato Juice,1,1,1000,3,0,0,1,0
 4426,Tricolored Carp,1,1,100,1,1,1,1200,1
 4427,Gold Carp,1,1,100,1,1,1,1200,1
 4428,Dark Bass,1,1,100,1,1,1,1200,1
 4429,Black Eel,1,1,1000,1,1,1,12000,1
 4430,Bowl Of Pumpkin Soup,1,1,1000,3,0,0,1,0
-4431,San d'Orian Grape,1,1,68,4,1,1,816,2
 4432,Kazham Pineapl.,1,1,54,4,1,1,648,2
 4433,Bowl Of Dhalmel Stew,1,1,100,3,0,0,1,0
 4434,Plate Of Mushroom Risotto,1,1,3000,3,0,0,1,0
@@ -318,7 +291,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4439,Bowl Of Navarin,1,1,3000,3,0,0,1,0
 4440,Bowl Of Whitefish Stew,1,1,20000,3,0,0,1,0
 4441,Grape Juice,1,1,855,4,1,1,10260,2
-4442,Pineapple Juice,1,1,368,4,1,1,4416,2
 4444,Rarab Tail,1,1,21,4,1,1,252,2
 4445,Yagudo Cherry,1,1,39,4,1,1,468,2
 4446,Pumpkin Pie,1,1,2000,3,1,1,24000,1
@@ -327,7 +299,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4452,Bowl Of Shark Fin Soup,1,1,20000,3,0,0,1,0
 4453,Bowl Of Eyeball Soup,1,1,5000,3,0,0,1,0
 4454,Emperor Fish,1,1,2000,1,0,0,1,0
-4455,Pebble Soup,1,1,184,4,1,1,2208,2
 4456,Boiled Crab,1,1,1000,3,1,1,12000,1
 4457,Eel Kabob,1,1,2700,4,1,1,32400,2
 4458,Goblin Bread,1,1,276,4,1,1,3312,2
@@ -339,7 +310,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4465,Bowl Of Goblin Stew,1,1,50,3,0,0,1,0
 4466,Spicy Cracker,1,1,500,3,1,1,6000,1
 4467,Garlic Cracker,1,1,3,4,1,1,36,2
-4468,Pamamas,1,1,72,4,1,1,864,2
 4469,Giant Catfish,1,1,1000,5,0,0,1,0
 4470,Icefish,1,1,2000,1,1,1,24000,1
 4471,Bladefish,1,1,10000,1,1,1,1,0
@@ -360,7 +330,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4487,Colored Egg,1,1,1000,3,1,1,12000,1
 4489,Bowl Of Vegetable Gruel,1,1,2000,3,0,0,1,0
 4490,Pickled Herring,1,1,441,4,1,1,5292,2
-4491,Watermelon,1,1,182,4,1,1,2184,2
 4492,Bowl Of Puls,1,1,2000,3,0,0,1,0
 4493,Cup Of Windurstian Tea,1,1,2000,3,0,0,1,0
 4494,Pot Of San D'Orian Tea,1,1,5000,3,0,0,1,0
@@ -375,7 +344,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4505,Sunflower Seeds,1,1,90,4,1,1,1080,2
 4506,Mutton Tortilla,1,1,6000,3,1,1,72000,1
 4507,Rarab Meatball,1,1,2000,3,0,0,1,0
-4509,Distilled Water,1,1,12,4,1,1,144,2
 4510,Acorn Cookie,1,1,21,3,1,1,252,1
 4512,Bottle Of Vampire Juice,1,1,2000,3,0,0,1,0
 4514,Quus,1,1,60,4,1,1,720,2
@@ -394,7 +362,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4534,Bowl Of Medicinal Gruel,1,1,10000,3,0,0,1,0
 4535,Boiled Crayfish,1,1,300,3,1,1,3600,1
 4536,Blackened Frog,1,1,3133,4,1,1,37596,2
-4537,Roast Carp,1,1,500,3,1,1,6000,1
 4538,Roast Pipira,1,1,1000,3,1,1,12000,1
 4539,Goblin Pie,1,1,650,4,1,1,7800,2
 4540,Boiled Tuna Head,1,1,2000,3,0,0,1,0
@@ -419,7 +386,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 4563,Pamama Tart,1,1,4000,3,1,1,48000,1
 4564,Royal Omelette,1,1,12000,3,0,0,1,0
 4568,Moon Ball,1,1,700,3,1,1,8400,1
-4571,Beaugreens,1,1,90,4,1,1,1080,2
 4573,Loaf Of Steel Bread,1,1,200,3,1,1,2400,1
 4574,Meat Chiefkabob,1,1,2000,3,1,1,24000,1
 4575,Fish Chiefkabob,1,1,1900,3,1,1,22800,1
@@ -820,7 +786,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 5157,Serving Of Marbled Steak,1,1,12000,3,0,0,1,0
 5158,Serving Of Vermillion Jelly,1,1,20000,3,0,0,1,0
 5159,Plate Of Friture De La Misareaux,1,1,7777,3,0,0,1,0
-5164,Ground Wasabi,1,1,1945,4,0,0,1,0
 5165,Movalpolos Water,1,1,720,4,0,0,1,0
 5166,Coeurl Sub,1,1,3000,3,1,1,36000,1
 5174,Tavnazian Taco,1,1,5000,3,1,1,60000,1
@@ -3392,7 +3357,6 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 17315,Riot Grenade,1,1,5520,4,1,1,66240,2
 17316,Bomb Arm,1,1,690,4,1,1,8280,2
 17318,Wooden Arrow,1,1,3,4,1,1,36,2
-17319,Bone Arrow,1,1,4,4,1,1,48,2
 17320,Iron Arrow,1,1,8,4,1,1,96,2
 17321,Silver Arrow,1,1,16,4,1,1,192,2
 17322,Fire Arrow,1,1,81,4,1,1,972,2
