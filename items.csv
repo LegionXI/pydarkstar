@@ -4334,3 +4334,299 @@ itemid,name,sell01,buy01,price01,stock01,sell12,buy12,price12,stock12
 21497,Rapid Broth,1,1,2371,4,1,1,28452,2
 21498,Crackling Broth,1,1,1474,4,1,1,17688,2
 21499,Creepy Broth,1,1,2425,4,1,1,29100,2
+12951,Bronze Leggings +1,1,1,1000,1,1,1,1,1
+12960,Bronze Leggings,1,1,1000,0,1,1,1,1
+,Ash Clogs +1,1,1,2000,3,1,1,1,1
+,Ash Clogs,1,1,1000,4,1,1,1,1
+,Rusty Leggings,1,1,1000,4,1,1,1,1
+,Vagabond's Boots,1,1,8000,4,1,1,1,1
+,Fisherman's Boots,1,1,2000,4,1,1,1,1
+,Chocobo Boots,1,1,6000,4,1,1,1,1
+,Field Boots,1,1,5000,4,1,1,1,1
+,Coarse Leggings,1,1,1000,4,1,1,1,1
+,Leather Highboots,1,1,1000,4,1,1,1,1
+,Leather Highboots +1,1,1,5000,3,1,1,1,1
+,Leaping Boots,0,0,400000,0,1,1,1,1
+,Kyahan,1,1,1000,4,1,1,1,1
+,Solea,1,1,1000,4,1,1,1,1
+,Kyahan +1,1,1,9500,3,1,1,1,1
+,Solea +1,1,1,10000,3,1,1,1,1
+,Scale Greaves,1,1,1000,4,1,1,1,1
+,Legionnaire's Leggings,1,1,3000,4,1,1,1,1
+,Royal Footman's Boots,1,1,3000,3,1,1,1,1
+,Solid Greaves,1,1,5000,4,1,1,1,1
+,Brass Leggings,1,1,1000,4,1,1,1,1
+,Gaiters,1,1,1000,4,1,1,1,1
+,Brass Leggings +1,1,1,6000,3,1,1,1,1
+,Gaiters +1,1,1,5000,3,1,1,1,1
+,Holly Clogs,1,1,1000,4,1,1,1,1
+,Holly Clogs +1,1,1,5000,3,1,1,1,1
+,Light Soleas,1,1,10000,4,1,1,1,1
+,Bastokan Leggings,1,1,5000,4,1,1,1,1
+,Republic Leggings,1,1,10000,3,1,1,1,1
+,San D'Orian Boots,1,1,10000,4,1,1,1,1
+,Kingdom Boots,1,1,20000,3,1,1,1,1
+,Nomad's Boots,1,1,10000,4,1,1,1,1
+,Angler's Boots,1,1,30000,4,1,1,1,1
+,Rider's Boots,1,1,10000,4,1,1,1,1
+,Worker Boots,1,1,40000,4,1,1,1,1
+,Bone Leggings,1,1,4000,4,1,1,1,1
+,Bone Leggings +1,1,1,20000,3,1,1,1,1
+,Lizard Ledelsens,1,1,5000,4,1,1,1,1
+,Fine Ledelsens,1,1,10000,4,1,1,1,1
+,Mettle Leggings,1,1,20000,4,1,1,1,1
+,Mettle Leggings +1,1,1,99500,3,1,1,1,1
+,Cotton Kyahan,1,1,3000,4,1,1,1,1
+,Cotton Kyahan +1,1,1,5000,3,1,1,1,1
+,Garrison Boots,1,1,50000,4,1,1,1,1
+,Mercenary's Kyahan,1,1,3550,3,1,1,1,1
+,Sandals,1,1,2000,4,1,1,1,1
+,Royal Footman's Clogs,1,1,4250,4,1,1,1,1
+,Mage's Sandals,1,1,30000,4,1,1,1,1
+,Strider Boots,0,0,150000,0,1,1,1,1
+,Trader's Pigaches,1,1,20000,3,1,1,1,1
+,Baron's Pigaches,1,1,50000,2,1,1,1,1
+,Beetle Leggings,1,1,3000,3,1,1,1,1
+,Beetle Leggings +1,1,1,30000,2,1,1,1,1
+,Stumbling Sandals,1,1,3000,3,1,1,1,1
+,Cotton Gaiters,1,1,5000,3,1,1,1,1
+,Great Gaiters,1,1,5000,3,1,1,1,1
+,Greaves,1,1,4000,3,1,1,1,1
+,Greaves +1,1,1,10005,2,1,1,1,1
+,Winged Boots,0,0,200000,0,1,1,1,1
+,Winged Boots +1,0,0,600000,0,1,1,1,1
+,San D'Orian Clogs,1,1,10000,3,1,1,1,1
+,Kingdom Clogs,1,1,30000,2,1,1,1,1
+,Windurstian Kyahan,1,1,20000,3,1,1,1,1
+,Federation Kyahan,1,1,32500,2,1,1,1,1
+,Shade Leggings,1,1,20000,3,1,1,1,1
+,Shade Leggings +1,1,1,60000,2,1,1,1,1
+,Brass Greaves,1,1,5000,3,1,1,1,1
+,Brass Greaves +1,1,1,7500,2,1,1,1,1
+,Chestnut Sabots,1,1,2000,3,1,1,1,1
+,Chestnut Sabots +1,1,1,8500,2,1,1,1,1
+,Air Solea,1,1,18000,3,1,1,1,1
+,Air Solea +1,1,1,20000,2,1,1,1,1
+,Soil Kyahan,1,1,3000,3,1,1,1,1
+,Custom M Boots,1,1,50000,3,1,1,1,1
+,Custom F Boots,1,1,50000,3,1,1,1,1
+,Magna M Ledelsens,1,1,50000,3,1,1,1,1
+,Magna F Ledelsens,1,1,50000,3,1,1,1,1
+,Wonder Clomps,1,1,50000,3,1,1,1,1
+,Savage Gaiters,1,1,100000,3,1,1,1,1
+,Elder's Sandals,1,1,50000,3,1,1,1,1
+,Soil Kyahan +1,1,1,5000,2,1,1,1,1
+,Seer's Pumps,1,1,10000,3,1,1,1,1
+,Seer's Pumps +1,1,1,50000,2,1,1,1,1
+,Eisenschuhs,1,1,15000,3,1,1,1,1
+,Kampfschuhs,1,1,30000,2,1,1,1,1
+,Royal Squire's Sollerets,1,1,10000,3,1,1,1,1
+,Centurion's Greaves,1,1,10000,3,1,1,1,1
+,Studded Boots,1,1,3000,3,1,1,1,1
+,Mercenary Captain's Gaiters,1,1,20000,3,1,1,1,1
+,Strong Boots,1,1,5093,3,1,1,1,1
+,Noct Gaiters +1,1,1,20000,2,1,1,1,1
+,Noct Gaiters,1,1,10000,3,1,1,1,1
+,Mist Pumps,1,1,45000,3,1,1,1,1
+,Garish Pumps,1,1,10000,3,1,1,1,1
+,Rubious Pumps,1,1,40000,3,1,1,1,1
+,Shoes,1,1,3000,3,1,1,1,1
+,Shoes +1,1,1,10000,2,1,1,1,1
+,San D'Orian Sollerets,1,1,10000,3,1,1,1,1
+,Kingdom Sollerets,1,1,50000,2,1,1,1,1
+,Bastokan Greaves,1,1,10000,3,1,1,1,1
+,Republic Greaves,1,1,30000,2,1,1,1,1
+,Windurstian Gaiters,1,1,10000,3,1,1,1,1
+,Federation Gaiters,1,1,40000,2,1,1,1,1
+,Leggings,1,1,5000,3,1,1,1,1
+,Leggings +1,1,1,9500,2,1,1,1,1
+,Silver Greaves,1,1,6000,3,1,1,1,1
+,Socks,1,1,5000,3,1,1,1,1
+,Silver Greaves +1,1,1,25000,2,1,1,1,1
+,Socks +1,1,1,15000,2,1,1,1,1
+,Iron Greaves,1,1,10000,3,1,1,1,1
+,Iron Greaves +1,1,1,20000,2,1,1,1,1
+,Cuir Highboots,1,1,10000,3,1,1,1,1
+,Ebony Sabots,1,1,5000,3,1,1,1,1
+,Ebony Sabots +1,1,1,7000,2,1,1,1,1
+,Cuir Highboots +1,1,1,10000,2,1,1,1,1
+,Powder Boots,1,1,30000,3,1,1,1,1
+,Volans Greaves,1,1,10000,3,1,1,1,1
+,Mountain Gaiters,1,1,40000,3,1,1,1,1
+,Fuma Kyahan,1,0,70000,0,1,1,1,1
+,Plate Leggings,1,1,5000,3,1,1,1,1
+,Iron Musketeer's Sabatons,1,1,20000,3,1,1,1,1
+,Combat Caster's Shoes,1,1,15000,3,1,1,1,1
+,Plate Leggings +1,1,1,10000,2,1,1,1,1
+,Opaline Boots,1,1,200000,3,1,1,1,1
+,Ceremonial Boots,1,1,575000,2,1,1,1,1
+,Inferno Sabots,1,1,10000,2,1,1,1,1
+,Inferno Sabots +1,1,1,100000,1,1,1,1,1
+,Iron Musketeer's Sabatons +1,1,1,20000,2,1,1,1,1
+,Iron Musketeer's Sabatons +2,1,1,150000,1,1,1,1,1
+,Combat Caster's Shoes +1,1,1,20000,2,1,1,1,1
+,Combat Caster's Shoes +2,1,1,50000,1,1,1,1,1
+,Carapace Leggings +1,1,1,10000,1,1,1,1,1
+,Carapace Leggings,1,1,10000,2,1,1,1,1
+,Alumine Solerets,1,1,10000,2,1,1,1,1
+,Luisant Solerets,1,1,50000,1,1,1,1,1
+,Iron Ram Sollerets,1,1,30000,2,1,1,1,1
+,Sollerets,1,1,15000,2,1,1,1,1
+,Sollerets +1,1,1,50000,1,1,1,1,1
+,Steel Greaves,1,1,5000,2,1,1,1,1
+,Steel Greaves +1,1,1,40000,1,1,1,1,1
+,Monsoon Kyahan,1,1,5000,2,1,1,1,1
+,Raptor Ledelsens,1,1,10000,2,1,1,1,1
+,Wool Socks,1,1,10000,2,1,1,1,1
+,Wool Socks +1,1,1,20000,1,1,1,1,1
+,Dino Ledelsens,1,1,10000,2,1,1,1,1
+,Mythril Leggings,1,1,20000,2,1,1,1,1
+,Shinobi Kyahan,1,1,10000,2,1,1,1,1
+,Sune-ate,1,1,10000,2,1,1,1,1
+,Shinobi Kyahan +1,1,1,20000,1,1,1,1,1
+,Mythril Leggings +1,1,1,40000,1,1,1,1,1
+,Sune-ate +1,1,1,10000,1,1,1,1,1
+,Royal Knight's Sollerets,1,1,40000,2,1,1,1,1
+,Tactician Magician's Pigaches,1,1,10000,2,1,1,1,1
+,Moccasins,1,1,40000,2,1,1,1,1
+,Moccasins +1,1,1,10000,1,1,1,1,1
+,Austere Sabots,1,1,50000,2,1,1,1,1
+,Penance Sabots,1,1,100000,1,1,1,1,1
+,Crow Gaiters,1,1,20000,2,1,1,1,1
+,Raven Gaiters,1,1,200000,1,1,1,1,1
+,Junkenshi Habaki,1,1,10000,2,1,1,1,1
+,Seikenshi Habaki,1,1,50000,1,1,1,1,1
+,Kung Fu Shoes,1,1,20000,2,1,1,1,1
+,Royal Knight's Sollerets +1,1,1,10000,1,1,1,1,1
+,Tactician Magician's Pigaches +1,1,1,100000,2,1,1,1,1
+,Tactician Magician's Pigaches +2,1,1,1000000,1,1,1,1,1
+,Royal Knight's Sollerets +2,1,1,250000,1,1,1,1,1
+,Pigaches,1,1,30000,2,1,1,1,1
+,Silken Pigaches,1,1,40000,2,1,1,1,1
+,Magi Pigaches,1,1,50000,2,1,1,1,1
+,Pigaches +1,1,1,0,1,1,1,1,1
+,Jaridah Nails,1,1,50000,2,1,1,1,1
+,Akinji Nails,1,1,110000,1,1,1,1,1
+,Fourth Division Sabatons,1,1,10000,2,1,1,1,1
+,Cobra Unit Pigaches,1,1,20000,2,1,1,1,1
+,Scorpion Leggings,1,1,10000,2,1,1,1,1
+,Scorpion Leggings +1,1,1,30000,1,1,1,1,1
+,Beak Ledelsens,1,1,10000,2,1,1,1,1
+,Beak Ledelsens +1,1,1,60000,1,1,1,1,1
+,Darksteel Sollerets,1,1,10000,2,1,1,1,1
+,Battle Boots,1,1,20000,2,1,1,1,1
+,Darksteel Sollerets +1,1,1,25000,1,1,1,1,1
+,Battle Boots +1,1,1,20000,1,1,1,1,1
+,Cure Clogs,1,1,20000,2,1,1,1,1
+,Vampire Boots,1,1,10000,2,1,1,1,1
+,Sipahi Boots,1,1,40000,2,1,1,1,1
+,Abtal Boots,1,1,600000,1,1,1,1,1
+,Tabin Boots,1,1,10000,2,1,1,1,1
+,Tabin Boots +1,1,1,80000,1,1,1,1,1
+,Gold Sabatons,1,1,30000,2,1,1,1,1
+,Gilt Sabatons,1,1,20000,2,1,1,1,1
+,Junrenshi Habaki,1,1,20000,1,1,1,1,1
+,Seirenshi Habaki,1,0,50000,0,1,1,1,1
+,Silk Pumps,1,1,10000,1,1,1,1,1
+,Silk Pumps +1,1,0,10000,0,1,1,1,1
+,Templar Sabatons,1,1,50000,1,1,1,1,1
+,Desert Boots,1,1,50000,1,1,1,1,1
+,Desert Boots +1,1,0,60000,0,1,1,1,1
+,Marine M Boots,1,1,30000,1,1,1,1,1
+,Marine F Boots,1,1,20000,1,1,1,1,1
+,Wood M Ledelsens,1,1,30000,1,1,1,1,1
+,Wood F Ledelsens,1,1,30000,1,1,1,1,1
+,Creek M Clomps,1,1,40000,1,1,1,1,1
+,Creek F Clomps,1,1,20000,1,1,1,1,1
+,River Gaiters,1,1,20000,1,1,1,1,1
+,Dune Sandals,1,1,40000,1,1,1,1,1
+,Tiger Ledelsens,1,1,15000,1,1,1,1,1
+,Feral Ledelsens,1,1,20000,1,1,1,1,1
+,Arhat's Sune-ate,1,1,10000,1,1,1,1,1
+,Arhat's Sune-ate +1,1,0,20000,0,1,1,1,1
+,Mahant Sandals,1,1,10000,1,1,1,1,1
+,Coral Greaves,1,1,20000,1,1,1,1,1
+,Coral Greaves +1,1,0,250000,0,1,1,1,1
+,Darksteel Leggings,1,1,40000,1,1,1,1,1
+,Darksteel Leggings +1,1,0,350000,0,1,1,1,1
+,Caitiff's Socks,1,1,10000,1,1,1,1,1
+,Marid Leggings,1,1,20000,1,1,1,1,1
+,Marid Leggings +1,1,0,0,0,1,1,1,1
+,Darksteel Sabatons,1,1,90000,1,1,1,1,1
+,Coral Leggings,1,1,30000,1,1,1,1,1
+,Darksteel Sabatons +1,1,0,275000,0,1,1,1,1
+,Merman's Leggings,1,1,100000,1,1,1,1,1
+,Wulong Shoes,1,1,22500,1,1,1,1,1
+,Wulong Shoes +1,1,0,300000,0,1,1,1,1
+,Noble's Pumps,1,1,40000,1,1,1,1,1
+,Aristocrat's Pumps,1,0,300551,0,1,1,1,1
+,Thick Sollerets,1,1,30000,1,1,1,1,1
+,Dragon Greaves,1,1,45000,1,1,1,1,1
+,Dragon Greaves +1,1,0,30000,0,1,1,1,1
+,Thick Sollerets +1,1,0,50000,0,1,1,1,1
+,Earth Greaves,1,1,20000,1,1,1,1,1
+,Junhanshi Habaki,1,1,30000,1,1,1,1,1
+,Seihanshi Habaki,1,0,350000,0,1,1,1,1
+,Coeurl Ledelsens,1,1,20000,1,1,1,1,1
+,Torama Ledelsens,1,1,20000,1,1,1,1,1
+,Root Sabots,1,1,10000,1,1,1,1,1
+,Emissary Boots,1,1,40000,1,1,1,1,1
+,War Boots,1,1,10000,1,1,1,1,1
+,Ogre Ledelsens,1,1,8000,1,1,1,1,1
+,War Boots +1,1,0,100000,0,1,1,1,1
+,Ogre Ledelsens +1,1,0,130000,0,1,1,1,1
+,Barone Gambieras,1,1,80000,1,1,1,1,1
+,Conte Gambieras,1,1,1000000,0,1,1,1,1
+,Herald's Gaiters,0,0,900000,0,1,1,1,1
+,Blessed Pumps,1,1,20000,1,1,1,1,1
+,Hachiman Sune-ate,1,1,50000,1,1,1,1,1
+,Blessed Pumps +1,1,1,3000000,0,1,1,1,1
+,Hachiman Sune-ate +1,1,1,200000,0,1,1,1,1
+,Lord's Sabatons,1,1,80000,1,1,1,1,1
+,King's Sabatons,1,1,500000,0,1,1,1,1
+,Hermes' Sandals,0,0,100000,1,1,1,1,1
+,Hermes' Sandals +1,0,0,2495000,0,1,1,1,1
+,Skanda Boots,1,1,10000,1,1,1,1,1
+,Yasha Sune-ate,1,1,15000,1,1,1,1,1
+,Bison Gamashes,1,1,40000,1,1,1,1,1
+,Brave's Gamashes,1,1,200000,0,1,1,1,1
+,Yasha Sune-ate +1,1,1,500000,0,1,1,1,1
+,Black Sollerets,1,1,650000,0,1,1,1,1
+,Onyx Sollerets,1,1,200000,1,1,1,1,1
+,Khimaira Gamashes,1,1,50000,1,1,1,1,1
+,Marabout Sandals,1,1,30000,1,1,1,1,1
+,Llwyd's Clogs,1,1,200000,1,1,1,1,1
+,Stout Gamashes,1,1,1500000,1,1,1,1,1
+,Ebon Leggings,1,1,110000,1,1,1,1,1
+,Ebon Clogs,1,1,150000,1,1,1,1,1
+,Ebon Boots,1,1,120000,1,1,1,1,1
+,Gavial Greaves,1,1,10000,1,1,1,1,1
+,Dusk Ledelsens,1,1,10000,1,1,1,1,1
+,Rasetsu Sune-ate,1,1,10000,1,1,1,1,1
+,Rasetsu Sune-ate +1,1,1,100000,0,1,1,1,1
+,Errant Pigaches,1,1,20000,1,1,1,1,1
+,Mahatma Pigaches,1,1,50000,0,1,1,1,1
+,Dusk Ledelsens +1,1,1,400000,1,1,1,1,1
+,Dance Shoes,1,1,10000,1,1,1,1,1
+,Dance Shoes +1,1,1,30000,0,1,1,1,1
+,Sha'ir Crackows,1,1,20000,1,1,1,1,1
+,Sheikh Crackows,1,1,300000,0,1,1,1,1
+,Fuma Sune-ate,1,1,10000,1,1,1,1,1
+,Wise Pigaches,1,1,10000,1,1,1,1,1
+,Wise Pigaches +1,1,1,100000,0,1,1,1,1
+,Arborist Nails,1,1,30000,1,1,1,1,1
+,Gavial Greaves +1,0,0,0,0,1,1,1,1
+,Hydra Greaves,1,1,40000,1,1,1,1,1
+,Hydra Greaves +1,0,0,0,0,1,1,1,1
+,Adaman Sabatons,1,1,40000,1,1,1,1,1
+,Dragon Leggings,1,1,10000,1,1,1,1,1
+,Dragon Leggings +1,1,1,200000,1,1,1,1,1
+,Gem Sabatons,1,1,150000,0,1,1,1,1
+,Igqira Huaraches,1,1,90000,1,1,1,1,1
+,Karasutengu Kogake,1,1,10000,1,1,1,1,1
+,Genie Huaraches,1,1,800000,0,1,1,1,1
+,Heroic Boots,1,1,20000,1,1,1,1,1
+,Heroic Boots +1,1,1,800000,0,1,1,1,1
+,Unicorn Leggings,1,1,10000,1,1,1,1,1
+,Unicorn Leggings +1,1,1,250000,0,1,1,1,1
+,Spagyric Nails,1,1,50000,1,1,1,1,1
